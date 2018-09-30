@@ -1,0 +1,572 @@
+{
+  "order": [
+    "top-row",
+    "bottom-row",
+    "d-and-z",
+    "basic-number-bar",
+    "aw_ow_-k",
+    "dbl",
+    "ch_th",
+    "i",
+    "m",
+    "f_q",
+    "ay_oy",
+    "n",
+    "oh",
+    "v",
+    "g_j",
+    "x",
+    "you_oo",
+    "y_z",
+    "ee",
+    "sh",
+    "eye",
+    "fingerspelling",
+    "compound_sounds",
+    "unstressed",
+    "shun",
+    "f_as_s",
+    "mp",
+    "nch_rch",
+    "inversion",
+    "con_com",
+    "w_as_v",
+    "rve",
+    "ment",
+    "lge_nge_lk_nk",
+    "ent_int"
+  ],
+  "lessons": {
+    "top-row": {
+      "briefs": [
+        "S",
+        "T",
+        "H",
+        [ "U", "The letter \"U\" is a homophone to \"you\"" ],
+        "-F",
+        "-T",
+        [ "TP-PL", "Period. Next word is capitalized" ],
+        [ "H-F", "Question mark. Next word is capitalized." ],
+        [ "STPH-FPLT", "Colon." ]
+      ],
+      "practice": [
+        "-T HUL S TUF TP-PL",
+        "TAP -T SAP TP-PL",
+        "PUL -T HUL TP-PL",
+        "-T PAL H H T TP-PL",
+        "S -T PUP TUF H-F",
+        "U STPH-FPLT PUL -T TUF PUP TP-PL",
+        "-T HUT H HAF -F -T SALT TP-PL",
+        "U H STAF H-F",
+        "-T STAF SAT TP-PL",
+        "-T HUL S TUF TP-PL",
+        "U SAT TP-PL",
+        "HALT STPH-FPLT PUL T TP-PL",
+        "S T HAF SAP H-F",
+        "T S -T SHAFT TP-PL"
+      ]
+    },
+    "bottom-row": {
+      "briefs": [
+        [ ["R-", "-R" ], "Either side works" ],
+        [ "SKP", "This stroke is arbitrary, remember it by hand shape" ],
+        [ "AEU", "This is the word \"a\"" ],
+        "K",
+        [ "W", "Many people use \"w\" as an abbreviation for \"with\" in longhand writing" ],
+        [ "-B", "The letter \"B\" is a homophone to \"be\"" ],
+        [ [ "HE", "E" ], "Spelling instead of phonetic" ],
+        [ "SHE", "Spelling instead of phonetic" ],
+        [ "WE", "Spelling instead of phonetic" ],
+        [ "SO", "Spelling instead of phonetic" ],
+        [ "TO", "Spelling instead of phonetic" ],
+        [ "OR", "Spelling instead of phonetic" ],
+        [ "KW-BG", "Comma" ]
+      ],
+      "practice": [
+        "-T KAT SKP -T PUG R UP TP-PL",
+        "ROL TO -T TOP TP-PL",
+        "RUB -T SOFT PUG SKP -T KAT TP-PL",
+        "WE H TO STOP -T KAR AT -T KURB TP-PL",
+        "AEU KRAB K KUT US H-F",
+        "U K -B AEU STAR TP-PL",
+        "W AEU TOP HAT U K -B HOT TP-PL",
+        "HUF KW-BG PUF KW-BG SKP STOP TP-PL",
+        "T S AEU KUT -F -T RUG TP-PL",
+        "HUF KW-BG PUF KW-BG SKP START TP-PL",
+        "KUT UP -T RAG TP-PL",
+        "HUG AEU WET RAT TP-PL",
+        "TUG AT -T STRAPS TP-PL",
+        "U H AEU SKUL TP-PL",
+        "U R AEU STAR -F SORTS TP-PL",
+        "S T AEU WORS KUT H-F"
+      ]
+    },
+    "d-and-z": {
+      "briefs": [
+        "TH",
+        "THA",
+        "THE",
+        "WHA",
+        "UD"
+      ],
+      "practice": [
+        "T WAZ HARD TO -B HER TP-PL",
+        "TH S HAF -T STAF SHE HAZ TP-PL",
+        "UD -B WHA THE R H-F",
+        "TH S WAR TP-PL",
+        "THA RAT S SO WET STPH-FPLT HUG HER TP-PL",
+        "SHE PATD -T WET RAT TP-PL",
+        "HE K HED TO -T KAR W HER TP-PL",
+        "E STOPD -T SOFT PUG AT -T TOP -F -T STEPS TP-PL",
+        "SHE PULD -T KART TP-PL",
+        "WHA S TH H-F",
+        "SHE K PET -T KAT KW-BG PUG KW-BG SKP RAT TP-PL",
+        "THE R RUFD UP TP-PL",
+        "THA S KW-BG WEL KW-BG THA S PART -F T TP-PL"
+      ]
+    },
+    "basic-number-bar": {
+      "practice": [
+        "E H #TO OR SO TP-PL",
+        "-F -T #SAO E KEPT #AEUP KW-PL OR HAF TP-PL",
+        "WHA R -T #ST STEPS H-F",
+        "SHE S #HO TP-PL",
+        "E H #O-D TP-PL",
+        "STEP #S STPH-FPLT START TP-PL",
+        "#TOT #SO TP-PL"
+      ]
+    },
+    "aw_ow_-k": {
+      "briefs": [
+        [ ["AULS", "AULZ"] ],
+        "AUFL",
+        "AF",
+        [ "OK", "The letters \"O\" and \"K\"" ],
+        [ "EZ", "The letters \"E\" and \"Z\"" ],
+        "WAUR",
+        "KO",
+        "WO",
+        "SHO"
+      ],
+      "practice": [
+        "WO U TAUK TO US H-F",
+        "WE KO START KW-BG SHO WE H-F",
+        "AULS HUG -T RATS TP-PL",
+        "HOU S -T KAT H-F",
+        "-T WORK S EZ SKP HE S AULZ UP TO T TP-PL",
+        "T S OK KW-BG WE R OK AF AUL TP-PL",
+        "T WAZ AUFL AT -T WAUR TP-PL",
+        "POR HER AEU KUP -F WAUR TP-PL",
+        "HE HAZ -T POUR -F HART TP-PL",
+        "SHE SAU HER AT -T WAUR AF AEU WAUK TP-PL",
+        "HOU R U AULS OK W KATS H-F",
+        "SHO U B W HER H-F",
+        "CO U B W US H-F",
+        "WE WO -B W U TP-PL",
+        "-T RAT WAS W -T WAUR TP-PL",
+        "T S EZ TO -B HER AF AUL TP-PL"
+      ],
+      "vocab": {
+        "-K": [
+          "TAK" ,
+          "WAK" ,
+          "SHAK" ,
+          "ROK" ,
+          "SOK" ,
+          "STRUK"
+        ],
+        "-W": [
+          "SAU",
+          "TAUK",
+          [ "AUL", "`AL` would be \"Al\"" ],
+          "PAUL"
+        ],
+        "OU": [
+          "HOU",
+          "HOUS",
+          "OUT",
+          "OUL"
+        ]
+      }
+    },
+    "dbl": {
+      "briefs": [
+        "D",
+        [ "DO", "Spelling" ],
+        "B",
+        [ ["BAUS", "BAUZ" ] ],
+        "B-FR",
+        "L",
+        "LEF",
+        "BLEF",
+        "L-R",
+        "L-RT",
+        "L-S",
+        "L-BG"
+      ],
+      "practice": [
+        "L-RT KW-BG DO T TP-PL",
+        "L U -B AT -T START OR L U LEF B-FR THA H-F",
+        "HE L WET -T BED TP-PL",
+        "L-S KW-BG K U DO THA H-F",
+        "D U DO WHA HE SEZ U D H-F",
+        "HE L L-S DO -T LAP W HER TP-PL",
+        "D U BLEF WHA SHE D TO HER DAD H-F BAUS T WAZ AUFL SKP PWAD TP-PL",
+        "BLEF HER L-R TP-PL",
+        "AUL -F TH- STUF S SO HARD TO LAF PW TP-PL",
+        "D U BLEF WHA SHE WAS B TO DO H-F",
+        "L U PIK -T RAFT SKP -T DEK H-F",
+        "L-RT L-R KW-BG LEF US OUT TP-PL"
+      ],
+      "vocab": {
+        "D": [
+          "DOG",
+          "DROP",
+          "DAFT",
+          "DUL"
+        ],
+        "B": [
+          "BUD",
+          "BUT",
+          "BED",
+          "BAD",
+          "BART"
+        ],
+        "L": [
+          "LARD",
+          "LAF",
+          "LUL",
+          "BLOB"
+        ]
+      }
+    },
+    "ch_th": {
+      "briefs": [
+        "LOF",
+        "LOFL",
+        "L*T",
+        "TOGT",
+        "L-GT"
+      ],
+      "practice": [
+        "U SHO AULS DO THA B-FR AEU BA*T TP-PL",
+        "-T KAT K SKP L SKRAFP U TP-PL",
+        "SUFP S LOF TP-PL",
+        "T S AEU STREFP BUT SHE K DO T TP-PL",
+        "WE L DO TH AUL TOGT TP-PL",
+        "L-GT WE H LOTS -F STUF TO DO TP-PL",
+        "KHAT W HER TP-PL",
+        "S T WO*RT T TO LEF L-R H-F",
+        "-T SLO*T HAS AEU LOT -F WRA*T TP-PL",
+        "U R AULZ L-K TP-PL",
+        "U KRAUL SKP KROUFP B-FR U WAUK TP-PL",
+        "TH PAFP L -B STREFPD TP-PL",
+        "EFP AEU SKEFP TP-PL",
+        "*ERT S LOFL TP-PL WE L AULS LOF T TP-PL",
+        "L U KAFP -T BAUL B-FR T DROPS H-F",
+        "KHEK -T KHARTS KW-BG OK H-F"
+      ],
+      "vocab": {
+        "KH": [
+          "KHAT",
+          "KHOP",
+          "KHART"
+        ],
+        "-FP": [
+          "WAFP",
+          "SWAFP",
+          "HAFP",
+          "BAFP",
+          "KAFP",
+          "LAFP",
+          [ "TEFP", "This outline is based on spelling. The phonetic version, `TEBG`, also works." ]
+        ],
+        "TH": [
+          "THAU",
+          "THAUT",
+          "THUS",
+          "THRET",
+          "THEFT",
+          "THRED"
+        ],
+        "-TH": [
+          "WRA*T",
+          "BA*T",
+          "PA*T",
+          "D*ET",
+          "*ERT",
+          "DA*RT",
+          "HA*T",
+          "WO*RT"
+        ]
+      }
+    },
+    "i": {
+      "briefs": [
+        ["I", "Always capitalized"],
+        ["HI", "Spelling instead of phonetics"],
+        ["HIS", "Spelling instead of phonetics"],
+        "WI",
+        ["BI", "Spelling instead of phonetics"],
+        "WRI",
+        "THI",
+        "LIF",
+        "LIL",
+        "PRIT",
+        "UR"
+      ],
+      "practice": [
+        "I THI UR PRIT TP-PL",
+        "HI WORLD TP-PL",
+        "WI PA*T DO U THI S OK H-F",
+        "I WRI B AUL SORTS -F KRUD TP-PL",
+        "HIS SKEFP -F HER SHUR S PRIT TP-PL",
+        "I L -B BI -T SHOP TP-PL",
+        "LIL BART PRIT WEL AULS BUGS US WI WE LIF W TP-PL",
+        "-T KAT L HISZ AT -T DOGS AZ THE WAUK BI TP-PL",
+        "-T SLO*T S PRIT AF HER BA*T TP-PL SHE HAZ LES WRA*T TP-PL",
+        "SHE L WRI B WHA LIL SHE HAZ LIFD TP-PL",
+        "WHA DO U THI U R AUL B H-F",
+        "WI TOUR FEL AF -T WAR H-F",
+        "UR SHUR THA SHE WO THI TO DO THA H-F",
+        "I L B OK AF AUL TP-PL",
+        "HI KW-BG I L B W U AF TH TP-PL",
+        "SET IT UP BI -T WAUR TP-PL",
+        "LIL BART S AEU BIG TURD TP-PL",
+        "THA KAT S AEU SOUR PUSZ SKP L HISZ AT US TP-PL",
+        "T S STIL LOFL TO LIF W U AF AUL TH TUF STUF TP-PL",
+        "I LOF U TP-PL"
+      ],
+      "vocab": {
+        "i": [
+          "EUL",
+          "HEUL",
+          "PEUT",
+          "HEUP",
+          "SEUP",
+          "STEUL",
+          "WHEUP",
+          "KEUS",
+          "TEULT",
+          "WREUT"
+        ]
+      }
+    },
+    "m": {
+      "briefs": [
+        ["", ""]
+      ],
+      "practice": [
+
+      ]
+    },
+    "f_q": {
+      "briefs": [
+        ["", ""]
+      ],
+      "practice": [
+
+      ]
+    },
+    "ay_oy": {
+      "briefs": [
+        ["", ""]
+      ],
+      "practice": [
+
+      ]
+    },
+    "n": {
+      "briefs": [
+        ["", ""]
+      ],
+      "practice": [
+
+      ]
+    },
+    "oh": {
+      "briefs": [
+        ["", ""]
+      ],
+      "practice": [
+
+      ]
+    },
+    "v": {
+      "briefs": [
+        ["", ""]
+      ],
+      "practice": [
+
+      ]
+    },
+    "g_j": {
+      "briefs": [
+        ["", ""]
+      ],
+      "practice": [
+
+      ]
+    },
+    "x": {
+      "briefs": [
+        ["", ""]
+      ],
+      "practice": [
+
+      ]
+    },
+    "you_oo": {
+      "briefs": [
+        ["", ""]
+      ],
+      "practice": [
+
+      ]
+    },
+    "y_z": {
+      "briefs": [
+        ["", ""]
+      ],
+      "practice": [
+
+      ]
+    },
+    "ee": {
+      "briefs": [
+        ["", ""]
+      ],
+      "practice": [
+
+      ]
+    },
+    "sh": {
+      "briefs": [
+        ["", ""]
+      ],
+      "practice": [
+
+      ]
+    },
+    "eye": {
+      "briefs": [
+        ["", ""]
+      ],
+      "practice": [
+
+      ]
+    },
+    "fingerspelling": {
+      "briefs": [
+        ["", ""]
+      ],
+      "practice": [
+
+      ]
+    },
+    "compound_sounds": {
+      "briefs": [
+        ["", ""]
+      ],
+      "practice": [
+
+      ]
+    },
+    "unstressed": {
+      "briefs": [
+        ["", ""]
+      ],
+      "practice": [
+
+      ]
+    },
+    "shun": {
+      "briefs": [
+        ["", ""]
+      ],
+      "practice": [
+
+      ]
+    },
+    "f_as_s": {
+      "briefs": [
+        ["", ""]
+      ],
+      "practice": [
+
+      ]
+    },
+    "mp": {
+      "briefs": [
+        ["", ""]
+      ],
+      "practice": [
+
+      ]
+    },
+    "nch_rch": {
+      "briefs": [
+        ["", ""]
+      ],
+      "practice": [
+
+      ]
+    },
+    "inversion": {
+      "briefs": [
+        ["", ""]
+      ],
+      "practice": [
+
+      ]
+    },
+    "con_com": {
+      "briefs": [
+        ["", ""]
+      ],
+      "practice": [
+
+      ]
+    },
+    "w_as_v": {
+      "briefs": [
+        ["", ""]
+      ],
+      "practice": [
+
+      ]
+    },
+    "rve": {
+      "briefs": [
+        ["", ""]
+      ],
+      "practice": [
+
+      ]
+    },
+    "ment": {
+      "briefs": [
+        ["", ""]
+      ],
+      "practice": [
+
+      ]
+    },
+    "lge_nge_lk_nk": {
+      "briefs": [
+        ["", ""]
+      ],
+      "practice": [
+
+      ]
+    },
+    "ent_int": {
+      "briefs": [
+        ["", ""]
+      ],
+      "practice": [
+
+      ]
+    }
+  }
+}
