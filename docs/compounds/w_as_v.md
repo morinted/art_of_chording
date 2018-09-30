@@ -8,9 +8,7 @@ This lesson teaches a trick to write words where there is a "v" following an ini
 
 Because "v" is usually made on the left hand with `SR`, it is not possible to combine it with other consonant sounds. To get around this, you can substitute `W`:
 
-{% stenodisplay labels="all" %}
-W
-{% endstenodisplay %}
+<Steno-Display labels="all" stroke="W" />
 
 * `SWAOER`: severe
 * `TKWOUR`: devour

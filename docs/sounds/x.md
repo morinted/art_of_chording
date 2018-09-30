@@ -8,9 +8,7 @@ This lesson covers how you write the initial and final X on the steno machine.
 
 Left side X is given by the outline `KP`. Words in English don't start with an "x" sound, so this outline is used mainly for words that start in "ex" like "expect".
 
-{% stenodisplay labels="all" %}
-X
-{% endstenodisplay %}
+<Steno-Display labels="all" stroke="X" />
 
 Here are several words that start with "x":
 
@@ -36,13 +34,11 @@ There are also these notable examples of words that contain an "x" near the begi
 * `KPEUS`: axis
 * `KPOUS`: anxious
 
-### Right side X
+## Right side X
 
 Right side X is given by the outline `BGS`, which comes from `BG` being "K" and "KS" having the same sound as "x" in English. The imaginary word "foks" and the word "fox" would sound the same.
 
-{% stenodisplay labels="all" %}
--X
-{% endstenodisplay %}
+<Steno-Display labels="all" stroke="-X" />
 
 * `EBGS`: ex
 * `TPOBGS`: fox
@@ -53,7 +49,7 @@ Right side X is given by the outline `BGS`, which comes from `BG` being "K" and 
 * `TPHRUBGS`: flux
 * `WABGS`: wax
 
-### Resolving -KS and -X
+## Resolving -KS and -X
 
 You might realize at this point that "ks" words like "tacks" are homophones to "x" words like "tax". In order to resolve this, you can use `BGZ` instead of `BGS` to pluralize "-k" words. Because `BGZ` might be a little tough to finger, you can also pluralize with a separate stroke, writing `TABG -S` instead of `TABGS`.
 
@@ -63,7 +59,7 @@ You might realize at this point that "ks" words like "tacks" are homophones to "
 * `TABG -S`: tacks
 * `TABG -Z`: tacks
 
-### Briefs
+## Briefs
 
 | Chord   | Translation | Notes                                                                                       |
 |:--------|:------------|:--------------------------------------------------------------------------------------------|
@@ -78,13 +74,13 @@ You might realize at this point that "ks" words like "tacks" are homophones to "
 | TPHEGT  | next        |                                                                                             |
 | TRAEBGS | extra       | tra-ex, inversion of "ex-tra"                                                                |
 
-### Practice
+## Practice
 
-#### 1. Translate
+### 1. Translate
 
 Write the English sentence represented by these outlines, including punctuation.
 
-### 2. Find Outlines
+## 2. Find Outlines
 
 Find steno outlines that will write these English sentences, including punctuation.
 

@@ -2,13 +2,11 @@
 
 I'm still writing more lessons! If you'd like to support the writing of new lessons, you can support me on [my Patreon](https://www.patreon.com/morinted). Thanks so much for learning with me 😬
 
-{% stenodisplay %}
-SKPROUFBLSD
-{% endstenodisplay %}
+<Steno-Display stroke="SKPROUFBLSD" />
 
-### Brainstorming
+## Brainstorming
 
-#### Lesson Plan for Prefixes
+### Lesson Plan for Prefixes
 
 Categorize by... alphabet? Frequency? Similarity?
 
@@ -28,13 +26,13 @@ Categorize by... alphabet? Frequency? Similarity?
 - ^back, ^book, ^ville, ^-based, ^top, ^-looking, ^work, ^hood, ^-year, ^hand, ^ship, ^-free, ^-type, ^room, ^down, ^hold, ^-specific, ^-shaped, ^-proof, ^-wise, ^scape, ^land, ^over, ^men, ^-day, ^time, ^field
 - idio^, para-, ^logical, ^ologic, ^ological, pseudo^, ^ology, ^ette, ^tope, infra^
 
-#### Word Families
+### Word Families
 
 - threefers
 - identity, identify, identification, identifier
 - idea, ideal, island, aisle, isle
 
-#### Broad Discussion Topics
+### Broad Discussion Topics
 
 * S-P and TK-LS need to be mentioned here, maybe arrow key movements too?
 
@@ -71,7 +69,7 @@ I want to get Jeff to make illustrations, mainly to draw the exercise sentences.
 
 In the later lessons I think I'll move more into a format where I have one or two "letters" or stories as opposed to just the drilling sentences.
 
-### Topics to cover
+## Topics to cover
 
 - Capitalization
 - Punctuation

@@ -8,9 +8,7 @@ This lesson covers how you write the initial and final V on the steno machine.
 
 Left side V is given by the outline `SR`.
 
-{% stenodisplay labels="all" %}
-V
-{% endstenodisplay %}
+<Steno-Display labels="all" stroke="V" />
 
 * `SRAT`: vat
 * `SRET`: vet
@@ -18,13 +16,11 @@ V
 * `SROU`: vow
 * `SROUL`: vowel
 
-### Right side V
+## Right side V
 
 Right side V is given by the outline `*F`, but if there is no conflict with a word ending in an "F" sound, the asterisk can be dropped. Most of the common words we deal with will not have the asterisk.
 
-{% stenodisplay labels="all" %}
-*F
-{% endstenodisplay %}
+<Steno-Display labels="all" stroke="*F" />
 
 * `KO*FT`: covet
 * `HROF`, `HRO*F`: love
@@ -41,7 +37,7 @@ Right side V is given by the outline `*F`, but if there is no conflict with a wo
 * `SWEUFL`, `SW*EUFL` swivel
 * `WAEUF`: waive, `WA*EUF`: waif \(in this case, the rule is reversed because waif is a very uncommon word\)
 
-### Briefs
+## Briefs
 
 | Chord | Translation | Notes                |
 |:------|:------------|:---------------------|
@@ -59,15 +55,15 @@ Right side V is given by the outline `*F`, but if there is no conflict with a wo
 | EFRG  | everything  |                      |
 | FOFR  | forever     |                      |
 
-### Practice
+## Practice
 
-#### 1. Translate
+### 1. Translate
 
 Write the English sentence represented by these outlines, including punctuation.
 
 I'm going to put writing raw steno on hold, I have a project that will automate a lot of the lesson display and so it's more important for me to write up sentences than to transcribe them into lessons for the time being.
 
-### 2. Find Outlines
+## 2. Find Outlines
 
 Find steno outlines that will write these English sentences, including punctuation.
 

@@ -4,17 +4,15 @@ _Special thanks to _[_Luke Silva_](https://github.com/LukeSilva)_ for funding th
 
 This lesson covers how you write the vowel sounds in "pure" and "poor".
 
-### A Note On Phonetics
+## A Note On Phonetics
 
 Plover Theory is not strictly phonetic in the boundary between "you" and "oo". Phonologists or anyone familiar with the [International Phonetic Alphabet](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet) \(IPA\) will see that Plover is not very strict with its vowel boundaries in general. This is because there are 20 vowels in English, but only 14 vowel combinations possible in Plover. Because of that, the boundary between "YOU" and "OO" is mainly one of spelling.
 
-### Vowel you
+## Vowel you
 
 The "you" vowel is made with the outline `AOU`.
 
-{% stenodisplay labels="all" %}
-AOU
-{% endstenodisplay %}
+<Steno-Display labels="all" stroke="AOU" />
 
 * `TKAOU`: due
 * `AOUS`, `AOUZ`: use
@@ -37,13 +35,11 @@ AOU
 * `PRAOUPB`: prune
 * `KWAOU`: queue
 
-### Words spelled with "oo"
+## Words spelled with "oo"
 
 When there is a word spelled with "oo", you stroke it with `AO`.
 
-{% stenodisplay labels="all" %}
-AO
-{% endstenodisplay %}
+<Steno-Display labels="all" stroke="AO" />
 
 * `TAO`: too
 * `TKPWAOD`: good
@@ -58,7 +54,7 @@ AO
 * `PHAOR`: Moore
 * `AOF`: oof
 
-### Words spelled with "oa"
+## Words spelled with "oa"
 
 We also use the `AO` combination to write out words that have the vowels "oa" like "load". This helps us resolve homophones:
 
@@ -86,7 +82,7 @@ Finally, this chord can be used if you ever have an "ao" vowel, but these are no
 * `TAO*`: Tao
 * `PHAO*`: Mao
 
-### Briefs
+## Briefs
 
 | Chord             | Translation   | Notes                                                                      |
 |:------------------|:--------------|:---------------------------------------------------------------------------|
@@ -106,13 +102,13 @@ Finally, this chord can be used if you ever have an "ao" vowel, but these are no
 | KAOUFG            | confusing     |                                                                            |
 | KAOUFD            | confused      |                                                                            |
 
-### Practice
+## Practice
 
-#### 1. Translate
+### 1. Translate
 
 Write the English sentence represented by these outlines, including punctuation.
 
-### 2. Find Outlines
+## 2. Find Outlines
 
 Find steno outlines that will write these English sentences, including punctuation.
 

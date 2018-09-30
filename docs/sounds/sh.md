@@ -4,24 +4,20 @@ _Special thanks to Fabio Angeloni for funding this lesson._
 
 This lesson covers how you write beginning and final "sh" in steno, like in the words "splash" and "shape".
 
-### Left side SH
+## Left side SH
 
 You've already learned Left side `SH` as it is naturally formed.
 
-{% stenodisplay labels="all" %}
-SH
-{% endstenodisplay %}
+<Steno-Display labels="all" stroke="SH" />
 
 * `SHOP`: shop
 * `SHAEUP`: shape
 
-### Right side SH
+## Right side SH
 
 Right side SH is given by the outline `-RB`.
 
-{% stenodisplay labels="all" %}
--RB
-{% endstenodisplay %}
+<Steno-Display labels="all" stroke="-RB" />
 
 * `ARB`: ash
 * `KARB`: cash
@@ -44,13 +40,11 @@ Right side SH is given by the outline `-RB`.
 * `TKAOURB`: douche
 * `TKHREURB`: delish
 
-### Final SHS
+## Final SHS
 
 Words ending in the "shoush" sound, like "conscious" and "delicious", can be written with `-RBS`.
 
-{% stenodisplay labels="all" %}
--RBS
-{% endstenodisplay %}
+<Steno-Display labels="all" stroke="-RBS" />
 
 * `SREURBS`: vicious
 * `KORBS`: conscious
@@ -63,7 +57,7 @@ Words ending in the "shoush" sound, like "conscious" and "delicious", can be wri
 * `PAEURBS`: patience
 * `TKPWARBS`: gaseous
 
-### Briefs
+## Briefs
 
 |    Chord     | Translation |    Notes     |
 | ------------ | ----------- | ------------ |
@@ -77,13 +71,13 @@ Words ending in the "shoush" sound, like "conscious" and "delicious", can be wri
 | `*EUSH`      | issue       |              |
 
 
-### Practice
+## Practice
 
-#### 1. Translate
+### 1. Translate
 
 Write the English sentence represented by these outlines, including punctuation.
 
-### 2. Find Outlines
+## 2. Find Outlines
 
 Find steno outlines that will write these English sentences, including punctuation.
 

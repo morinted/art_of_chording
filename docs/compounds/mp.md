@@ -8,9 +8,7 @@ This lesson covers how to write words with the -mp suffix like "lump" and "jump"
 
 In Plover Theory, the main way to write words ending in "-mp" is to add an asterisk to the right-hand chord for `-M` (`-PL`):
 
-{% stenodisplay labels="all" %}
-*M
-{% endstenodisplay %}
+<Steno-Display labels="all" stroke="*M" />
 
 This gives us the ability to write `HUPL` for "hum" and `HU*PL` for "hump".
 
@@ -22,13 +20,11 @@ This gives us the ability to write `HUPL` for "hum" and `HU*PL` for "hump".
 * `KHRA*PL`: clamp
 * `SRA*PL`: vamp
 
-### -FRP for -mp
+## -FRP for -mp
 
 Mirabai, the creator of Plover Theory, prefers using `*PL` for -mp. However, Plover's dictionary also includes the StenEd convention of `-FRP`.
 
-{% stenodisplay labels="all" %}
--FRP
-{% endstenodisplay %}
+<Steno-Display labels="all" stroke="-FRP" />
 
 * `HUFRP`: hump
 * `PUFRP`: pump

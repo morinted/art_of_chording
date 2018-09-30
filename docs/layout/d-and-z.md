@@ -7,13 +7,11 @@ The keys used in this lesson include those used in previous lessons, plus:
 * `* - *   DZ`
 * `4 - 4   11`
 
-{% stenodisplay labels="STKPWHRAO*EUFRPBLGTSDZ" %}
-*DZ
-{% endstenodisplay %}
+<Steno-Display labels="STKPWHRAO*EUFRPBLGTSDZ" stroke="*DZ" />
 
 The numbers show the fingers for each key, where 1's are the pinkies and 5 are the thumbs.
 
-### The Asterisk (*)
+## The Asterisk (*)
 
 Your keyboard may have multiple asterisks, up to four, or just one. As long as you can hit the asterisks with either index finger, you should be fine. The asterisk can be hit alone, or in conjunction with its neighboring keys. That is why often the gap between the asterisk key and `-FR` tends to be smaller than the gaps between other columns.
 
@@ -23,23 +21,23 @@ In stenography the asterisk is always used to undo the last stroke. In Plover th
 
 Each of those topics will be covered. For now, if you ever see a lone asterisk in a text or paper tape, it cancels the chord proceeding it. For example, `KAT S PUG * KAT` will end up with the same output as `KAT S KAT`, and on screen the word "pug" will be shown then removed.
 
-### The `-D` and `-Z` Keys
+## The `-D` and `-Z` Keys
 
 The `D` and `Z` keys are hit using the right pinky. They can be used alone, or in combinations such as `TD`, `SZ`, or `DZ`. 
 
-#### Pressing down the `-SD` or `-TZ` Keys
+### Pressing down the `-SD` or `-TZ` Keys
 
 Because the pinky is only one finger, you cannot hit `SD` or `TZ` because they are diagonal from each other. Some theories have you move your hand over and use your ring finger \(called a "Philly shift"\) but Plover doesn't use this trick. The pinky can hit the entire `TSDZ` bank, but it is extremely rare in Plover Theory.
 
-### Past Tense
+## Past Tense
 
 In English, many words end in -D when they are conjugated in the past tense. In stenography, we can include `-D` in words to make them past tense. For example, `TAP` is "tap" while `TAPD` is "tapped". If a word cannot "fit" the `-D` key, either due to the pinky being occupied with `-S` or `-Z`, or because the word already ends in `-D`, we can strike `-D` alone as a second chord. In this lesson, `-D` will only be used in single chords, either as part of the word or to make a chord past tense.
 
-### Plurals
+## Plurals
 
 Phonetically, plural words in English end with an "s" \(puts\) or a "z" \(bugs\) sound. In Plover Theory, we use both `-S` or `-Z` for plurals. Often, both work, and for that reason you should be inclined to reach for `-S` first because it is closer. However, sometimes the `-S` is used in another way by the word and you will need to use `-Z` to make it plural. This will be trial and error until you start to notice when `-Z` is required. So `TAP` is "tap" and `TAPS` and `TAPZ` are both "taps".
 
-### Briefs
+## Briefs
 
 This lesson only introduces a few briefs. They are similar, so they will require care to remember correctly. The briefs starting with `TH-` below are good examples of very common words that had their ending chopped off to save effort on the stenographer's part. The briefs also make room for more complex strokes that you will learn in later lessons.
 
@@ -51,13 +49,13 @@ This lesson only introduces a few briefs. They are similar, so they will require
 | WHA | what        |       |
 | UD  | you'd       |       |
 
-### How to Practice
+## How to Practice
 
 Play close attention to the meaning of the sentence in order to ensure you have understood it correctly. Because `-D` can be used in multiple ways \(to end a word, like "card", or to make a verb past tense, like "scarred"\), you may interpret an outline wrong the first time. It's okay, just make a mental note and see if you can notice any patterns. Understanding the consistency in how your theory solves certain language-related issues will help you when you develop and personalize your own dictionary as you grow as a stenographer.
 
-### Practice
+## Practice
 
-#### 1. Translate
+### 1. Translate
 
 Write the English sentence represented by these outlines, including punctuation.
 
@@ -69,7 +67,7 @@ Write the English sentence represented by these outlines, including punctuation.
 6. `SHE PATD -T WET RAT TP-PL`
 7. `HE K HED TO -T KAR W HER TP-PL`
 
-#### 2. Find Outlines
+### 2. Find Outlines
 
 Find steno outlines that will write these English sentences, including punctuation.
 

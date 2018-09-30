@@ -10,9 +10,7 @@ The hardest part in writing lessons so far has been avoiding using "N". I've bee
 
 Left side N is given by the outline `TPH`.
 
-{% stenodisplay labels="all" %}
-N
-{% endstenodisplay %}
+<Steno-Display labels="all" stroke="N" />
 
 * `TPHO`: no
 * `TPHOU`: now
@@ -25,13 +23,11 @@ N
 * `TPHAEUT`: Nate
 * `TPHOEUS`: noise
 
-### Right side N
+## Right side N
 
 Right side N is given by the outline `-PB`.
 
-{% stenodisplay labels="all" %}
--N
-{% endstenodisplay %}
+<Steno-Display labels="all" stroke="-N" />
 
 * `OPB`: on
 * `APB`: an
@@ -45,7 +41,7 @@ Right side N is given by the outline `-PB`.
 * `WAPBT`: want
 * `WEPBT`: went
 
-### Briefs
+## Briefs
 
 There are a lot of briefs that use Ns. This is not an extensive list.
 
@@ -68,9 +64,9 @@ There are a lot of briefs that use Ns. This is not an extensive list.
 | R-PB   | reason      |                                                                      |
 | PHEUPB | minute      |                                                                      |
 
-### Practice
+## Practice
 
-#### 1. Translate
+### 1. Translate
 
 Write the English sentence represented by these outlines, including punctuation.
 
@@ -85,7 +81,7 @@ Write the English sentence represented by these outlines, including punctuation.
 9. `TPH-B WAPBTS TO -B KAUT UP TPH THA PHES TP-PL`
 10. `WE HR TKO AUL WE K W-PB R-PB TO PWREUPBG PWABG -T TPORBG THA KO TPHOT -B TPOUPBD AF U TKROPD T TP-PL`
 
-### 2. Find Outlines
+## 2. Find Outlines
 
 Find steno outlines that will write these English sentences, including punctuation.
 

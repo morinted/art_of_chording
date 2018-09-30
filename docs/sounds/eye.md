@@ -2,13 +2,11 @@
 
 This lesson covers how you write the "eye" vowel sound in "buy" and "file".
 
-### Vowel eye
+## Vowel eye
 
 The "eye" vowel is made with the outline `AOEU`.
 
-{% stenodisplay labels="all" %}
-AOEU
-{% endstenodisplay %}
+<Steno-Display labels="all" stroke="AOEU" />
 
 * `AOEU`: eye
 * `TPAOEUPBD`: find
@@ -26,7 +24,7 @@ AOEU
 * `PWRAOEUD`: bride
 * `TKPWRAOEUPBGDZ`: grindings (probably a hard stroke to make on anything but a professional machine with very light touch)
 
-### Briefs
+## Briefs
 
 |   Chord   | Translation | Notes |
 | --------- | ----------- | ----- |
@@ -39,13 +37,13 @@ AOEU
 | `UL`      | you'll      |       |
 | `PWAO*EU` | bye         |       |
 
-### Practice
+## Practice
 
-#### 1. Translate
+### 1. Translate
 
 Write the English sentence represented by these outlines, including punctuation.
 
-### 2. Find Outlines
+## 2. Find Outlines
 
 Find steno outlines that will write these English sentences, including punctuation.
 

@@ -23,9 +23,7 @@ As an aside, there are many reasons that a word might not be in your dictionary:
 
 We've covered every letter so far in previous lessons except C. It's rare that we need to use "C" explicitly in steno since most words can be sounded out with "s" or "k" instead. However, for fingerspelling we have a need to distinguish between S, K, and C. To write C, we use the chord `KR`:
 
-{% stenodisplay labels="all" %}
-KR
-{% endstenodisplay %}
+<Steno-Display labels="all" stroke="KR" />
 
 * `KREPBT`: cent
   - `SEPBT`: sent
@@ -71,9 +69,7 @@ If you also add the `-P` key on the right side of the keyboard, you get a capita
 
 When fingerspelling, we don't get automatically inserted spaces between letters. That's okay most of the time because you can, for example, write `EU APL AEU TK* O* TKPW* TOED` and the output will be "I am a dog today". Plover will add spaces between fingerspelled words and normal words. However, if you want to write out multiple words back-to-back with fingerspelling, you need to insert a space with the chord `S-P`:
 
-{% stenodisplay labels="all" %}
-S-P
-{% endstenodisplay %}
+<Steno-Display labels="all" stroke="S-P" />
 
 This will just insert a space. You can use it while fingerspelling to separate words:
 

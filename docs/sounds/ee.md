@@ -8,9 +8,7 @@ This lesson covers how you write the vowel sounds in "eel" and "real".
 
 The "ee" vowel is made with the outline `AOE`.
 
-{% stenodisplay labels="all" %}
-AOE
-{% endstenodisplay %}
+<Steno-Display labels="all" stroke="AOE" />
 
 * `SAOE`: see
 * `SAOEG`: seeing
@@ -24,13 +22,11 @@ AOE
 * `TPAOEL`: feel
 * `THAOE`: thee
 
-### Words Spelled with "ea"
+## Words Spelled with "ea"
 
 There are a lot of homophones that have "ea" instead of "ee"; like "meet" and "meat", "steel" and "steal", and "reel" and "real". To write the "ea" word, use `AE` instead of `AOE`.
 
-{% stenodisplay labels="all" %}
-AE
-{% endstenodisplay %}
+<Steno-Display labels="all" stroke="AE" />
 
 * `HAOEL`: heel
   - `HAEL`: heal
@@ -50,7 +46,7 @@ AE
   - `HA*EUR`: heir (asterisk given to less common alternative)
   - `HA*ER`: hare (asterisk given to less common alternative)
 
-### Shortening Principle: Folded-In E
+## Shortening Principle: Folded-In E
 
 One pattern that you might have started to notice is the folding-in of `E` in a stroke to add an
 "ee" sound at the end. For example, `PHAEB` is a brief for "maybe". You can think of the stroke as "mab-ee".
@@ -66,7 +62,7 @@ This is best illustrated through examples:
 - `HAEP`: happy
 - `SKAER`: scary
 
-### Briefs
+## Briefs
 
 |       Chord       | Translation |                             Notes                              |
 | :---------------- | :---------- | :------------------------------------------------------------- |
@@ -80,13 +76,13 @@ This is best illustrated through examples:
 | `R-D`, `TKRAE`    | ready       |                                                                |
 | `K-P`             | company     |                                                                |
 
-### Practice
+## Practice
 
-#### 1. Translate
+### 1. Translate
 
 Write the English sentence represented by these outlines, including punctuation.
 
-### 2. Find Outlines
+## 2. Find Outlines
 
 Find steno outlines that will write these English sentences, including punctuation.
 

@@ -6,9 +6,7 @@ This lesson covers how you write the vowel sound in "ill" and "his".
 
 The letter I is missing from the base layout, and is instead made with the chord `EU`.
 
-{% stenodisplay labels="all" %}
-EU
-{% endstenodisplay %}
+<Steno-Display labels="all" stroke="EU" />
 
 This is the lax version of "i", as found in:
 
@@ -23,7 +21,7 @@ This is the lax version of "i", as found in:
 * `TEULT`: tilt
 * `WREUT`: writ
 
-### Briefs
+## Briefs
 
 | Chord | Translation | Notes                          |
 |:------|:------------|:-------------------------------|
@@ -39,9 +37,9 @@ This is the lax version of "i", as found in:
 | PREUT | pretty      |                                |
 | UR    | you're      |                                |
 
-### Practice
+## Practice
 
-#### 1. Translate
+### 1. Translate
 
 Write the English sentence represented by these outlines, including punctuation.
 
@@ -58,7 +56,7 @@ Write the English sentence represented by these outlines, including punctuation.
 
 Note: `HEUSZ` and `H*EUS` translate to "hiss". We can't use the phonetic `HEUS` because it's taken up by "his".
 
-#### 2. Find Outlines
+### 2. Find Outlines
 
 Find steno outlines that will write these English sentences, including punctuation.
 
