@@ -1,6 +1,5 @@
 ---
 home: true
-heroImage: /hero.png
 actionText: Read the Book →
 actionLink: /introduction/
 features:
