@@ -8,9 +8,7 @@ This lesson covers how you write words ending with "ment" like "government" and 
 
 Lots of words end with the suffix "ment". It's made with the right-hand chord `-PLT`:
 
-{% stenodisplay labels="all" %}
--PLT
-{% endstenodisplay %}
+<Steno-Display labels="all" stroke="-PLT" />
 
 * `PHOEPLT`: moment
 * `TORPLT`: torment

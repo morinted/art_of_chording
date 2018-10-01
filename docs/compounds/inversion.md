@@ -28,15 +28,13 @@ Here are some other assorted examples:
 - `STPHAEUPB`: insane
 - `SPWAOEUD`: beside
 
-### Breaking Chorded Sounds
+## Breaking Chorded Sounds
 
 Now you've seen that in certain cases, steno order *can* be broken. Generally, it's only done with **neighboring sounds** and only **once per stroke**. However, if it's done multiple times in the stroke or across non-neighboring sounds, then the outline is considered a brief. Let's talk about the idea of "breaking" a chorded sound, which is something Plover Theory does not support.
 
 As a general rule, you cannot use keys within the limits of a chorded sound's edges. This means that if you are using `SR` for `V`, you can't use any of the keys in between `S` and `R` for other sounds. That means that you can't mix `V` with any of the sounds given by any combination of `TKPWH`. This rule may seem obvious, but it's important to achnowledge the different ways we can have ambiguity while reading raw steno. For example:
 
-{% stenodisplay labels="all" %}
-STPR
-{% endstenodisplay %}
+<Steno-Display labels="all" stroke="STPR" />
 
 This chord, `STPR`, can mean either "STPR" or "SFR". It can't, notably, mean "VF", or "FV", or anything with "V" *at all* because the V chord sound is "broken" by keys in between `S` and `R`. `SR` is a pretty exclusive chord for this reason—it takes up the whole left bank—but this rule applies to all chorded sounds.
 

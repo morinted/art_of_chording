@@ -8,9 +8,7 @@ This lesson covers how to write words that end in "shun" like "ration" and "acti
 
 To end a word with the "shun" sound we use the chord `-GS` on the right hand.
 
-{% stenodisplay labels="all" %}
--GS
-{% endstenodisplay %}
+<Steno-Display labels="all" stroke="-GS" />
 
 * `TPAGS`: fashion
 * `RAGS`: ration
@@ -31,13 +29,11 @@ However, sometimes the "-shun" word gets an asterisk as it is less common than "
 
 Unfortunately, there's no hard and fast rule on when a word does and doesn't get the asterisk. You'll have to memorize the few exceptions over time. If you find that you use a certain stroke more often than the alternative, you do have the ability to remap it. For example, if you are writing "Russian" frequently for whatever reason, you might consider remapping `RUGS` to "Russian" and using `RUGZ` for "rugs".
 
-### Kshun
+## Kshun
 
 Because `-GS` uses the `-G` in right-side K (`-BG`), we merge the chords to make "-kshun".
 
-{% stenodisplay labels="all" %}
--BGS
-{% endstenodisplay %}
+<Steno-Display labels="all" stroke="-BGS" />
 
 - `RAOEBGS`: reaction
 - `SEBGS`: section
@@ -49,7 +45,7 @@ Note that this conflicts with right-side X, which is the exact same chord. Usual
 - `ABGS`: axe
   - `A*BGS`: action
 
-### Briefs
+## Briefs
 
 |   Chord    |  Translation  | Notes |
 | :--------- | :------------ | :---- |
@@ -60,15 +56,15 @@ Note that this conflicts with right-side X, which is the exact same chord. Usual
 | `KAEUBGS`  | communication |       |
 | `S-BGS`, `SPHEBGS` | sex   |       |       
 
-### Practice
+## Practice
 
-#### 1. Translate
+### 1. Translate
 
 Write the English sentence represented by these outlines, including punctuation.
 
 
 Remember that if you can't figure out an outline, you can look it up in the theory dictionary.
 
-#### 2. Find Outlines
+### 2. Find Outlines
 
 Find steno outlines that will write these English sentences, including punctuation.

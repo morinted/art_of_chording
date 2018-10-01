@@ -1,25 +1,21 @@
 # Left side D, B, and L
 
-### Left side D
+## Left side D
 
 "D" is made on the left hand using `TK`
 
-{% stenodisplay labels="all" %}
-D
-{% endstenodisplay %}
+<Steno-Display labels="all" stroke="D" />
 
 * `TKOG`: dog
 * `TKROP`: drop
 * `TKAFT`: daft
 * `TKUL`: dull
 
-### Left side B
+## Left side B
 
 "B" is made on the left hand using `PW`
 
-{% stenodisplay labels="all" %}
-B
-{% endstenodisplay %}
+<Steno-Display labels="all" stroke="B" />
 
 * `PWUD`: bud
 * `PWUT`: but
@@ -27,24 +23,22 @@ B
 * `PWAD`: bad
 * `PWART`: Bart
 
-### Left side L
+## Left side L
 
 "L" is made on the left hand using `HR`
 
-{% stenodisplay labels="all" %}
-L
-{% endstenodisplay %}
+<Steno-Display labels="all" stroke="L" />
 
 * `HRARD`: lard
 * `HRAF`: laugh
 * `HRUL`: lull
 * `PWHROB`: blob
 
-### Order of D, B, L
+## Order of D, B, L
 
 D, B, and L are all made with a single finger's column. If the order sometimes escapes you, just remember that it's the same order as the consonants in "**D**OU**BL**E" as these columns are _double the trouble_ now that you need to use two keys to hit them!
 
-### Briefs
+## Briefs
 
 | Chord          | Translation | Notes     |
 |:---------------|:------------|:----------|
@@ -61,15 +55,15 @@ D, B, and L are all made with a single finger's column. If the order sometimes e
 | HR-S           | also        |           |
 | HR-BG          | welcome     |           |
 
-### How to Practice
+## How to Practice
 
 When you hit a sound on the left hand such as D, B, or L, you will need to press both the top and the bottom column at once with one finger. The best way to do this is to have your fingers curled such that you are pressing the keys with your fingertips. Contrast with a regular keyboard where you might use the fleshy part of your finger.
 
 Using your fingertips makes it easier to hit tricky combos, like `PWH-` and `-FPB` which often cause problems for beginners.
 
-### Practice
+## Practice
 
-#### 1. Translate
+### 1. Translate
 
 Write the English sentence represented by these outlines, including punctuation.
 
@@ -85,7 +79,7 @@ Write the English sentence represented by these outlines, including punctuation.
 
 Remember that if you can't figure out an outline, you can look it up in the theory dictionary.
 
-#### 2. Find Outlines
+### 2. Find Outlines
 
 Find steno outlines that will write these English sentences, including punctuation.
 

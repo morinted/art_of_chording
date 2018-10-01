@@ -8,9 +8,7 @@ This lesson covers how to write words with the con- and com suffixes like "contr
 
 When a word starts with con- or com-, there's a good chance you can write that entire sound using just `K-`:
 
-{% stenodisplay labels="all" %}
-K-
-{% endstenodisplay %}
+<Steno-Display labels="all" stroke="K-" />
 
 * `KPAEUR`: compare
 * `KPHOPB`: common
@@ -29,7 +27,7 @@ K-
 * `KPWAOEUPB`: combine
 * `KPHRAEUPBT`: complaint
 
-### Out of Steno Order
+## Out of Steno Order
 
 This next set of entries follow a very similar pattern as above, except that the second consonant doesn't follow `K-` in steno order. This can be solved by "deleting" that consonant as long as the result is not a word:
 

@@ -4,20 +4,16 @@ _Special thanks to Thomas Pacheco for funding this lesson._
 
 This lesson covers how to write some words that otherwise wouldn't fit in steno order, including "bank", "milk", and "bulge".
 
-### -lge and -nge
+## -lge and -nge
 
 Because `-L` and `-PB` share keys with the -J sound (`-PBLG`), we need to use a different pattern to write words ending in -lge and -nge, like "bulge" or "cringe". The solution is simple: just use -G for the -J sound:
 
-{% stenodisplay labels="all" %}
--LG
-{% endstenodisplay %}
+<Steno-Display labels="all" stroke="-LG" />
 
 * `PWULG`: bulge
 * `TKWULG`: divulge
 
-{% stenodisplay labels="all" %}
--PBG
-{% endstenodisplay %}
+<Steno-Display labels="all" stroke="-PBG" />
 
 * `KREUPBG`: cringe
 * `TEUPBG`: tinge
@@ -28,13 +24,11 @@ You'll have to exercise caution here, as these chords conflict with words ending
 * `PWEUPBG`: bing
 * `PW*EUPBG`: binge
 
-### *G as -k
+## *G as -k
 
 For the same reasons that we can't have `-L` and `-PB` and -J at the same time, we can't have them at the same time as the chord for -k (`-BG`). In order to get -nk and -lk, we add the asterisk:
 
-{% stenodisplay labels="all" %}
-*LG
-{% endstenodisplay %}
+<Steno-Display labels="all" stroke="*LG" />
 
 * `*ELG`: elk
 * `*EULG`: ilk
@@ -43,9 +37,7 @@ For the same reasons that we can't have `-L` and `-PB` and -J at the same time, 
 * `PW*ULG`: bulk
 * `S*ULG`: sulk
 
-{% stenodisplay labels="all" %}
-*PBG
-{% endstenodisplay %}
+<Steno-Display labels="all" stroke="*PBG" />
 
 * `*EUPBG`: ink
 * `PWA*PBG`: bank

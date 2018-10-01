@@ -4,15 +4,13 @@ Now that we've covered every key in the steno layout, we need to start addressin
 
 In this lesson, we will fill in the sounds present on the left side of the keyboard that are not on the right side. Notice that `K`, `W`, and `H` are not on the right side of the keyboard.
 
-### Right side K
+## Right side K
 
 Because we don't have any more keys to work with, we need to start combining keys to make those missing sounds. The steno layout is made such that sounds that are created with chords of other letters should have a low chance of collision within the English language. While there are some notable exceptions, you will find that most words are intuitive when you are employing the layout yourself.
 
 The first chorded sound we will learn is the final K sound. It is produced on the right hand with `-BG`.
 
-{% stenodisplay labels="all" %}
--K
-{% endstenodisplay %}
+<Steno-Display labels="all" stroke="-K" />
 
 * `TABG`: tack
 * `WABG`: wack
@@ -21,33 +19,29 @@ The first chorded sound we will learn is the final K sound. It is produced on th
 * `SOBG`: sock
 * `STRUBG`: struck
 
-### Right side W
+## Right side W
 
 On the left hand we have a `W` key, but there is no such thing on the right. Instead, we will have our "final W" as a diphthong, or a combination of vowels. There are two:
 
-#### `AU`: the "aw" sound.
+### `AU`: the "aw" sound.
 
-{% stenodisplay labels="all" %}
-AU
-{% endstenodisplay %}
+<Steno-Display labels="all" stroke="AU" />
 
 * `SAU`: saw
 * `TAUBG`: talk \(`TABG`: tack\)
 * `AUL`: all \(`AL`: al\)
 * `PAUL`: Paul
 
-#### `OU`: the "ow" sound.
+### `OU`: the "ow" sound.
 
-{% stenodisplay labels="all" %}
-OU
-{% endstenodisplay %}
+<Steno-Display labels="all" stroke="OU" />
 
 * `HOU`: how
 * `HOUS`: house
 * `OUT`: out
 * `OUL`: owl
 
-### Briefs
+## Briefs
 
 | Chord        | Translation | Notes                                         |
 |:-------------|:------------|:----------------------------------------------|
@@ -61,15 +55,15 @@ OU
 | WO           | would       | Instead of WOULD                              |
 | SHO          | should      | Instead of SHOULD                             |
 
-### How to Practice
+## How to Practice
 
 Now that we are beginning to use chorded sounds, reading shorthand will become more and more difficult. Don't worry too much if you feel like the difficulty of the practice material is going up, because it is! Luckily, professional stenographers rarely have to read their own raw steno notes. Instead, all translation is instant. You will usually be working from the word to the outlines, not from the outlines to the word.
 
 Take note of all the possible ways that you could interpret a stroke if it's unclear initially.
 
-### Practice
+## Practice
 
-#### 1. Translate
+### 1. Translate
 
 Write the English sentence represented by these outlines, including punctuation.
 
@@ -86,7 +80,7 @@ Write the English sentence represented by these outlines, including punctuation.
 
 Remember that if you can't figure out an outline, you can look it up in the theory dictionary.
 
-#### 2. Find Outlines
+### 2. Find Outlines
 
 Find steno outlines that will write these English sentences, including punctuation.
 

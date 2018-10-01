@@ -6,6 +6,7 @@
   "license": "CC BY-SA 4.0",
   "private": false,
   "devDependencies": {
+    "path-svg": "^0.2.1",
     "vuepress": "^0.14.4"
   },
   "scripts": {

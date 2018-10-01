@@ -2,13 +2,11 @@
 
 This lesson covers how you write the initial and final M sound on the steno layout.
 
-### Left side M
+## Left side M
 
 Left side M is made with the combination `PH` on the left side.
 
-{% stenodisplay labels="all" %}
-M
-{% endstenodisplay %}
+<Steno-Display labels="all" stroke="M" />
 
 * `PHA`: ma
 * `PHAD`: mad
@@ -18,13 +16,11 @@ M
 * `PHELT`: melt
 * `PHUL`: mull
 
-### Right side M
+## Right side M
 
 Right side M is made with the combination `-PL`. This _does_ conflict with words ending in "ple" like "apple" versus "am". However, the final M is much more common in English so in steno `-PL` defaults to final M.
 
-{% stenodisplay labels="all" %}
--M
-{% endstenodisplay %}
+<Steno-Display labels="all" stroke="-M" />
 
 * `APL`: am
 * `SOPL`: some
@@ -38,7 +34,7 @@ Right side M is made with the combination `-PL`. This _does_ conflict with words
 * `PHAPL`: ma'am
 * `TEPLT`: tempt
 
-### Briefs
+## Briefs
 
 | Chord            | Translation | Notes                                                                                                                                                       |
 |:-----------------|:------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -52,9 +48,9 @@ Right side M is made with the combination `-PL`. This _does_ conflict with words
 | SKHRAPL or TP-BG | {!}         | The exclamation mark is written with "sklam". Alternatively, TP-BG can be used.                                                                             |
 | KW-PL            | {?}         | Alternative stroke for question mark. Some users prefer `TP-BG` and `KW-PL` as they can represent the intonation speakers use during a question or exclamation. |
 
-### Practice
+## Practice
 
-#### 1. Translate
+### 1. Translate
 
 Write the English sentence represented by these outlines, including punctuation.
 
@@ -66,7 +62,7 @@ Write the English sentence represented by these outlines, including punctuation.
 6. `PHEU PHOPL S -T PWOPL SKHRAPL`
 7. `LEF -T PWUS SKHRAPL`
 
-### 2. Find Outlines
+## 2. Find Outlines
 
 Find steno outlines that will write these English sentences, including punctuation.
 

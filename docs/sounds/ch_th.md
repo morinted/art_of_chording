@@ -2,25 +2,21 @@
 
 _Special thanks to _[_Scott Pierce_](https://ddrscott.github.io)_ for funding this lesson._
 
-### Left side CH
+## Left side CH
 
 Since there is no C key on the layout, we substitute `K` and use `KH` for initial CH.
 
-{% stenodisplay labels="all" %}
-KH
-{% endstenodisplay %}
+<Steno-Display labels="all" stroke="KH" />
 
 * `KHAT`: chat
 * `KHOP`: chop
 * `KHART`: chart
 
-### Right side CH
+## Right side CH
 
 Words ending with the "tch" or "ch" sound are made on the right hand with `-FP`. It's also used if there is a homophone where the only differentiator is spelling.
 
-{% stenodisplay labels="all" %}
--FP
-{% endstenodisplay %}
+<Steno-Display labels="all" stroke="-FP" />
 
 * `WAFP`: watch
 * `SWAFP`: swatch
@@ -30,24 +26,20 @@ Words ending with the "tch" or "ch" sound are made on the right hand with `-FP`.
 * `HRAFP`: latch
 * `TEFP`: tech \(spelling\). You can also use `TEBG` \(phonetic\)
 
-### Left side TH
+## Left side TH
 
 You've already learned initial TH in previous lessons as it's just `TH`.
 
-{% stenodisplay labels="all" %}
-TH
-{% endstenodisplay %}
+<Steno-Display labels="all" stroke="TH" />
 
 * `THAUT`: thought
 
 
-### Right side TH
+## Right side TH
 
 The first use of the asterisk for us is with final "th". Adding an asterisk to a chord with a `-T` in it will make a "th" sound. `*T` is the "th" sound.
 
-{% stenodisplay labels="all" %}
-*T
-{% endstenodisplay %}
+<Steno-Display labels="all" stroke="*T" />
 
 * `WRA*T`: wrath
 * `PWA*T`: bath
@@ -58,7 +50,7 @@ The first use of the asterisk for us is with final "th". Adding an asterisk to a
 * `HA*T`: hath
 * `WO*RT`: worth
 
-### Briefs
+## Briefs
 
 | Chord | Translation | Notes |
 |:------|:------------|:------|
@@ -68,9 +60,9 @@ The first use of the asterisk for us is with final "th". Adding an asterisk to a
 | TOGT  | together    |       |
 | HR-GT | altogether  | L-GT  |
 
-### Practice
+## Practice
 
-#### 1. Translate
+### 1. Translate
 
 Write the English sentence represented by these outlines, including punctuation.
 
@@ -87,7 +79,7 @@ Write the English sentence represented by these outlines, including punctuation.
 
 Remember that if you can't figure out an outline, you can look it up in the theory dictionary.
 
-#### 2. Find Outlines
+### 2. Find Outlines
 
 Find steno outlines that will write these English sentences, including punctuation.
 

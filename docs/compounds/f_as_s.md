@@ -33,13 +33,11 @@ Now you have learned that the `-F` key is used for "f", "v", and sometimes "s". 
 - `WAEUFT`: waist
 - `WAFD`: waved
 
-### *S for -st
+## *S for -st
 
 Plover Theory prefers using `-FT` for -st in *most* cases. However, there are times when you need the `-FT` for something else. In these cases, we use a traditional StenEd -st which is `*S`:
 
-{% stenodisplay labels="all" %}
-*S
-{% endstenodisplay %}
+<Steno-Display labels="all" stroke="*S" />
 
 Most words ending in -st in Plover can be written with both `*S` and `-FT`:
 

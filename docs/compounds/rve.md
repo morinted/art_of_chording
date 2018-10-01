@@ -8,9 +8,7 @@ This lesson covers how you write the compound "-rve" in words like "curve" and "
 
 The somewhat common compound "-rve" doesn't fit in steno order, and the most obvious choice, `-FR`, is already used for several other endings (like in "offer", "cover"). So, in order to reduce conflicts, we assign it an otherwise unused chord, `-FRB`:
 
-{% stenodisplay labels="all" %}
--FRB
-{% endstenodisplay %}
+<Steno-Display labels="all" stroke="-FRB" />
 
 Think about the shape of this chord. To me, it always seems like a "cu**rve**" along the edge of the layout.
 

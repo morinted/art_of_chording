@@ -2,13 +2,11 @@
 
 This lesson covers how you write words beginning with F and Q sounds.
 
-### Left side F
+## Left side F
 
 Left side F is made with the combination `TP` on the left side.
 
-{% stenodisplay labels="all" %}
-F
-{% endstenodisplay %}
+<Steno-Display labels="all" stroke="F" />
 
 * `TPEUL`: fill
 * `TPAUL`: fall
@@ -16,13 +14,11 @@ F
 * `TPHREUP`: flip
 * `TPHREURT`: flirt
 
-### Left side Q
+## Left side Q
 
 The Q sound in English is a combination of the K and W sounds, so the outline for the Q sound is simply `KW` on the left side.
 
-{% stenodisplay labels="all" %}
-Q
-{% endstenodisplay %}
+<Steno-Display labels="all" stroke="Q" />
 
 * `KWEUBG`: quick
 * `KWABG`: quack
@@ -46,9 +42,9 @@ Q
 | KWE    | question    |                                |
 | SK     | ask         |                                |
 
-### Practice
+## Practice
 
-#### 1. Translate
+### 1. Translate
 
 Write the English sentence represented by these outlines, including punctuation.
 
@@ -62,7 +58,7 @@ Write the English sentence represented by these outlines, including punctuation.
 8. `-T PHRAEUR WAS SKWARBD PWEU -T ROBG TP-PL`
 9. `A KWEUZ S AEU HREUL SET -F KWES TP-PL`
 
-### 2. Find Outlines
+## 2. Find Outlines
 
 Find steno outlines that will write these English sentences, including punctuation.
 

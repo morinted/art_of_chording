@@ -8,9 +8,7 @@ This lesson covers the prefix compound that begins words like "enter" and "inter
 
 We use just a single cluster for both "ent-" and "int-" briefs. The combination is arbitrary, `SPW`:
 
-{% stenodisplay labels="all" %}
-SPW
-{% endstenodisplay %}
+<Steno-Display labels="all" stroke="SPW" />
 
 * `SPWER`: enter
 * `SPWAOEUR`: entire

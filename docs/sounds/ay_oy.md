@@ -6,9 +6,7 @@ This lesson covers how you write the vowel sounds given by the diphthongs "ay" \
 
 The "ay" sound is a combination of the vowels "a" and "i", and the outline is `AEU`.
 
-{% stenodisplay labels="all" %}
-AEU
-{% endstenodisplay %}
+<Steno-Display labels="all" stroke="AEU" />
 
 * `AEU`: a
 * `PAEU`: pay
@@ -26,7 +24,7 @@ AEU
 * `TPHRAEUR`: flair
 * `PHRAEUR`: player
 
-### Vowel oy
+## Vowel oy
 
 The "oy" sound is a combination of the vowels "o" and "i", and the outline is `OEU`.
 
@@ -38,7 +36,7 @@ The "oy" sound is a combination of the vowels "o" and "i", and the outline is `O
 * `KHOEUS`: choice
 * `ROEUL`: royal
 
-### Briefs
+## Briefs
 
 | Chord         | Translation | Notes                                                                |
 |:--------------|:------------|:---------------------------------------------------------------------|
@@ -51,9 +49,9 @@ The "oy" sound is a combination of the vowels "o" and "i", and the outline is `O
 | PAEUP, PAEURP | paper       |                                                                      |
 | TKAEUL        | daily       |                                                                      |
 
-### Practice
+## Practice
 
-#### 1. Translate
+### 1. Translate
 
 Write the English sentence represented by these outlines, including punctuation.
 
@@ -68,7 +66,7 @@ Write the English sentence represented by these outlines, including punctuation.
 9. `E PWRAUT -T WAUR TO AEU PWOEUL TP-PL`
 10. `EU SWAEUR U R AEU SPOEULD KEUD TP-PL`
 
-### 2. Find Outlines
+## 2. Find Outlines
 
 Find steno outlines that will write these English sentences, including punctuation.
 

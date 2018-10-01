@@ -8,9 +8,7 @@ This lesson covers the "oh" sound heard in words like "dome" as well as your fir
 
 The vowel sound "oh" is given by the outline `OE`.
 
-{% stenodisplay labels="all" %}
-OE
-{% endstenodisplay %}
+<Steno-Display labels="all" stroke="OE" />
 
 * `OE`: owe
 * `OEPB`: own
@@ -30,7 +28,7 @@ OE
 * `PWOE`: bow
 * `TKOE`: dough
 
-#### But there's a catch!
+### But there's a catch!
 
 Plover Theory spells words with "or" in them \(corn, born, etc.\) with just the normal `O` instead of `OE`. The `OER` version is reserved for briefs.
 
@@ -70,7 +68,7 @@ One recurring pattern in the Plover dictionary is squashing two syllable words w
 
 You can imagine speaking in a Cockney accent if it helps you remember this pattern. You substitute the middle consonant with a stop.
 
-### Briefs
+## Briefs
 
 | Chord    | Translation | Notes                                                                                                                      |
 |:---------|:------------|:---------------------------------------------------------------------------------------------------------------------------|
@@ -88,7 +86,7 @@ You can imagine speaking in a Cockney accent if it helps you remember this patte
 | TOPBT    | tonight     |                                                                                                                            |
 | TOEPL    | tomorrow    |                                                                                                                            |
 
-### Vocabulary: Family
+## Vocabulary: Family
 
 | Chord            | Translation | Notes |
 |:-----------------|:------------|:------|
@@ -100,9 +98,9 @@ You can imagine speaking in a Cockney accent if it helps you remember this patte
 | TKAUR            | daughter    |       |
 | PARPBT, PAEURPBT | parent      |       |
 
-### Practice
+## Practice
 
-#### 1. Translate
+### 1. Translate
 
 Write the English sentence represented by these outlines, including punctuation.
 
@@ -136,7 +134,7 @@ Write the English sentence represented by these outlines, including punctuation.
 19. Tomorrow is an important day for me.
 20. You should check out their other important works before tomorrow.
 
-#### 2. Find Outlines
+### 2. Find Outlines
 
 Find steno outlines that will write these English sentences, including punctuation.
 

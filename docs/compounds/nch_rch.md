@@ -4,13 +4,11 @@ _Special thanks to Thomas Pacheco for funding this lesson._
 
 This lesson covers how to write words with the -nch and -rch suffixes like "arch" and "hunch".
 
-### -rch
+## -rch
 
 To end a word with "rch", we use the chord `-FRPB`.
 
-{% stenodisplay labels="all" %}
--FRPB
-{% endstenodisplay %}
+<Steno-Display labels="all" stroke="-FRPB" />
 
 * `AFRPB`: arch
 * `SEFRPB`: search
@@ -22,7 +20,7 @@ To end a word with "rch", we use the chord `-FRPB`.
 * `PHAFRPB`: march
 * `KHUFRPB`: church
 
-### -nch
+## -nch
 
 For the most part, `-FRPB` also works for "nch":
 
@@ -35,9 +33,7 @@ For the most part, `-FRPB` also works for "nch":
 
 However, if there is a collision where a word can end with either rch or nch, such as with "lurch" and "lunch", the -nch word is written with `-FRPBLG`.
 
-{% stenodisplay labels="all" %}
--FRPBLG
-{% endstenodisplay %}
+<Steno-Display labels="all" stroke="-FRPBLG" />
 
 * `HRUFRPBLG`: lunch
   * `HRUFRPB`: lurch

@@ -8,9 +8,7 @@ This lesson covers how you write initial Y and Z in steno, like in the words "zo
 
 Left side Y is given by the outline `KWR`.
 
-{% stenodisplay labels="all" %}
-Y
-{% endstenodisplay %}
+<Steno-Display labels="all" stroke="Y" />
 
 * `KWREP`: yep
 * `KWRUPL`: yum
@@ -20,13 +18,11 @@ Y
 * `KWRORBG`: York
 * `KWROE`: yo
 
-### Left side Z
+## Left side Z
 
 Left side Z is given by the outline `S*`. However, if there is a conflict, sometimes we get Z from the much larger `STKPW`.
 
-{% stenodisplay labels="all" %}
-S*
-{% endstenodisplay %}
+<Steno-Display labels="all" stroke="S*" />
 
 * `S*EUG`: zig
 * `SA*G`: zag
@@ -36,7 +32,7 @@ S*
 * `SO*EPB`: zone
 * `STKPWEFR`: zephyr
 
-### Briefs
+## Briefs
 
 | Chord | Translation | Notes |
 | :--- | :--- | :--- |
@@ -44,13 +40,13 @@ S*
 | KWR-D | idea |  |
 | KWR-L, KWR-LD | ideal |  |
 
-### Practice
+## Practice
 
-#### 1. Translate
+### 1. Translate
 
 Write the English sentence represented by these outlines, including punctuation.
 
-### 2. Find Outlines
+## 2. Find Outlines
 
 Find steno outlines that will write these English sentences, including punctuation.
 

@@ -4,11 +4,9 @@ The final key on the steno layout is also the biggest one. It lies on top of the
 
 The number bar is functionally just one key. On some steno machines it is split into many parts for comfort or aesthetics.
 
-{% stenodisplay labels="all" %}
-#
-{% endstenodisplay %}
+<Steno-Display labels="all" stroke="#" />
 
-### Single Digits
+## Single Digits
 
 Pressing the number bar alone doesn't do anything. Instead, it behaves sort of like a shift key that turns keys into numbers. If you just press the bare number bar, unless you have it mapped to some translation, you will just get the pound symbol `#`.  You need to hit the number bar with certain steno keys to get digits.
 
@@ -25,13 +23,13 @@ Note that the order is pretty predictable, except the 0 which is sitting in the 
 
 For fingering, you can hit the number bar with any finger you like. Some people hit it with the letter they are using \(for example, `#S` would be the pinky in the crack between the number bar and the top S key\), and others hit it with the same fingers all the time \(such as the middle finger, which is the longest\).
 
-### Multiple Digits
+## Multiple Digits
 
 If you hit multiple steno keys at the same time as the number bar, you will get the equivalent of pressing them all in steno order. "123456" can be written in just a single stroke with `#STPHAF`.
 
 Using multiple digits, we can break down large numbers into just a couple strokes by writing down the parts that are in steno order. For example, "1384257" can be written in three strokes with `#SP-L #H #TAP`.
 
-### Reversal
+## Reversal
 
 The last tool we will learn about for the number bar in this introduction is reversal. By adding the chord `EU` to our number stroke, the steno order of the numbers is reversed. `#TP` is "23", `#TPEU` is "32".
 
@@ -39,9 +37,9 @@ In Plover's dictionary, only pairs of numbers \(10-98\) are reversible by defaul
 
 Now we can write complex numbers like "602208" in just two strokes: `#TOEUF #TOL`.
 
-### Practice
+## Practice
 
-#### 1. Translate
+### 1. Translate
 
 Write the English sentence represented by these outlines, including punctuation.
 
@@ -49,7 +47,7 @@ Write the English sentence represented by these outlines, including punctuation.
 2. `-F -T #SAO E KEPT #AEUP KW-PL OR HAF TP-PL`
 3. `WHA R -T #ST STEPS H-F`
 
-#### 2. Find Outlines
+### 2. Find Outlines
 
 Find steno outlines that will write these English sentences, including punctuation.
 

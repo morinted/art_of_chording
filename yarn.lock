@@ -4953,6 +4953,11 @@ path-parse@^1.0.5:
   resolved "https://registry.yarnpkg.com/path-parse/-/path-parse-1.0.6.tgz#d62dbb5679405d72c4737ec58600e9ddcf06d24c"
   integrity sha512-GSmOT2EbHrINBf9SR7CDELwlJ8AENk3Qn7OikK4nFYAu3Ote2+JYNVvkpAEQm3/TLNEJFD/xZJjzyxg3KBWOzw==
 
+path-svg@^0.2.1:
+  version "0.2.1"
+  resolved "https://registry.yarnpkg.com/path-svg/-/path-svg-0.2.1.tgz#1dddbbde61101d914027ece160e6c5442b19bf09"
+  integrity sha1-Hd273mEQHZFAJ+zhYObFRCsZvwk=
+
 path-type@^3.0.0:
   version "3.0.0"
   resolved "https://registry.yarnpkg.com/path-type/-/path-type-3.0.0.tgz#cef31dc8e0a1a3bb0d105c0cd97cf3bf47f4e36f"
