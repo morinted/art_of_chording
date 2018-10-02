@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "repository": "https://github.com/morinted/art_of_chording.git",
   "author": "Ted Morin <morinted@gmail.com>",
-  "license": "CC BY-SA 4.0",
+  "license": "CC-BY-SA-4.0",
   "private": false,
   "devDependencies": {
     "path-svg": "^0.2.1",

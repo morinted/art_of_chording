@@ -1,6 +1,7 @@
 module.exports =
   { title: 'Art of Chording'
   , description: 'Learn stenography with Plover to get thought to text faster and more ergonomically than typing.'
+  , ga: 'UA-102613911-3'
   , themeConfig:
     { lastUpdated: 'Last Updated'
     , sidebar:
