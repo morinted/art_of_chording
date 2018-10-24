@@ -4,6 +4,8 @@ module.exports =
   , ga: 'UA-102613911-3'
   , themeConfig:
     { lastUpdated: 'Last Updated'
+    , editLinks: true
+    , editLinkText: 'Suggest a change'
     , sidebar:
       [ '/'
       , { title: 'Introduction'
