@@ -4,6 +4,8 @@ module.exports =
   , ga: 'UA-102613911-3'
   , themeConfig:
     { lastUpdated: 'Last Updated'
+    , repo: 'morinted/art_of_chording'
+    , docsDir: 'docs'
     , editLinks: true
     , editLinkText: 'Suggest a change'
     , sidebar:
