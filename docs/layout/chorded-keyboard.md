@@ -35,7 +35,7 @@ Most stenographers will memorize steno order, either in study or as a consequenc
 
 Unlike a keyboard, stenography's entire layout is almost fully covered by just its home row. **The home position for stenography is between the cracks for each set of keys.**
 
-The only keys not covered in the home row are `*`, `-D`, and `-Z`. To hit these, your fingers will need to shift to the side during writing. Otherwise, **your** **hand position never changes **which makes for great ergonomics.
+The only keys not covered in the home row are `*`, `-D`, and `-Z`. To hit these, your fingers will need to shift to the side during writing. Otherwise, **your hand position never changes** which makes for great ergonomics.
 
 ### Finger Position
 
