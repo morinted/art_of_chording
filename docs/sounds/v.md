@@ -53,7 +53,7 @@ Right side V is given by the outline `*F`, but if there is no conflict with a wo
 | EFRPB | everyone    |                      |
 | EFRB  | everybody   |                      |
 | EFRG  | everything  |                      |
-| FOFR  | forever     |                      |
+| TPOFR | forever     |                      |
 
 ## Practice
 
