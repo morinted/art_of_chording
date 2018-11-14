@@ -78,7 +78,7 @@ On some hardware, pressing this many keys might be difficult. Make sure you aren
 | TR, T-R     | interest    |                                                                       |
 | TRG, T-RG   | interesting |                                                                       |
 | TKPW-B      | goodbye     |                                                                       |
-| TKPW-PBT    | goodnight   |                                                                       |
+| TKPWAOPBT   | good night  |                                                                       |
 | H-L         | hello       |                                                                       |
 | TKPWEPB     | again       |                                                                       |
 | TKPWEPBS    | against     |                                                                       |
