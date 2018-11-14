@@ -50,7 +50,7 @@ The left side J and soft G sounds are formed on the left hand with `SKWR`.
 * `SKWROPB`: John
 * `SKWRABG`: jack
 * `SKWREUPL`: gym
-* `SKWREUF`: gif
+* `SKWREU*F`,`TKPWEU*F`: GIF
 
 ## Right side J
 
