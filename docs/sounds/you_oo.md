@@ -64,7 +64,7 @@ We also use the `AO` combination to write out words that have the vowels "oa" li
   * `TKPWRAOPB`: groan
 * `TOED`: today \(brief\)
   * `TAOD`: toad
-* `SOR`: sore, `SOER`: sorry \(brief\)
+* `SOR`: sore, `SO*ER`: sorry \(brief\)
   * `SAOR`: soar
 * `PWORD`: bored, `PWOERD`: bothered
   * `PWAORD`: board
