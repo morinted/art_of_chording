@@ -69,7 +69,7 @@ This is best illustrated through examples:
 | `AOEPB`           | even        |                                                                |
 | `AOEPBL`          | evenly      |                                                                |
 | `TKAOET`          | detail      |                                                                |
-| `PAOEP`, `PAOEPL` | people      |                                                                |
+| `PAOEPL`          | people      |                                                                |
 | `THEZ`            | these       |                                                                |
 | `PHREZ`, `PHRAES` | please      |                                                                |
 | `R-L`, `HRAOERL`  | really      | `HRAOERL` inverts the syllables, from "real-ly" to "ly-real"  |
