@@ -6,11 +6,12 @@
   "license": "CC-BY-SA-4.0",
   "private": false,
   "devDependencies": {
+    "@vuepress/plugin-google-analytics": "^1.0.0-rc.1",
     "path-svg": "^0.2.1",
-    "vuepress": "^0.14.4"
+    "vuepress": "^1.2.0"
   },
   "scripts": {
-    "dev": "vuepress dev docs",
+    "start": "vuepress dev docs",
     "build": "vuepress build docs"
   }
 }
