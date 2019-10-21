@@ -18,7 +18,7 @@ The "ay" sound is a combination of the vowels "a" and "i", and the outline is `A
 * `PHAEUBG`: make
 * `TAEUBG`: take
 * `HRAEUPL`: lame
-* `PWHRAUPL`: blame
+* `PWHRAEUPL`: blame
 * `PHAEUR`: mayor
 * `TPHRAEUPL`: flame
 * `TPHRAEUR`: flair
