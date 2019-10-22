@@ -41,7 +41,7 @@ Plover Theory spells words with "or" in them \(corn, born, etc.\) with just the 
 * `TORPB`: torn
   * `TOERPB`: attorney
 * `STOR`: store
-  * `STOER`
+  * `STOER`: story
 * `STORPL`: storm
 
   * `STOERPL`: stormy
