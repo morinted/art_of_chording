@@ -65,7 +65,7 @@ The first use of the asterisk for us is with final "th". Adding an asterisk to a
 
 Write the English sentence represented by these outlines, including punctuation.
 
-1. `U SHO AULS DO THA PW-FR AEU PWA*T TP-PL`
+1. `U SHO AULS TKO THA PW-FR AEU PWA*T TP-PL`
 2. `-T KAT K SKP HR SKRAFP U TP-PL`
 3. `SUFP S HROF TP-PL`
 4. `T S AEU STREFP PWUT SHE K TKO T TP-PL`
