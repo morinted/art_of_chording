@@ -60,7 +60,7 @@ Write the English sentence represented by these outlines, including punctuation.
 4. `HE PHOBGS PHE AULS TP-PL`
 5. `U SHO EPLT PHEU KAR PW-FR U TKO -T TREUP TP-PL`
 6. `PHEU PHOPL S -T PWOPL SKHRAPL`
-7. `LEF -T PWUS SKHRAPL`
+7. `HREF -T PWUS SKHRAPL`
 
 ## 2. Find Outlines
 
