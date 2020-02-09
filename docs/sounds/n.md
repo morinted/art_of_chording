@@ -52,8 +52,7 @@ There are a lot of briefs that use Ns. This is not an extensive list.
 | TPHU   | new         |                                                                      |
 | TPHEU  | any         |                                                                      |
 | TPHOG  | nothing     |                                                                      |
-| TPH-R  | nowhere     |                                                                      |
-| TPH-B  | nobody      |                                                                      |
+| TPHOEB | nobody      |                                                                      |
 | TPH-L  | until       |                                                                      |
 | S-PB   | season      |                                                                      |
 | T-PB   | continue    |                                                                      |
