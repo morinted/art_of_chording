@@ -18,6 +18,7 @@ The hard G sound is formed on the left hand with `TKPW`.
 * `TKPWAEUT`: gait
 * `TKPWOUT`: gout
 * `TKPWRAEUD`: grade
+* `TKPW*EUF`: GIF
 
 ## Right side G as -ing
 
@@ -50,7 +51,7 @@ The left side J and soft G sounds are formed on the left hand with `SKWR`.
 * `SKWROPB`: John
 * `SKWRABG`: jack
 * `SKWREUPL`: gym
-* `SKWREUF`: gif
+* `SKWR*EUF`: GIF
 
 ## Right side J
 
