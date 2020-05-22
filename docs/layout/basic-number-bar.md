@@ -54,6 +54,6 @@ Find steno outlines that will write these English sentences, including punctuati
 1. She is 40.
 2. He had 500.
 3. Step 1: start.
-4. 90210.
+4. 90210\.
 
 Can you write 90210 in just two strokes?
