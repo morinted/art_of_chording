@@ -8,7 +8,7 @@
   "devDependencies": {
     "@vuepress/plugin-google-analytics": "^1.0.0-rc.1",
     "path-svg": "^0.2.1",
-    "vuepress": "^1.2.0"
+    "vuepress": "^1.5.2"
   },
   "scripts": {
     "start": "vuepress dev docs",
