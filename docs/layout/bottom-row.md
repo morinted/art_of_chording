@@ -4,8 +4,8 @@ This lesson introduces about most of the remainder of the keyboard: the **bottom
 
 The keys used in this lesson include those used in lesson 2, as well as:
 
-* `SKWR O E RBGS`
-* `1234 5 5 4321`
+- `SKWR O E RBGS`
+- `1234 5 5 4321`
 
 The numbers show the fingers for each key, where 1's are the pinkies and 5 are the thumbs.
 
@@ -27,14 +27,14 @@ Sometimes, in Plover theory, we revert to spelling. You will see this in the upc
 
 Now that we know most of the keyboard, there are many possible briefs to form.
 
-| Chord        | Translation | Notes                                                |
-|:-------------|:------------|:-----------------------------------------------------|
-| R- or -R     | are         | Either side works.                                   |
+| Chord        | Translation | Notes                                               |
+| :----------- | :---------- | :-------------------------------------------------- |
+| R- or -R     | are         | Either side works.                                  |
 | SKP-         | and         | This stroke is arbitrary, remember it by hand shape |
-| AEU          | a           | This is the word "a"                                  |
-| K-           | can         |                                                      |
+| AEU          | a           | This is the word "a"                                |
+| K-           | can         |                                                     |
 | W-           | with        | Many people use "w" as an abbreviation for "with"   |
-| -B           | be          | The letter "B" is a homophone to "be"                |
+| -B           | be          | The letter "B" is a homophone to "be"               |
 | HE or just E | he          | Spelling instead of phonetic                        |
 | SHE          | she         | Spelling instead of phonetic                        |
 | WE           | we          | Spelling instead of phonetic                        |

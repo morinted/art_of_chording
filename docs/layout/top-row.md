@@ -4,8 +4,8 @@ This lesson introduces about **half the keyboard**: the **top row** of the keybo
 
 The keys used in this lesson are:
 
-* `STPH A U FPLT`
-* `1234 5 5 4321`
+- `STPH A U FPLT`
+- `1234 5 5 4321`
 
 The numbers show the fingers for each key, where 1's are the pinkies and 5 are the thumbs.
 
@@ -46,7 +46,7 @@ The `U` key tends to sound like "uh" in Plover, or is used sometimes when the wo
 The more common a word, the more likely it has a brief. In fact, the first bit of steno theory you are about to learn is about briefs that you can make with just `STPHAUFPLT`.
 
 | Chord     | Translation | Notes                                    |
-|:----------|:------------|:-----------------------------------------|
+| :-------- | :---------- | :--------------------------------------- |
 | S-        | is          |                                          |
 | T-        | it          |                                          |
 | H-        | had         |                                          |
@@ -55,7 +55,7 @@ The more common a word, the more likely it has a brief. In fact, the first bit o
 | -T        | the         |                                          |
 | TP-PL     | {.}         | Period. Next word is capitalized         |
 | H-F       | {?}         | Question mark. Next word is capitalized. |
-| STPH-FPLT | {:}         | Colon.            |
+| STPH-FPLT | {:}         | Colon.                                   |
 
 _\*Notice that _`{}`_ are used to denote a special character in Plover's translation format._
 

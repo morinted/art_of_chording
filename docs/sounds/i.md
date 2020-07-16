@@ -2,7 +2,7 @@
 
 This lesson covers how you write the vowel sound in "ill" and "his".
 
----------
+---
 
 The letter I is missing from the base layout, and is instead made with the chord `EU`.
 
@@ -10,32 +10,32 @@ The letter I is missing from the base layout, and is instead made with the chord
 
 This is the lax version of "i", as found in:
 
-* `EUL`: ill
-* `HEUL`: hill
-* `PEUT`: pit
-* `HEUP`: hip
-* `SEUP`: sip
-* `STEUL`: still
-* `WHEUP`: whip
-* `KEUS`: kiss
-* `TEULT`: tilt
-* `WREUT`: writ
+- `EUL`: ill
+- `HEUL`: hill
+- `PEUT`: pit
+- `HEUP`: hip
+- `SEUP`: sip
+- `STEUL`: still
+- `WHEUP`: whip
+- `KEUS`: kiss
+- `TEULT`: tilt
+- `WREUT`: writ
 
 ## Briefs
 
-| Chord | Translation | Notes                          |
-|:------|:------------|:-------------------------------|
+| Chord | Translation | Notes                         |
+| :---- | :---------- | :---------------------------- |
 | EU    | I           | Always capitalized            |
 | HEU   | hi          | Spelling instead of phonetics |
 | HEUS  | his         | Spelling instead of phonetics |
-| WEU   | which       |                                |
+| WEU   | which       |                               |
 | PWEU  | by          | Spelling instead of phonetics |
-| WREU  | write       |                                |
-| THEU  | think       |                                |
-| HREUF | live        |                                |
-| HREUL | little      |                                |
-| PREUT | pretty      |                                |
-| UR    | you're      |                                |
+| WREU  | write       |                               |
+| THEU  | think       |                               |
+| HREUF | live        |                               |
+| HREUL | little      |                               |
+| PREUT | pretty      |                               |
+| UR    | you're      |                               |
 
 ## Practice
 

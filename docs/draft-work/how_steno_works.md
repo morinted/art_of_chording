@@ -26,11 +26,11 @@ The home row is actually the cracks between the keys.
 
 ## Striking keys on a keyboard
 
-**In typing,** there are three types of keys: symbols, modifiers, and commands.  Symbol keys output a symbol when you strike them. Press the `a` key, an `a` appears on the screen. Modifiers, like the "shift" key, change the behavior of the symbol keys. When holding shift, `a` becomes `A`.
+**In typing,** there are three types of keys: symbols, modifiers, and commands. Symbol keys output a symbol when you strike them. Press the `a` key, an `a` appears on the screen. Modifiers, like the "shift" key, change the behavior of the symbol keys. When holding shift, `a` becomes `A`.
 
 Finally, command keys exist which aid with navigation of the computer. You can use delete, backspace, and the arrow keys to aid in editing a document, or page up, page down, home, and end to navigate documents.
 
-Hitting a single key in typing is called a *keystroke*.
+Hitting a single key in typing is called a _keystroke_.
 
 For the most part, typing is a very "serial" operation; meaning the keys you hit have output in the same order that you hit them. If you type `t e h` the output is, obviously, `teh`, even if you were trying to write `the`.
 
@@ -49,13 +49,13 @@ Unlike keyboarding, the difference between commands, symbols, and modifiers is n
 
 Instead, there's a level of abstraction. Any combination of a set of keys (including a single key) can be mapped to any set of actions. So in typing, you have one key for each of `t`, `h`, and `e`, and you must use all three of them (in the right order) to accomplish writing `the`. In steno, we map a single keystroke to the word `the` because it's so common in English. This is an example of one key with a single stroke mapping to three "actions" (`t`, `h`, and `e`.)
 
-Hitting a set of keys in steno is called a *stroke*.
+Hitting a set of keys in steno is called a _stroke_.
 
-The steno keyboard layout actually has *an order*. If you wanted to indicate on Qwerty that you hit the `t`, `h`, and `e` keys in no particular order, you could say `the`, `teh`, `eth`, `eht`, `het`, or `hte`. In steno, we have a rule so that the order of the keys will always be the same so that when you hit `TOP` it's always read and talked about as `top` and not `pot`, `tpo`, `opt`, or anything else. **Steno order** is a critical building block in how steno works, and nothing like it exists on a regular keyboard.
+The steno keyboard layout actually has _an order_. If you wanted to indicate on Qwerty that you hit the `t`, `h`, and `e` keys in no particular order, you could say `the`, `teh`, `eth`, `eht`, `het`, or `hte`. In steno, we have a rule so that the order of the keys will always be the same so that when you hit `TOP` it's always read and talked about as `top` and not `pot`, `tpo`, `opt`, or anything else. **Steno order** is a critical building block in how steno works, and nothing like it exists on a regular keyboard.
 
 **A steno stroke ends up mapping to roughly a syllable.** While many proper English syllables can be formed, sometimes they are nonsensical. For example, there can be too many consonants that don't really make sense together (`SKPATD`) or there's no vowel present (`P-L`), or it's just a single letter (`W`), but the bulk of strokes map to simple sounds that you should be able to decipher: `POT`, `MOM`, `KAT`, `SHOP`, `TRAK`, `TRUBL`. Additionally, syllables can be strung together to form more complex words. For example: `WIN/DOE` or `UN/RE/MARK/-BL`.
 
-While there is something to be said for the difficulty of forming certain strokes with our fingers, **usually the number of keys used is less important than the number of strokes**. To hit five keys on a steno machine is usually about as easy as pressing one. This means that, for the same effort as one stroke, we can express *a lot more* than a single letter. And that's where steno's speed comes from.
+While there is something to be said for the difficulty of forming certain strokes with our fingers, **usually the number of keys used is less important than the number of strokes**. To hit five keys on a steno machine is usually about as easy as pressing one. This means that, for the same effort as one stroke, we can express _a lot more_ than a single letter. And that's where steno's speed comes from.
 
 ## What a steno strokes maps to
 
@@ -179,30 +179,30 @@ Phrases that are briefs of their own:
 
 Now you know about the basic building blocks that stenographers use when writing. Instead of writing letter-by-letter, they break down sentences into phrases, briefs, words, affixes, and symbols, as necessary. Let's look at some sentences and look at how a stenographer might break them down:
 
-| | |
-|------|----|
-| Text | The quick brown fox jumps over the lazy dog. |
-| Steno | `-T KWIK BROUN FOX JUMPS OEFR -T LAEZ DOG TP-PL` |
-| Briefs | `-T: the`, `LAEZ: lazy` |
-| Words | `KWIK`, `BROUN`, `FOX`, `JUMPS`, `OEFR`, `DOG` |
-| Symbols | `TP-PL: .` |
-| Steno Strokes | 10 |
-| Typing Strokes | 44 |
+|                |                                                  |
+| -------------- | ------------------------------------------------ |
+| Text           | The quick brown fox jumps over the lazy dog.     |
+| Steno          | `-T KWIK BROUN FOX JUMPS OEFR -T LAEZ DOG TP-PL` |
+| Briefs         | `-T: the`, `LAEZ: lazy`                          |
+| Words          | `KWIK`, `BROUN`, `FOX`, `JUMPS`, `OEFR`, `DOG`   |
+| Symbols        | `TP-PL: .`                                       |
+| Steno Strokes  | 10                                               |
+| Typing Strokes | 44                                               |
 
 Let's try something a little more involved:
 
-| | |
-|------|----|
-| Text | Learn to enjoy every minute of your life. Be happy now. Don't wait for something outside of yourself to make you happy in the future. Think how really precious is the time you have to spend, whether it's at work or with your family. Every minute should be enjoyed and savored. |
-| Steno | `LERN TO EN JOI EFR MIN -F YOUR LAOIF TP-PL -B HAEP NOU TP-PL DOENT WAIT F-R S-G AOUDZ -F YAOURS TO MAIK U HAEP N -T FAOUCH TP-PL THI HOU R-L PRESHS S -T TAOIM U V TO SPEND KW-BG WHR T-S AT WORK OR W YOUR FAEM TP-PL EFR MIN SHOB EN JOI -D SKP SAIFRD TP-PL` |
-| Phrases | `SHOB: should be` |
-| Briefs | `EFR: every`, `MIN: minute`, `-F: of`, `-B: be`, `HAEP: happy`, `F-R: for`, `S-G: something`, `AOUDZ: outside`, `YAOURS: yourself`, `U: you`, `N: in`, `-T: the`, `FAOUCH: future`, `THI: think`, `R-L: really`, `S: is`, `V: have`, `WHR: whether`, `T-S: it's`, `W: with`, `FAEM: family`, `SKP: and` |
-| Words | `LERN`, `TO`, `JOI`, `YOUR`, `LAOIF`, `NOU`, `DOENT`, `WAIT`, `MAIK`, `HOU`, `PRESHS`, `TAOIM`, `SPEND`, `AT`, `WORK`, `OR`, `SAIFRD` |
-| Prefixes | `EN` (**en**joy) |
-| Suffixes | `-D` (enjoy**ed**) |
-| Symbols | `TP-PL: .`, `KW-BG: ,` |
-| Steno Strokes | 59 |
-| Typing Strokes | 267 |
+|                |                                                                                                                                                                                                                                                                                                         |
+| -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Text           | Learn to enjoy every minute of your life. Be happy now. Don't wait for something outside of yourself to make you happy in the future. Think how really precious is the time you have to spend, whether it's at work or with your family. Every minute should be enjoyed and savored.                    |
+| Steno          | `LERN TO EN JOI EFR MIN -F YOUR LAOIF TP-PL -B HAEP NOU TP-PL DOENT WAIT F-R S-G AOUDZ -F YAOURS TO MAIK U HAEP N -T FAOUCH TP-PL THI HOU R-L PRESHS S -T TAOIM U V TO SPEND KW-BG WHR T-S AT WORK OR W YOUR FAEM TP-PL EFR MIN SHOB EN JOI -D SKP SAIFRD TP-PL`                                        |
+| Phrases        | `SHOB: should be`                                                                                                                                                                                                                                                                                       |
+| Briefs         | `EFR: every`, `MIN: minute`, `-F: of`, `-B: be`, `HAEP: happy`, `F-R: for`, `S-G: something`, `AOUDZ: outside`, `YAOURS: yourself`, `U: you`, `N: in`, `-T: the`, `FAOUCH: future`, `THI: think`, `R-L: really`, `S: is`, `V: have`, `WHR: whether`, `T-S: it's`, `W: with`, `FAEM: family`, `SKP: and` |
+| Words          | `LERN`, `TO`, `JOI`, `YOUR`, `LAOIF`, `NOU`, `DOENT`, `WAIT`, `MAIK`, `HOU`, `PRESHS`, `TAOIM`, `SPEND`, `AT`, `WORK`, `OR`, `SAIFRD`                                                                                                                                                                   |
+| Prefixes       | `EN` (**en**joy)                                                                                                                                                                                                                                                                                        |
+| Suffixes       | `-D` (enjoy**ed**)                                                                                                                                                                                                                                                                                      |
+| Symbols        | `TP-PL: .`, `KW-BG: ,`                                                                                                                                                                                                                                                                                  |
+| Steno Strokes  | 59                                                                                                                                                                                                                                                                                                      |
+| Typing Strokes | 267                                                                                                                                                                                                                                                                                                     |
 
 If our goal was to produce this quote at 200WPM, given 5 characters on average per word (so 1000CPM), the quote would need to be written in 16.02 seconds.
 

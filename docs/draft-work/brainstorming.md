@@ -34,36 +34,35 @@ Categorize by... alphabet? Frequency? Similarity?
 
 ### Broad Discussion Topics
 
-* S-P and TK-LS need to be mentioned here, maybe arrow key movements too?
+- S-P and TK-LS need to be mentioned here, maybe arrow key movements too?
 
 Shortening principles:
 
-* -y words \(oh my goodness :O, this'll be big...\)
-  * KWREU
-  * SKWREU
-  * REU, HREU, PWEU...
-* -ie, -ey, -ee
-* Inversion
+- -y words \(oh my goodness :O, this'll be big...\)
+  - KWREU
+  - SKWREU
+  - REU, HREU, PWEU...
+- -ie, -ey, -ee
+- Inversion
 
-- All top 100 words covered ✓
-
+* All top 100 words covered ✓
 
 Words beginning with:
 
-* co, con, com
-* o, on
-* pre, pro
-* re, de
-* in, int, inter
-* un, under
+- co, con, com
+- o, on
+- pre, pro
+- re, de
+- in, int, inter
+- un, under
 
 Advanced number usage, such as -Z, -D, clock times, Roman numerals?
 
 Brief families:
 
-* Months of the year, days of the week
-* Units inch, feet, kilometers, kilograms etc.
-* Phrases
+- Months of the year, days of the week
+- Units inch, feet, kilometers, kilograms etc.
+- Phrases
 
 I want to get Jeff to make illustrations, mainly to draw the exercise sentences. I want a wet rat to be hugged.
 

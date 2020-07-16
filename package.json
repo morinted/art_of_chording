@@ -8,10 +8,21 @@
   "devDependencies": {
     "@vuepress/plugin-google-analytics": "^1.0.0-rc.1",
     "path-svg": "^0.2.1",
+    "prettier": "^2.0.5",
     "vuepress": "^1.5.2"
   },
   "scripts": {
     "start": "vuepress dev docs",
-    "build": "vuepress build docs"
+    "build": "vuepress build docs",
+    "prettier": "prettier --write ."
+  },
+  "prettier": {
+    "trailingComma": "es5",
+    "tabWidth": 2,
+    "semi": false,
+    "singleQuote": true
+  },
+  "dependencies": {
+    "@vue/composition-api": "^1.0.0-beta.3"
   }
 }

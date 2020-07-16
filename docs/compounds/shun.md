@@ -4,27 +4,27 @@ _Special thanks to Thomas Pacheco for funding this lesson._
 
 This lesson covers how to write words that end in "shun" like "ration" and "action".
 
--------
+---
 
 To end a word with the "shun" sound we use the chord `-GS` on the right hand.
 
 <Steno-Display labels="all" stroke="-GS" />
 
-* `TPAGS`: fashion
-* `RAGS`: ration
-* `PAGS`: passion
-* `OEGS`: ocean
-* `PHAPBGS`: mansion
-* `SHRAOUGS`: solution
+- `TPAGS`: fashion
+- `RAGS`: ration
+- `PAGS`: passion
+- `OEGS`: ocean
+- `PHAPBGS`: mansion
+- `SHRAOUGS`: solution
 
 Note that the `-GS` chord may conflict with words ending with "gs" such as "rags". Most of the time, you can just resolve this by using `-GZ`:
 
-* `RAGS`: ration
+- `RAGS`: ration
   - `RAGZ`: rags
 
 However, sometimes the "-shun" word gets an asterisk as it is less common than "-gs" word:
 
-* `RUGS`: rugs
+- `RUGS`: rugs
   - `R*UGS`: Russian
 
 Unfortunately, there's no hard and fast rule on when a word does and doesn't get the asterisk. You'll have to memorize the few exceptions over time. If you find that you use a certain stroke more often than the alternative, you do have the ability to remap it. For example, if you are writing "Russian" frequently for whatever reason, you might consider remapping `RUGS` to "Russian" and using `RUGZ` for "rugs".
@@ -47,21 +47,20 @@ Note that this conflicts with right-side X, which is the exact same chord. Usual
 
 ## Briefs
 
-|   Chord    |  Translation  | Notes |
-| :--------- | :------------ | :---- |
-| `KEBGT`    | connect       |       |
-| `KEBGS`    | connection    |       |
-| `TKAEUBGS` | education     |       |
-| `KAEUBGT`  | communicate   |       |
-| `KAEUBGS`  | communication |       |
-| `S-BGS`, `SPHEBGS` | sex   |       |       
+| Chord              | Translation   | Notes |
+| :----------------- | :------------ | :---- |
+| `KEBGT`            | connect       |       |
+| `KEBGS`            | connection    |       |
+| `TKAEUBGS`         | education     |       |
+| `KAEUBGT`          | communicate   |       |
+| `KAEUBGS`          | communication |       |
+| `S-BGS`, `SPHEBGS` | sex           |       |
 
 ## Practice
 
 ### 1. Translate
 
 Write the English sentence represented by these outlines, including punctuation.
-
 
 Remember that if you can't figure out an outline, you can look it up in the theory dictionary.
 

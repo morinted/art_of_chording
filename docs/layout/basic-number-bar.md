@@ -8,7 +8,7 @@ The number bar is functionally just one key. On some steno machines it is split 
 
 ## Single Digits
 
-Pressing the number bar alone doesn't do anything. Instead, it behaves sort of like a shift key that turns keys into numbers. If you just press the bare number bar, unless you have it mapped to some translation, you will just get the pound symbol `#`.  You need to hit the number bar with certain steno keys to get digits.
+Pressing the number bar alone doesn't do anything. Instead, it behaves sort of like a shift key that turns keys into numbers. If you just press the bare number bar, unless you have it mapped to some translation, you will just get the pound symbol `#`. You need to hit the number bar with certain steno keys to get digits.
 
 The mapping from steno keys to numbers is as follows:
 
