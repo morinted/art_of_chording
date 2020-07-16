@@ -2,6 +2,8 @@
 
 Thanks for checking out *Art of Chording*. This book's goal is to enable anyone to learn stenography (or steno, for short.)
 
+<Steno-Stroker labels="all" v-bind:strokes="['STP', '-FPL']" />
+
 ## Stenography
 
 Stenography is the fastest way to write on a computer. Court reporters have used machine stenography since the early 1900s to create written records of human speech in real-time.
@@ -48,7 +50,7 @@ It has its roots in StenEd, but leans slightly more to the memory-intensive side
 
 A **steno dictionary** is a file that contains the mappings between keystrokes on the steno layout and the text that's produced. Plover's theory is stored in a dictionary file and it can be moved to other software should you decide to try other software in the future.
 
-In addition to a theory dictionary, stenographers are always defining their own personal dictionary. Everybody's mind works differently and sometimes you'll have a mnemonic or perspective that suits you better than what the theory you're using provides. 
+In addition to a theory dictionary, stenographers are always defining their own personal dictionary. Everybody's mind works differently and sometimes you'll have a mnemonic or perspective that suits you better than what the theory you're using provides.
 
 With Plover's dictionary, you can also [suggest changes and improvements](https://github.com/openstenoproject/plover/issues/400).
 
