@@ -10,7 +10,7 @@
         <path
           class="steno-key"
           fill="currentColor"
-          :fill-opacity="stroke[svgKey.key] ? 0.3 : 0"
+          :class="{ pressed: !!stroke[svgKey.key] }"
           :d="svgKey.keyPath"
         ></path>
         <text
@@ -124,5 +124,15 @@ svg {
   max-width: 550px;
   width: 100%;
   margin: 0 auto;
+}
+path.steno-key {
+  fill-opacity: 0;
+  /* Key-release animation. */
+  transition: fill-opacity 100ms ease-out;
+}
+path.steno-key.pressed {
+  fill-opacity: 0.3;
+  /* Key-press animation. */
+  transition: fill-opacity 50ms ease-out;
 }
 </style>

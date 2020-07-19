@@ -2,6 +2,8 @@
 
 Thanks for checking out _Art of Chording_. This book's goal is to enable anyone to learn stenography (or steno, for short.)
 
+<Demo-Comparison />
+
 <Steno-Stroker labels="all" v-bind:strokes="['STP', '-FPL']" />
 
 ## Stenography

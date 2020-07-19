@@ -19,9 +19,9 @@
 
 So let's take a sentence and break it down like a stenographer:
 
-Hello world, today I'm learning how a stenographer could break down a sentence in order to capture human speech more quickly than by typing. Unfortunately, it kind of looks like gibberish.
+> Hello world, today I'm learning how a stenographer could break down a sentence in order to capture human speech more quickly than by typing. Unfortunately, it kind of looks like gibberish.
 
-Hell lo worl , toed iim lerng hou ai snog fer ko braik doun ai stens nord to kap tuur huum speech mor kwik li than bi type g . Un fornlt , t kiind f luuks laik jib rish .
+> Hell lo worl , toed iim lerng hou ai snog fer ko braik doun ai stens nord to kap tuur huum speech mor kwik li than bi type g . Un fornlt , t kiind f luuks laik jib rish .
 
 Notice that words and strokes don't all map one-to-one. Strokes can be as little as letters or word parts, or could map to multiple words in a phrase.
 
