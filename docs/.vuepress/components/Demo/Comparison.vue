@@ -7,7 +7,6 @@
 
 <script>
 import {
-  ref,
   computed,
   onMounted,
   onUnmounted,
@@ -122,7 +121,6 @@ export default {
       if (state.wordIndex < demoStrokes.length) {
         state.word = demoStrokes[state.wordIndex][state.strokeIndex][0]
         state.timeoutId = setTimeout(() => processStroke(), 250)
-      } else {
       }
     }
 
