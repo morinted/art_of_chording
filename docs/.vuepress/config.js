@@ -14,7 +14,12 @@ module.exports = {
       {
         title: 'Introduction',
         collapsable: false,
-        children: ['/introduction/'],
+        children: [
+          '/introduction/',
+          '/introduction/how-steno-works',
+          '/introduction/why-this-book',
+          '/introduction/theories-and-dictionaries',
+        ],
       },
       {
         title: 'The Layout',
@@ -31,6 +36,7 @@ module.exports = {
         title: 'Hidden Sounds',
         children: [
           '/sounds/',
+          '/sounds/aw_ow_-k',
           '/sounds/dbl',
           '/sounds/ch_th',
           '/sounds/i',
