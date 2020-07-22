@@ -4,7 +4,7 @@ Thanks for checking out _Art of Chording_. This book's goal is to enable anyone 
 
 ## Stenography
 
-Stenography is the fastest way to write on a computer. Court reporters have used machine stenography since the early 1900s to create written records of human speech in real-time.
+Stenography is the fastest way to write on a computer. Court reporters have used machine stenography since the late 1800s to create written records of human speech in real-time.
 
 A steno machine can completely replace keyboard usage.
 

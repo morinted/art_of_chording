@@ -6,7 +6,19 @@ I'm still writing more lessons! If you'd like to support the writing of new less
 
 ## Brainstorming
 
+- Animated steno display for this page… Christmas lights style.
+- Add finger-placement indicators to steno display
+- Move steno order to end of "The Layout" section, and just mention that the layout reads left-to-right before that.
+  - Add arrows to steno order page.
+- Add glossary page
+- Have midchapter and end-of-chapter review pages
+- Convert lessons from Markdown to JavaScript + Vue components.
+
 ### Lesson Plan for Prefixes
+
+I have to go back and introduce prefixes early. I think that maybe between "The Layout" and "Hidden Sounds" I could introduce "Multistroke Words" starting with Prefixes and Suffixes in a little  lesson that covers RE-, A-, -S, -G, and -D. Then I could go on to show multistroke root words and contrast and compare.
+
+This would allow me to introduce more common prefixes and suffixes in hidden sounds, which provide a natural time to introduce certain affixes.
 
 Categorize by... alphabet? Frequency? Similarity?
 
@@ -45,7 +57,7 @@ Shortening principles:
 - -ie, -ey, -ee
 - Inversion
 
-* All top 100 words covered ✓
+- All top 100 words covered ✓
 
 Words beginning with:
 
