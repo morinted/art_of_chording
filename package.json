@@ -10,7 +10,8 @@
     "start": "vuepress dev docs"
   },
   "dependencies": {
-    "@vue/composition-api": "^1.0.0-beta.3"
+    "@vue/composition-api": "^1.0.0-beta.3",
+    "markdown-it-footnote": "^3.0.2"
   },
   "devDependencies": {
     "@vue/cli-plugin-eslint": "~4.4.0",

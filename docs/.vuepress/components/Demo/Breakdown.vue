@@ -39,7 +39,8 @@ export default {
   flex-direction: column;
 }
 .steno {
-  font-family: 'Courier New', Courier, monospace;
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
   font-size: 1.2rem;
 }
 .word-stroke {

@@ -1,12 +1,12 @@
 <template>
   <div>
     <svg
-      :viewBox="`0 0 ${this.$options.svgInfo.svgWidth} ${this.$options.svgInfo.svgHeight}`"
+      :viewBox="`0 0 ${svgInfo.svgWidth} ${svgInfo.svgHeight}`"
       xmlns="http://www.w3.org/2000/svg"
       xmlns:xlink="http://www.w3.org/1999/xlink"
-      :style="$options.svgInfo.svgStyle"
+      :style="svgInfo.svgStyle"
     >
-      <g v-for="svgKey in $options.svgInfo.svgKeys" :key="svgKey.key">
+      <g v-for="svgKey in svgInfo.svgKeys" :key="svgKey.key">
         <path
           class="steno-key"
           fill="currentColor"
@@ -15,7 +15,7 @@
         ></path>
         <text
           v-if="labels[svgKey.key]"
-          :style="$options.svgInfo.letterStyle"
+          :style="svgInfo.letterStyle"
           text-anchor="middle"
           dominant-baseline="central"
           :x="svgKey.x"
@@ -113,7 +113,9 @@ export default {
     labels: { type: Stroke, required: true },
     stroke: { type: Stroke, required: true },
   },
-  svgInfo,
+  data: () => ({
+    svgInfo,
+  }),
 }
 </script>
 <style scoped>

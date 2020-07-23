@@ -3,20 +3,21 @@ exampleSentence: Every great dream begins with a dreamer. Always remember, you h
 exampleChords: EFR GRAET DREEM GINS W AI DREEM *ER TP-PL AULS RER KW-BG U V W-N U -T STREN KW-BG -T PAISH ENS KW-BG SKP-T PASHN TO REECH F-RT STARS TO KHAING -T WORL TP-PL
 ---
 
-
 # How Steno Works
 
 I'm a programmer, and coworkers often come up to my desk not knowing that I use a stenography machine to program and type at my computer. As I start typing in front of them, they'll be looking at my screen. They see words and symbols bursting out, all at once, at speeds beyond most people's typing ability. Then, confused, they look down at my hands to see the reduced layout that I'm typing on. A steno machine only needs twenty-three keys, while normal keyboards have about a hundred. I wish I could capture everyone's face the first time they see a steno machine in action—that expression of shock and bewilderment.
 
+When I first heard of stenography, I was amazed. Stories of court reporters keeping up with multiple speakers in a courtroom, typing at a certified speed of 225 words per minute. Was that even possible? Did their school just teach them to type more quickly? Well, not quite.
+
 Stenography is one of those things that's hard to understand just by watching, and even if I tell you the basics, it's a skill that takes months or years to learn. Just as someone can show you how hitting keys on a piano makes sounds, it will take a while before you're able to play music or compose pieces on your own.
 
-Today I'm going to break down, as best I can, the biggest differences between a keyboard and a stenography machine and try to demonstrate how steno can be so much faster.
+I'm going to break down, as best I can, the biggest differences between a keyboard and a stenography machine and try to demonstrate how steno can be so much faster.
 
 ## In a Nutshell
 
-A typist hits **individual keys to express individual letters** as fast as possible. A stenographer makes **chords of multiple keys** at a slower rate, but those **chords can express whole words and phrases.** The result is about **three times as fast** as typing.
+A typist hits **individual keys to express individual letters** as fast as possible to spell words. A stenographer makes **chords of multiple keys** at a slower rate, but those **chords can express whole words and phrases**. The result is about **three times as fast** as typing.
 
-A stenography setup consists of a steno machine and steno software running on a computer. The machine can either be purpose-built or a keyboard that supports n-key rollover (hitting all the keys at once.) The software that is most commonly used by amateurs is [Plover](https://openstenoproject.org/Plover), which listens to what you do on the steno machine and then outputs keystrokes to whatever program you're using.
+A stenography setup consists of a steno machine and steno software running on a computer.^[Before computers existed, stenographers wrote to "paper tape" which only captured which keys were hit on the machine. After transcribing, the stenographer would have to go back and convert their "notes" into text, very much like pen shorthand. Nowadays, translation from key press to text is instant.] The machine can either be purpose-built or a keyboard that supports n-key rollover (hitting all the keys at once.) The software that is most commonly used by amateurs is [Plover](https://openstenoproject.org/Plover), which listens to what you do on the steno machine and then outputs keystrokes to whatever program you're using.
 
 ## Key Concepts
 
@@ -24,19 +25,41 @@ Keyboards are very simple to use. You just learn where the letters are, learn sh
 
 ### Chords
 
-Steno is a little more involved. The compressed layout itself is used to form *chords*, which loosely correspond to *syllables*. Using a steno machine feels a lot like playing a piano, and mentally the stenographer often maps between "steno speak" and "the English language."
+Steno is a little more involved. The compressed layout itself is used to form _chords_, which loosely correspond to _syllables_^[The reason I keep saying "syllables, loosely" is that the text representation of a chord is often unpronounceable. For example, `T-T` with no vowel, `SDINGD` which wouldn't sound like much, and `*` which is the shortcut to backspace the last chord.]. Using a steno machine feels a lot like playing a piano, and mentally the stenographer often maps between "steno speak" and "the English language."
 
-Where I say the word *chord*, you can imagine *syllable.*
+::: tip
+When I say the word _chord_, you can imagine _syllable._
+:::
 
-For example, a word like "catapult" is expressed by two chords on the steno machine, `KAT` and `PULT`.
+Take a look at the steno layout in all its glory:
 
-There are abbreviations (called *briefs*) for very common words, so single-key chords like `W` and `U` map to "with" and "you", respectively. There are also briefs for very long words, so the chord for "particular" is a syllable that sounds like `PLAR`; "government" is `GOFMT`.
+<Steno-Display stroke="" labels="all" />
+
+**The steno layout looks very different from a normal keyboard.** There are so few keys (no "N" key), repeated keys (a "T" key on each side), and vowels at the bottom. Let's look at how this weird layout can be used to type really fast.
+
+If a stenographer wants to type "cat", they sound it out. They **press down all the following keys, in any order**:
+
+<Steno-Display stroke="KAT" labels="all" />
+
+Upon release, the keys are read from left-to-right (with vowels in the middle, splitting the two halves of the keyboard around the `*` key) to produce the syllable `KAT` which outputs the word "cat".
+
+### Missing Letters
+
+Because there are so few (and repeated!) letters on the base stenography layout, missing sounds are given by chords of other keys. For example, to type a word starting with "L", the stenographer hits the keys `HR`. See if you can guess what this word is:
+
+<Steno-Display stroke="LAF" labels="all" />
+
+Upon release, the keys are read from left-to-right to produce the syllable `LAF` which outputs the word "laugh".
+
+### Briefs
+
+There are abbreviations (called _briefs_) for very common words, so single-key chords like `W` and `U` map to "with" and "you", respectively. There are also briefs for very long words, so the chord for "particular" is a syllable that sounds like `PLAR`; "government" is `GOFMT`.
 
 ### Prefixes, suffixes, and root words
 
 Compound words can be strung together thanks to a phonetic system of prefixes and suffixes. "Uncomfortable" could be written as "un" (prefix) + "comfort" (root word) + "able" (suffix). "Antidisestablishmentarianism" could be composed from the prefixes "anti" and "dis"; the root word "establish"; and the suffixes "ment", "arian", and "ism".
 
-Finally, if a word isn't composable from prefixes, suffixes, and root words and the stenographer doesn't have a way to write it yet, they can fall back to letter-by-letter spelling, which is called *fingerspelling*.
+Finally, if a word isn't composable from prefixes, suffixes, and root words and the stenographer doesn't have a way to write it yet, they can fall back to letter-by-letter spelling, which is called _fingerspelling_.
 
 ### Automatic capitalization and spacing
 

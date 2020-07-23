@@ -77,5 +77,8 @@ module.exports = {
       '/draft-work/brainstorming',
     ],
   },
+  extendMarkdown: (md) => {
+    md.use(require('markdown-it-footnote'))
+  },
   palette: { $accentColor: '#c9070d' },
 }

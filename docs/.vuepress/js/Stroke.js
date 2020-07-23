@@ -96,6 +96,7 @@ const NUMBER_TO_KEYS = new Map([
 ])
 const LEFT_SHORTCUTS = new Map([
   ['nt', 'spw'],
+  ['ch', 'kh'],
   ['j', 'skwr'],
   ['v', 'sr'],
   ['z', 'stkpw'],
