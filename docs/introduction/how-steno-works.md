@@ -62,7 +62,7 @@ Multisyllable words are strung together with multiple chords: `RE` plus `WARD` b
 Spelling is less of a problem because words just get sounded out:
 
 - `LA MA` → llama
-- `FA SIL TAIT` → fascilitate
+- `FA SIL TAIT` → facilitate
 - `WENS DAI` → Wednesday
 - `BA RA KU DA` → barracuda
 
@@ -88,7 +88,7 @@ When someone makes a typo in stenography, it's not a misplaced letter, it's a mi
 
 You might think that it's hard to input symbols if everything is sound-based. Quite the opposite is true! Stenographers can string out complex sequences of symbols, keyboard shortcuts, movement keys, and emoji through chords. This is a topic for another time, but rest assured that symbols are not a problem for stenography.
 
-## Example
+## Interactive Example
 
 You can play with the following example to see **a quote from Harriet Tubman written by a stenographer at different speeds.**
 
@@ -129,14 +129,16 @@ Our stenographer in this scenario clocks in at **{{ Math.round($frontmatter.exam
   ).toFixed(1)
 }} times as fast!
 
-## Summary
+## Steno is Fast
 
-Steno uses chording to make use of a smaller number of keys than a keyboard to generate many, many combinations. A chord on a steno machine can be represented roughly by a syllable-like sound, but it can map to anything such as words, letters, symbols, phrases, and more.
+Hopefully now you have a better understanding of how steno works and why it's so fast. Steno uses chording to multiply the power of a smaller number of keys than a normal keyboard. A chord on a steno machine can be represented by a syllable-like sound and it can map to words, letters, symbols, phrases, and more.
 
-Even though making chords on a steno machine is slower (average 3-4 chords a second) than a typist on a keyboard (average 5-10 keys a second), a stenographer gets more out of each chord and comes out on top.
+Even though making chords on a steno machine is slower (around 3-4 chords a second) than a typist on a keyboard (around 5-10 keys a second), a stenographer gets more out of each chord and comes out on top.
 
-A certified court reporter in the United States must be able to write 225 words per minute.
+Machine stenography was originally developed in the late 1800s for taking down spoken word, but has evolved to be used as a general keyboard replacement. It is used professionally in courtrooms, and as an accessibility tool for realtime captioning and transcription. A certified court reporter in the United States must be able to write 225 words per minute. Human speech is 180 words per minute. Most people type around 60 words per minute, but there are [exceptional typists](https://seanwrona.com/typing.php) who can type around 150 words per minute.
 
-Machine stenography was originally developed in the late 1800s for taking down spoken word, but has evolved to be used as a general keyboard replacement. It is used professionally in courtrooms, and as an accessibility tool for realtime captioning and transcription. It is used in an amateur fashion by hobbyists, writers, programmers, and office workers. This book, as part of the [Open Steno Project](http://www.openstenoproject.org/), aims to bring the art of stenography—the art of speaking through your fingers, _The Art of Chording_—to everyone.
+Stenography is used in an amateur fashion by hobbyists, writers, programmers, and office workers.^[See the diversity of learners in the [Open Steno Project community survey](http://plover.stenoknight.com/2020/03/corrected-survey-responses-link.html)] This book, as part of the [Open Steno Project](http://www.openstenoproject.org/), aims to bring the art of stenography—the art of speaking through your fingers, _The Art of Chording_—to everyone.
 
-So [download Plover today](https://github.com/openstenoproject/plover/releases) and learn how to use it with this free textbook.
+::: tip
+If you're fascinated with how steno works and you want to learn more, you're in the right place! This is a free, open source textbook that aims to teach steno to anyone and everyone. The Open Steno Project tries to keep software and learning materials free, while supporting the development of affordable hardware options. [Download Plover today](https://github.com/openstenoproject/plover/releases) and learn how to use it by moving on to the next lesson.
+:::
