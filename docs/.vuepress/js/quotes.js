@@ -35,7 +35,7 @@ const harrietTubman = [
   [[' to', 'TO']],
   [[' change', 'CHAING']],
   [[' the', '-T']],
-  [[' world', 'WORL']],
+  [[' world', 'WORLD']],
   [['.', 'TP-PL']],
 ]
 

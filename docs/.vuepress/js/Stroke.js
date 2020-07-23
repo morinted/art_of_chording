@@ -1,53 +1,56 @@
-const numberBarHeight = 0.55
-const firstRow = ['t', 'p', 'h', '', 'F', 'P', 'L', 'T', 'D'].reduce(
-  (result, stenoKey, index) => {
-    if (stenoKey) {
-      result[stenoKey] = {
-        x: index + 1,
-        y: numberBarHeight,
-        w: 1,
-        h: 1,
-        rounded: false,
+const NUMBER_BAR_HEIGHT = 0.55
+const firstRow = (numberBarHeight) =>
+  ['t', 'p', 'h', '', 'F', 'P', 'L', 'T', 'D'].reduce(
+    (result, stenoKey, index) => {
+      if (stenoKey) {
+        result[stenoKey] = {
+          x: index + 1,
+          y: numberBarHeight,
+          w: 1,
+          h: 1,
+          rounded: false,
+        }
       }
+      return result
+    },
+    {}
+  )
+const secondRow = (numberBarHeight) =>
+  ['k', 'w', 'r', '', 'R', 'B', 'G', 'S', 'Z'].reduce(
+    (result, stenoKey, index) => {
+      if (stenoKey) {
+        result[stenoKey] = {
+          x: index + 1,
+          y: 1 + numberBarHeight,
+          w: 1,
+          h: 1,
+          rounded: true,
+        }
+      }
+      return result
+    },
+    {}
+  )
+const thirdRow = (numberBarHeight) =>
+  ['a', 'o', 'e', 'u'].reduce((result, stenoKey, index) => {
+    if (stenoKey) {
+      result[stenoKey] =
+        /**
+         * With only one asterisk key, the vowel keys need to be separated
+         * to avoid having them touch. With this code, I'm shifting them
+         * a half unit apart by starting at 2.25 instead of 2.5, and then
+         * having the right half (EU) start at 4.75 instead of 4.5.
+         **/
+        {
+          x: index + 2.25 + (index >= 2 ? 0.5 : 0),
+          y: 2 + numberBarHeight,
+          w: 1,
+          h: 1,
+          rounded: true,
+        }
     }
     return result
-  },
-  {}
-)
-const secondRow = ['k', 'w', 'r', '', 'R', 'B', 'G', 'S', 'Z'].reduce(
-  (result, stenoKey, index) => {
-    if (stenoKey) {
-      result[stenoKey] = {
-        x: index + 1,
-        y: 1 + numberBarHeight,
-        w: 1,
-        h: 1,
-        rounded: true,
-      }
-    }
-    return result
-  },
-  {}
-)
-const thirdRow = ['a', 'o', 'e', 'u'].reduce((result, stenoKey, index) => {
-  if (stenoKey) {
-    result[stenoKey] =
-      /**
-       * With only one asterisk key, the vowel keys need to be separated
-       * to avoid having them touch. With this code, I'm shifting them
-       * a half unit apart by starting at 2.25 instead of 2.5, and then
-       * having the right half (EU) start at 4.75 instead of 4.5.
-       **/
-      {
-        x: index + 2.25 + (index >= 2 ? 0.5 : 0),
-        y: 2 + numberBarHeight,
-        w: 1,
-        h: 1,
-        rounded: true,
-      }
-  }
-  return result
-}, {})
+  }, {})
 export const KEYS = [
   '#',
   's',
@@ -74,14 +77,18 @@ export const KEYS = [
   'D',
   'Z',
 ]
-export const KEY_INFO = {
-  '#': { x: 0, y: 0, w: 10, h: numberBarHeight, rounded: false },
+export const KEY_INFO = (numberBarHeight) => ({
+  '#': numberBarHeight
+    ? { x: 0, y: 0, w: 10, h: numberBarHeight, rounded: false }
+    : null,
   s: { x: 0, y: numberBarHeight, w: 1, h: 2, rounded: true },
   '*': { x: 4, y: numberBarHeight, w: 1, h: 2, rounded: true },
-  ...firstRow,
-  ...secondRow,
-  ...thirdRow,
-}
+  ...firstRow(numberBarHeight),
+  ...secondRow(numberBarHeight),
+  ...thirdRow(numberBarHeight),
+})
+export const NUMBERED_KEY_INFO = KEY_INFO(NUMBER_BAR_HEIGHT)
+export const COMPACT_KEY_INFO = KEY_INFO(0)
 const NUMBER_TO_KEYS = new Map([
   ['1', 's'],
   ['2', 't'],

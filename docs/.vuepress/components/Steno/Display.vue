@@ -1,5 +1,9 @@
 <template>
-  <Steno-Layout :stroke="stenoStroke" :labels="labelStroke" />
+  <Steno-Layout
+    :stroke="stenoStroke"
+    :labels="labelStroke"
+    :compact="compact"
+  />
 </template>
 
 <script>
@@ -8,6 +12,7 @@ export default {
   props: {
     labels: { type: String, default: 'all' },
     stroke: { type: String, required: true },
+    compact: { type: Boolean, default: false },
   },
   computed: {
     stenoStroke() {
