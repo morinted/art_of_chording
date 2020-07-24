@@ -2,8 +2,9 @@
   <div class="container">
     <div>
       <label><b>Controls</b></label>
-      <br />
-      <Button-PlayPause v-model="playing" @input="$emit('play', $event)" />
+      <div class="play-pause-container">
+        <Button-PlayPause v-model="playing" @input="$emit('play', $event)" />
+      </div>
     </div>
     <div>
       <label><b>Speed</b></label>
@@ -68,21 +69,23 @@ export default {
 }
 </script>
 
-<style scoped>
-.container {
-  display: flex;
-  margin-top: 1rem;
-  flex-wrap: wrap;
-  align-content: space-around;
-}
-.container > div {
-  flex-grow: 1;
-}
-.container > div > label {
-  display: block;
-  margin-bottom: 5px;
-}
-div.speed-option {
-  padding: 2px 0;
-}
+<style lang="stylus" scoped>
+.container
+  display: flex
+  margin-top: 1rem
+  flex-wrap: wrap
+  align-content: space-around
+
+.container > div
+  flex-grow: 1
+
+.container > div > label
+  display: block
+  margin-bottom: 5px
+
+div.speed-option
+  padding: 2px 0
+
+.play-pause-container
+  margin: 1rem 0
 </style>

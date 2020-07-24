@@ -10,3 +10,12 @@
 
 .footnotes
   font-size 0.9rem
+
+.theme-default-content:not(.custom) img {
+    display: block
+    max-width: 90%
+    margin: 0 auto
+}
+@media (max-width: $MQMobile)
+  .theme-default-content:not(.custom) img
+    max-width: 100%

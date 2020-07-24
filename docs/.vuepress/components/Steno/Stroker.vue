@@ -151,7 +151,7 @@ export default {
   font-size: 90%;
 }
 .stroke-container {
-  width: 7rem;
+  min-width: 5rem;
   display: inline-block;
   text-align: center;
 }

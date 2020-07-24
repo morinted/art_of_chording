@@ -52,7 +52,6 @@ export default {
   methods: {
     // Calculate the positions and paths for all the steno keys in the SVG.
     getSvgInfo: function (keyInfoType) {
-      console.log(keyInfoType)
       const unit = 50
       const aspectRatio = 1.2 // How much taller are keys than wide?
       const arcRadius = unit / 2
