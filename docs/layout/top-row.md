@@ -4,8 +4,8 @@ This lesson introduces about **half the keyboard**: the **top row** of the keybo
 
 The keys used in this lesson are:
 
-* `STPH A U FPLT`
-* `1234 5 5 4321`
+- `STPH A U FPLT`
+- `1234 5 5 4321`
 
 The numbers show the fingers for each key, where 1's are the pinkies and 5 are the thumbs.
 
@@ -55,7 +55,7 @@ The more common a word, the more likely it has a brief. In fact, the first bit o
 | -T        | the         |                                          |
 | TP-PL     | {.}         | Period. Next word is capitalized         |
 | H-F       | {?}         | Question mark. Next word is capitalized. |
-| STPH-FPLT | {:}         | Colon.            |
+| STPH-FPLT | {:}         | Colon.                                   |
 
 _\*Notice that _`{}`_ are used to denote a special character in Plover's translation format._
 
@@ -81,7 +81,7 @@ Remember, `T-` and `T` are "it" while `-T` is "the". The hyphen denotes the cent
 
 ### 1. Translate
 
-Write the English sentence represented by these outlines, including punctuation.
+Write the English sentence represented by these outlines, including punctuation. Don't worry too much about capitalization or spacing, we'll get to that later.
 
 1. `-T HUL S TUF TP-PL`
 2. `TAP -T SAP TP-PL`

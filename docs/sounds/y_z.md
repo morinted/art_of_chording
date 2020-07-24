@@ -10,13 +10,13 @@ Left side Y is given by the outline `KWR`.
 
 <Steno-Display labels="all" stroke="Y" />
 
-* `KWREP`: yep
-* `KWRUPL`: yum
-* `KWROUR`: your
-  * Do **not** use `KWRUR`, you will need it later.
-* `KWROUPBG`: young
-* `KWRORBG`: York
-* `KWROE`: yo
+- `KWREP`: yep
+- `KWRUPL`: yum
+- `KWROUR`: your
+  - Do **not** use `KWRUR`, you will need it later.
+- `KWROUPBG`: young
+- `KWRORBG`: York
+- `KWROE`: yo
 
 ## Left side Z
 
@@ -24,21 +24,21 @@ Left side Z is given by the outline `S*`. However, if there is a conflict, somet
 
 <Steno-Display labels="all" stroke="S*" />
 
-* `S*EUG`: zig
-* `SA*G`: zag
-* `S*ED`: Zed
-* `SA*P`, `STKPWAP`: zap
-* `S*EUT`: zit
-* `SO*EPB`: zone
-* `STKPWEFR`: zephyr
+- `S*EUG`: zig
+- `SA*G`: zag
+- `S*ED`: Zed
+- `SA*P`, `STKPWAP`: zap
+- `S*EUT`: zit
+- `SO*EPB`: zone
+- `STKPWEFR`: zephyr
 
 ## Briefs
 
-| Chord | Translation | Notes |
-| :--- | :--- | :--- |
-| KWR | why | The letter Y |
-| KWR-D | idea |  |
-| KWR-L, KWR-LD | ideal |  |
+| Chord         | Translation | Notes        |
+| :------------ | :---------- | :----------- |
+| KWR           | why         | The letter Y |
+| KWR-D         | idea        |              |
+| KWR-L, KWR-LD | ideal       |              |
 
 ## Practice
 
@@ -61,4 +61,3 @@ Find steno outlines that will write these English sentences, including punctuati
 9. I want to live in New York.
 10. Yum, you make awesome food.
 11. Yep, that is me all right.
-

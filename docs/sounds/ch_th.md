@@ -8,9 +8,9 @@ Since there is no C key on the layout, we substitute `K` and use `KH` for initia
 
 <Steno-Display labels="all" stroke="KH" />
 
-* `KHAT`: chat
-* `KHOP`: chop
-* `KHART`: chart
+- `KHAT`: chat
+- `KHOP`: chop
+- `KHART`: chart
 
 ## Right side CH
 
@@ -18,13 +18,13 @@ Words ending with the "tch" or "ch" sound are made on the right hand with `-FP`.
 
 <Steno-Display labels="all" stroke="-FP" />
 
-* `WAFP`: watch
-* `SWAFP`: swatch
-* `HAFP`: hatch
-* `PWAFP`: batch
-* `KAFP`: catch
-* `HRAFP`: latch
-* `TEFP`: tech \(spelling\). You can also use `TEBG` \(phonetic\)
+- `WAFP`: watch
+- `SWAFP`: swatch
+- `HAFP`: hatch
+- `PWAFP`: batch
+- `KAFP`: catch
+- `HRAFP`: latch
+- `TEFP`: tech \(spelling\). You can also use `TEBG` \(phonetic\)
 
 ## Left side TH
 
@@ -32,8 +32,7 @@ You've already learned initial TH in previous lessons as it's just `TH`.
 
 <Steno-Display labels="all" stroke="TH" />
 
-* `THAUT`: thought
-
+- `THAUT`: thought
 
 ## Right side TH
 
@@ -41,19 +40,19 @@ The first use of the asterisk for us is with final "th". Adding an asterisk to a
 
 <Steno-Display labels="all" stroke="*T" />
 
-* `WRA*T`: wrath
-* `PWA*T`: bath
-* `PA*T`: path
-* `TK*ET`: death
-* `*ERT`: earth
-* `TKA*RT`: darth
-* `HA*T`: hath
-* `WO*RT`: worth
+- `WRA*T`: wrath
+- `PWA*T`: bath
+- `PA*T`: path
+- `TK*ET`: death
+- `*ERT`: earth
+- `TKA*RT`: darth
+- `HA*T`: hath
+- `WO*RT`: worth
 
 ## Briefs
 
 | Chord | Translation | Notes |
-|:------|:------------|:------|
+| :---- | :---------- | :---- |
 | HROF  | love        |       |
 | HROFL | lovely      |       |
 | HR\*T | although    | L-TH  |

@@ -4,23 +4,23 @@ _Special thanks to Paolo Michela for funding this lesson._
 
 This lesson covers how you write the vowel sounds in "eel" and "real".
 
----------
+---
 
 The "ee" vowel is made with the outline `AOE`.
 
 <Steno-Display labels="all" stroke="AOE" />
 
-* `SAOE`: see
-* `SAOEG`: seeing
-* `AOEL`: eel
-* `AOER`: ear
-* `KWRAOER`: year
-* `AOES`: ease
-* `HAOEL`: heel
-* `PAOEL`: peel
-* `STAOEL`: steel
-* `TPAOEL`: feel
-* `THAOE`: thee
+- `SAOE`: see
+- `SAOEG`: seeing
+- `AOEL`: eel
+- `AOER`: ear
+- `KWRAOER`: year
+- `AOES`: ease
+- `HAOEL`: heel
+- `PAOEL`: peel
+- `STAOEL`: steel
+- `TPAOEL`: feel
+- `THAOE`: thee
 
 ## Words Spelled with "ea"
 
@@ -28,13 +28,13 @@ There are a lot of homophones that have "ea" instead of "ee"; like "meet" and "m
 
 <Steno-Display labels="all" stroke="AE" />
 
-* `HAOEL`: heel
+- `HAOEL`: heel
   - `HAEL`: heal
-* `PHAOET`: meet
+- `PHAOET`: meet
   - `PHAET`: meat
-* `RAOEL`: reel
+- `RAOEL`: reel
   - `RAEL`: real
-* `STAOEL`: steel
+- `STAOEL`: steel
   - `STAEL`: steal
 
 `AE` can be used to resolve homophones in other vowels, too, like the difference between "bear" and "bare":
@@ -64,17 +64,17 @@ This is best illustrated through examples:
 
 ## Briefs
 
-|       Chord       | Translation |                             Notes                              |
-| :---------------- | :---------- | :------------------------------------------------------------- |
-| `AOEPB`           | even        |                                                                |
-| `AOEPBL`          | evenly      |                                                                |
-| `TKAOET`          | detail      |                                                                |
-| `PAOEP`, `PAOEPL` | people      |                                                                |
-| `THEZ`            | these       |                                                                |
-| `PHREZ`, `PHRAES` | please      |                                                                |
-| `R-L`, `HRAOERL`  | really      | `HRAOERL` inverts the syllables, from "real-ly" to "ly-real"  |
-| `R-D`, `TKRAE`    | ready       |                                                                |
-| `K-P`             | company     |                                                                |
+| Chord             | Translation | Notes                                                        |
+| :---------------- | :---------- | :----------------------------------------------------------- |
+| `AOEPB`           | even        |                                                              |
+| `AOEPBL`          | evenly      |                                                              |
+| `TKAOET`          | detail      |                                                              |
+| `PAOEP`, `PAOEPL` | people      |                                                              |
+| `THEZ`            | these       |                                                              |
+| `PHREZ`, `PHRAES` | please      |                                                              |
+| `R-L`, `HRAOERL`  | really      | `HRAOERL` inverts the syllables, from "real-ly" to "ly-real" |
+| `R-D`, `TKRAE`    | ready       |                                                              |
+| `K-P`             | company     |                                                              |
 
 ## Practice
 

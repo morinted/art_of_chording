@@ -8,13 +8,13 @@ Left side M is made with the combination `PH` on the left side.
 
 <Steno-Display labels="all" stroke="M" />
 
-* `PHA`: ma
-* `PHAD`: mad
-* `PHUD`: mud
-* `PHEUL`: mill
-* `PHAUL`: maul
-* `PHELT`: melt
-* `PHUL`: mull
+- `PHA`: ma
+- `PHAD`: mad
+- `PHUD`: mud
+- `PHEUL`: mill
+- `PHAUL`: maul
+- `PHELT`: melt
+- `PHUL`: mull
 
 ## Right side M
 
@@ -22,30 +22,30 @@ Right side M is made with the combination `-PL`. This _does_ conflict with words
 
 <Steno-Display labels="all" stroke="-M" />
 
-* `APL`: am
-* `SOPL`: some
-* `THEPL`: them
-* `KOPL`: come
-* `PHOPL`: mom
-* `PHUPL`: mum
-* `TOPL`: Tom
-* `PHRUPL`:plum
-* `STORPL`: storm
-* `PHAPL`: ma'am
-* `TEPLT`: tempt
+- `APL`: am
+- `SOPL`: some
+- `THEPL`: them
+- `KOPL`: come
+- `PHOPL`: mom
+- `PHUPL`: mum
+- `TOPL`: Tom
+- `PHRUPL`:plum
+- `STORPL`: storm
+- `PHAPL`: ma'am
+- `TEPLT`: tempt
 
 ## Briefs
 
-| Chord            | Translation | Notes                                                                                                                                                       |
-|:-----------------|:------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| PH-PL            | multiple    | Think "M-PL"                                                                                                                                                |
-| PHE              | me          | Spelling instead of phonetics                                                                                                                              |
-| PHEU             | my          | Spelling instead of phonetics                                                                                                                              |
-| EPLT             | empty       | Think "em tee"                                                                                                                                              |
-| P-FR             | perfect     |                                                                                                                                                             |
-| HAP              | happen      |                                                                                                                                                             |
-| HEP              | help        | HEPL is "hem"                                                                                                                                               |
-| SKHRAPL or TP-BG | {!}         | The exclamation mark is written with "sklam". Alternatively, TP-BG can be used.                                                                             |
+| Chord            | Translation | Notes                                                                                                                                                           |
+| :--------------- | :---------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| PH-PL            | multiple    | Think "M-PL"                                                                                                                                                    |
+| PHE              | me          | Spelling instead of phonetics                                                                                                                                   |
+| PHEU             | my          | Spelling instead of phonetics                                                                                                                                   |
+| EPLT             | empty       | Think "em tee"                                                                                                                                                  |
+| P-FR             | perfect     |                                                                                                                                                                 |
+| HAP              | happen      |                                                                                                                                                                 |
+| HEP              | help        | HEPL is "hem"                                                                                                                                                   |
+| SKHRAPL or TP-BG | {!}         | The exclamation mark is written with "sklam". Alternatively, TP-BG can be used.                                                                                 |
 | KW-PL            | {?}         | Alternative stroke for question mark. Some users prefer `TP-BG` and `KW-PL` as they can represent the intonation speakers use during a question or exclamation. |
 
 ## Practice
