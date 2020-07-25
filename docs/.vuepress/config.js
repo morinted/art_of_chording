@@ -1,7 +1,7 @@
 module.exports = {
   title: 'Art of Chording',
   description:
-    'Learn stenography with Plover to get thought to text faster and more ergonomically than typing.',
+    'Teach yourself stenography for free. Use steno with Plover to type faster and more ergonomically than on a keyboard.',
   plugins: [['@vuepress/google-analytics', { ga: 'UA-102613911-3' }]],
   themeConfig: {
     lastUpdated: 'Last Updated',

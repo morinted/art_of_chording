@@ -1,4 +1,7 @@
 ---
+meta:
+  - name: description
+    content: How do stenographers and court reporters type 3 times faster than normal typists? Learn their secrets in under 10 minutes with this straightforward explanation.
 exampleSentence: Every great dream begins with a dreamer. Always remember, you have within you the strength, the patience, and the passion to reach for the stars to change the world.
 exampleChords: EFR GRAET DREEM GINS W AI DREEM *ER TP-PL AULS RER KW-BG U V W-N U -T STREN KW-BG -T PAISH ENS KW-BG SKP-T PASHN TO REECH F-RT STARS TO KHAING -T WORLD TP-PL
 ---
