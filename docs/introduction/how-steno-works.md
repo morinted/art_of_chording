@@ -9,7 +9,7 @@ exampleChords: EFR GRAET DREEM GINS W AI DREEM *ER TP-PL AULS RER KW-BG U V W-N 
 
 I'm a programmer, and coworkers often come up to my desk not knowing that I use a stenography machine to program and type at my computer. As I start typing in front of them, they'll be looking at my screen. They see words and symbols bursting out, all at once, at speeds beyond most people's typing ability. Then, confused, they look down at my hands to see the reduced layout that I'm typing on. A steno machine only needs twenty-three keys, while normal keyboards have about a hundred. I wish I could capture everyone's face the first time they see a steno machine in action—that expression of shock and bewilderment.
 
-When I first heard of stenography, I was amazed. Stories of court reporters keeping up with multiple speakers in a courtroom, typing at a certified speed of 225 words per minute, faster than most people talk at 180 words per minute. Was that even possible? Did their school just teach them to type more quickly? Well, not quite.
+When I first heard of stenography, I was amazed: stories of court reporters keeping up with multiple speakers in a courtroom, typing at a certified speed of 225 words per minute, faster than most people talk at 180 words per minute. Was that even possible? Did their school just teach them to type more quickly? Well, not quite.
 
 Stenography is one of those things that's hard to understand just by watching, and even if I tell you the basics, it's a skill that takes months or years to learn. Just as someone can show you how hitting keys on a piano makes sounds, it will take a while before you're able to play music or compose pieces on your own.
 
@@ -73,7 +73,14 @@ Compare how we chord the word "start"…
 
 Because stenography chords are roughly syllables, writing in stenography feels more like speaking than spelling.
 
-In steno, all these words are chorded with the same right-side keys because they all end with similar sounds: ocean, fashion, motion, vision, mission.
+In steno, all these words with **different spellings** are chorded with the **same right-side keys** because they all end with a similar sound:
+
+- `OSHN` → <Steno-Thumb stroke="OSHN" /> → ocean
+- `MOSHN` → <Steno-Thumb stroke="MOSHN" /> → motion
+- `FASHN` → <Steno-Thumb stroke="FASHN" /> → fashion
+- `VISHN` → <Steno-Thumb stroke="VISHN" /> → vision
+- `MISHN` → <Steno-Thumb stroke="MISHN" /> → mission
+- `RUSHN` → <Steno-Thumb stroke="RUSHN" /> → Russian
 
 **Multisyllable words** are chorded by stringing together **multiple chords**: `RE` plus `WARD` becomes "reward".
 
@@ -86,13 +93,13 @@ Spelling is less of a problem because words just get sounded out:
 
 ### Briefs
 
-There are abbreviations (called _briefs_) for very common words, so single-key chords like `W` and `U` map to "with" and "you", respectively. There are also briefs for very long words, so the chord for "particular" is a syllable that sounds like `PLAR`; "government" is `GOFMT`.
+There are abbreviations (called _briefs_) for very common words, so single-key chords like `W` and `U` map to "with" and "you", respectively. There are also briefs for very long words, so the chord for "particular" is a syllable that sounds like `PLAR`; "remember" is `RER`; "government" is `GOFMT`.
 
 ### Prefixes, suffixes, and root words
 
-Compound words can be strung together thanks to a phonetic system of prefixes and suffixes. "Uncomfortable" could be written as "un" (prefix) + "comfort" (root word) + "able" (suffix). "Antidisestablishmentarianism" could be composed from the prefixes "anti" and "dis"; the root word "establish"; and the suffixes "ment", "arian", and "ism".
+Compound words can be strung together thanks to a phonetic system of prefixes and suffixes. "Uncomfortable" could be written as "un" (prefix `UN`) + "comfort" (root word `KOFRT`) + "able" (suffix `-BL`). "Antidisestablishmentarianism" could be composed from the prefixes "anti" and "dis"; the root word "establish"; and the suffixes "ment", "arian", and "ism".^[Just because we _could_ compose "antidisestablishmentarianism" from prefixes and suffixes (`A*INT DIS STAEB *MT A*IRN *IFM`) doesn't mean we would. It's a great word to have a brief for in order to save _a lot_ of time (1 stroke instead of 6). In Plover, the brief for antidisestablishmentarianism is `SLA*IRM` which is pretty arbritary as far as briefs go. Another long single-stroke brief in Plover is `SFRAJ` → supercalifragilisticexpialidocious.]
 
-Finally, if a word isn't composable from prefixes, suffixes, and root words and the stenographer doesn't have a way to write it yet, they can fall back to letter-by-letter spelling, which is called _fingerspelling_.
+Finally, if a word isn't composable from prefixes, suffixes, and root words and the stenographer doesn't have a way to write it yet, they can fall back to one letter per chord, which is called _fingerspelling_.^[Fingerspelling is a slow fallback option, only about 50 words per minute for a professional. To fingerspell "stop" the stenographer would stroke `S*` <Steno-Thumb stroke="S*" /> then `T*` <Steno-Thumb stroke="T*" /> then `O*` <Steno-Thumb stroke="O*" /> then `P*` <Steno-Thumb stroke="P*" />.]
 
 ### Automatic capitalization and spacing
 
@@ -100,7 +107,7 @@ Another way that stenographers save time is by not needing to capitalize and spa
 
 ### Typos
 
-When someone makes a typo in stenography, it's not a misplaced letter, it's a misplaced sound. Instead of making a typo like "gronud" (swapping u and n in "ground"), a stenographer might accidentally write "frowned" because they used an "f" sound instead of a "g" sound.
+When someone makes a typo in stenography, it's not a misplaced letter, it's a misplaced sound. Instead of making a typo like "gronud" (swapping u and n in "ground"), a stenographer might accidentally write "frowned" because they used an "f" sound instead of a "g" sound. Another type of typo might be an accidental extra key in a chord. This could turn "remember" (`RER`) into "rear" (`RAER`.) Finally, if the stenographer types a chord that doesn't map to anything, say "`ST-RB`", then the output will be "ST-RB" so that they can see their mistake.^[Typos in stenography are referred to as *misstrokes*. Stenographers often save recurring misstrokes so that repeated mistakes come out properly. For example, I often mistakenly think that the word "relevant" is "revelant". I set my machine so that when I chord `REV LANT`, it outputs "relevant."]
 
 ### Symbols
 
@@ -134,7 +141,7 @@ Some chords are based on their **shape** on the keyboard and have nothing to do 
 - `TP-PL` → <Steno-Thumb stroke="TP-PL" /> → . (period)
 - `KW-BG` → <Steno-Thumb stroke="KW-BG" /> → , (comma)
 - `SKP` → <Steno-Thumb stroke="SKP" /> → and
-  - This brief is used because it's all the way on the left side of the keyboard. This allows it to be combined with other keys to make phrases like "and the" (see above.)
+  - This chord is used because it's all the way on the left side of the keyboard. This allows it to be combined with other keys to make phrases like "and the" (see above.)
 
 Rather than typing {{ $frontmatter.exampleSentence.length }} characters, the stenographer made {{ $frontmatter.exampleChords.split(' ').length }} chords to write this quote. Given that a professional stenographer can make chords around 3.5 times per second, that would mean it would take around **{{ Math.round($frontmatter.exampleChords.split(' ').length / 3.5) }} seconds** to write.
 
@@ -147,15 +154,21 @@ Our stenographer in this scenario clocks in at **{{ Math.round($frontmatter.exam
   ).toFixed(1)
 }} times as fast!
 
-## Steno is Fast
+## Summary
 
 Hopefully now you have a better understanding of how steno works and why it's so fast. Steno uses chording to multiply the power of a smaller number of keys than a normal keyboard. A chord on a steno machine can be represented by a syllable-like sound and it can map to words, letters, symbols, phrases, and more.
 
 Even though making chords on a steno machine is slower (around 3-4 chords a second) than a typist on a keyboard (around 5-10 keys a second), a stenographer gets more out of each chord and comes out on top.
 
-Machine stenography was originally developed in the late 1800s for taking down spoken word, but has evolved to be used as a general keyboard replacement. It is used professionally in courtrooms, and as an accessibility tool for realtime captioning and transcription. A certified court reporter in the United States must be able to write 225 words per minute. Human speech averages around 180 words per minute. Most people type around 60 words per minute, but there are [exceptional typists](https://seanwrona.com/typing.php) who can type upwards of 150 words per minute.
+## Where it's used
 
-Stenography is used in an amateur fashion by hobbyists, writers, programmers, and office workers.^[See the variety of uses that learners have in the [Open Steno Project community survey](http://plover.stenoknight.com/2020/03/corrected-survey-responses-link.html)] This book, as part of the [Open Steno Project](http://www.openstenoproject.org/), aims to bring the art of stenography—the art of speaking through your fingers, _The Art of Chording_—to everyone.
+Machine stenography was originally developed in the late 1800s for taking down spoken word, but has evolved to be used as a general keyboard replacement.
+
+It is used professionally in courtrooms, and as an accessibility tool for realtime captioning and transcription. A certified court reporter in the United States must be able to write 225 words per minute. Human speech averages around 180 words per minute. Most people type around 60 words per minute, but there are [exceptional typists](https://seanwrona.com/typing.php) who can type upwards of 150 words per minute.
+
+Stenography is used in an amateur fashion by hobbyists, writers, programmers, and office workers.^[See the variety of uses that learners have in the [Open Steno Project community survey](http://plover.stenoknight.com/2020/03/corrected-survey-responses-link.html)] It can completely replace normal keyboard usage.
+
+**This book, as part of the [Open Steno Project](http://www.openstenoproject.org/), aims to bring the art of stenography—the art of speaking through your fingers, _The Art of Chording_—to everyone.**
 
 ::: tip
 If you're fascinated with how steno works and you want to learn more, **you're in the right place!** This website is a free, open source textbook that aims to teach steno to anyone and everyone. The Open Steno Project tries to keep software and learning materials free, while supporting the development of affordable hardware options. [Download Plover today](https://github.com/openstenoproject/plover/releases) and learn how to use it by moving on to the next lesson.
