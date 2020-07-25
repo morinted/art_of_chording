@@ -12,7 +12,7 @@ Left side M is made with the combination `PH` on the left side.
 - `PHAD`: mad
 - `PHUD`: mud
 - `PHEUL`: mill
-- `PHAUL`: maul
+- `PHAUL`: mall
 - `PHELT`: melt
 - `PHUL`: mull
 
@@ -29,7 +29,7 @@ Right side M is made with the combination `-PL`. This _does_ conflict with words
 - `PHOPL`: mom
 - `PHUPL`: mum
 - `TOPL`: Tom
-- `PHRUPL`:plum
+- `PHRUPL`: plumb
 - `STORPL`: storm
 - `PHAPL`: ma'am
 - `TEPLT`: tempt
@@ -37,7 +37,7 @@ Right side M is made with the combination `-PL`. This _does_ conflict with words
 ## Briefs
 
 | Chord            | Translation | Notes                                                                                                                                                           |
-| :--------------- | :---------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|:-----------------|:------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | PH-PL            | multiple    | Think "M-PL"                                                                                                                                                    |
 | PHE              | me          | Spelling instead of phonetics                                                                                                                                   |
 | PHEU             | my          | Spelling instead of phonetics                                                                                                                                   |
