@@ -8,25 +8,25 @@ The "eye" vowel is made with the outline `AOEU`.
 
 <Steno-Display labels="all" stroke="AOEU" />
 
-* `AOEU`: eye
-* `TPAOEUPBD`: find
-* `RAOEUT`: right
-* `KAOEUPBD`: kind
-* `HRAOEUBG`: like
-* `TAOEUPL`: time
-* `PWAOEU`: buy
-* `SHAOEU`: shy
-* `HRAOEU`: lie
-* `PWHRAOEUPBD`: blind
-* `SHAOEUPB`: shine
-* `SHRAOEUPB`: shrine
-* `PWRAOEUPB`: brine
-* `PWRAOEUD`: bride
-* `TKPWRAOEUPBGDZ`: grindings (probably a hard stroke to make on anything but a professional machine with very light touch)
+- `AOEU`: eye
+- `TPAOEUPBD`: find
+- `RAOEUT`: right
+- `KAOEUPBD`: kind
+- `HRAOEUBG`: like
+- `TAOEUPL`: time
+- `PWAOEU`: buy
+- `SHAOEU`: shy
+- `HRAOEU`: lie
+- `PWHRAOEUPBD`: blind
+- `SHAOEUPB`: shine
+- `SHRAOEUPB`: shrine
+- `PWRAOEUPB`: brine
+- `PWRAOEUD`: bride
+- `TKPWRAOEUPBGDZ`: grindings (probably a hard stroke to make on anything but a professional machine with very light touch)
 
 ## Briefs
 
-|   Chord   | Translation | Notes |
+| Chord     | Translation | Notes |
 | --------- | ----------- | ----- |
 | `AOEUPL`  | I'm         |       |
 | `AOEUF`   | I've        |       |

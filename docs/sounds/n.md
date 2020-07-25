@@ -12,16 +12,16 @@ Left side N is given by the outline `TPH`.
 
 <Steno-Display labels="all" stroke="N" />
 
-* `TPHO`: no
-* `TPHOU`: now
-* `TPHOT`: not
-* `TPHOR`: nor
-* `TPHAU`: naw
-* `TPHEBG`: neck
-* `TPHEUT`: knit
-* `TPHAEUL`: nail
-* `TPHAEUT`: Nate
-* `TPHOEUS`: noise
+- `TPHO`: no
+- `TPHOU`: now
+- `TPHOT`: not
+- `TPHOR`: nor
+- `TPHAU`: naw
+- `TPHEBG`: neck
+- `TPHEUT`: knit
+- `TPHAEUL`: nail
+- `TPHAEUT`: Nate
+- `TPHOEUS`: noise
 
 ## Right side N
 
@@ -29,25 +29,25 @@ Right side N is given by the outline `-PB`.
 
 <Steno-Display labels="all" stroke="-N" />
 
-* `OPB`: on
-* `APB`: an
-* `WUPB`: one
-* `THAPB`: than
-* `THEPB`: then
-* `SOPB`: son
-* `TPUPB`: fun
-* `RUPB`: run
-* `KAPBT`: can't
-* `WAPBT`: want
-* `WEPBT`: went
+- `OPB`: on
+- `APB`: an
+- `WUPB`: one
+- `THAPB`: than
+- `THEPB`: then
+- `SOPB`: son
+- `TPUPB`: fun
+- `RUPB`: run
+- `KAPBT`: can't
+- `WAPBT`: want
+- `WEPBT`: went
 
 ## Briefs
 
 There are a lot of briefs that use Ns. This is not an extensive list.
 
 | Chord  | Translation | Notes                                                                |
-|:-------|:------------|:---------------------------------------------------------------------|
-| TPH    | in          | The letter "N" kind of sounds like "in"                             |
+| :----- | :---------- | :------------------------------------------------------------------- |
+| TPH    | in          | The letter "N" kind of sounds like "in"                              |
 | TPH-PB | under       | What is under the N? Why, it's another N! It's N's all the way down. |
 | TPHU   | new         |                                                                      |
 | TPHEU  | any         |                                                                      |

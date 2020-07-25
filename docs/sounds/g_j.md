@@ -10,14 +10,14 @@ The hard G sound is formed on the left hand with `TKPW`.
 
 <Steno-Display labels="all" stroke="G" />
 
-* `TKPWO`: go
-* `TKPWET`: get
-* `TKPWOPB`: gone
-* `TKPWUT`: gut
-* `TKPWEURL`: girl
-* `TKPWAEUT`: gait
-* `TKPWOUT`: gout
-* `TKPWRAEUD`: grade
+- `TKPWO`: go
+- `TKPWET`: get
+- `TKPWOPB`: gone
+- `TKPWUT`: gut
+- `TKPWEURL`: girl
+- `TKPWAEUT`: gait
+- `TKPWOUT`: gout
+- `TKPWRAEUD`: grade
 
 ## Right side G as -ing
 
@@ -27,18 +27,18 @@ You've learned words that end with `-G` like `PWAPBG` for "bang" and `TKOG` for 
 
 Note that this "folded-in" suffix is even allowed to break steno order if there is no conflict.
 
-* `TKPWO`: go
-  * `TKPWOG`: going
-* `PAEU`: pay
-  * `PAEUG`: paying
-* `-B`: be
-  * `-BG`: being
-* `PWAEUT`: bait
-  * `PWAEUGT`: baiting
-* `WAFP`: watch
-  * `WAFPG`: watching
-* `POUT`: pout
-  * `POUGT`: pouting
+- `TKPWO`: go
+  - `TKPWOG`: going
+- `PAEU`: pay
+  - `PAEUG`: paying
+- `-B`: be
+  - `-BG`: being
+- `PWAEUT`: bait
+  - `PWAEUGT`: baiting
+- `WAFP`: watch
+  - `WAFPG`: watching
+- `POUT`: pout
+  - `POUGT`: pouting
 
 ## Left side J
 
@@ -46,11 +46,11 @@ The left side J and soft G sounds are formed on the left hand with `SKWR`.
 
 <Steno-Display labels="all" stroke="J" />
 
-* `SKWRAR`: jar
-* `SKWROPB`: John
-* `SKWRABG`: jack
-* `SKWREUPL`: gym
-* `SKWREUF`: gif
+- `SKWRAR`: jar
+- `SKWROPB`: John
+- `SKWRABG`: jack
+- `SKWREUPL`: gym
+- `SKWREUF`: gif
 
 ## Right side J
 
@@ -58,37 +58,37 @@ The Right side J and soft G sounds are formed on the right hand with `PBLG`.
 
 <Steno-Display labels="all" stroke="-J" />
 
-* `AEUPBLG`: age
-* `TKPWRUPBLG`: grudge
-* `SKWRUPBLG`: judge
-* `SKWRORPBLG`: George
-* `TKPWORPBLG`: gorge
-* `TKPWAEUPBLG`: gauge
-* `TKPWRUPBLG`: grudge
+- `AEUPBLG`: age
+- `TKPWRUPBLG`: grudge
+- `SKWRUPBLG`: judge
+- `SKWRORPBLG`: George
+- `TKPWORPBLG`: gorge
+- `TKPWAEUPBLG`: gauge
+- `TKPWRUPBLG`: grudge
 
 On some hardware, pressing this many keys might be difficult. Make sure you aren't trying to just use your fingers, your forearms should be the main source of power. Better steno hardware will also require less force.
 
 ## Briefs
 
-| Chord       | Translation | Notes                                                                 |
-|:------------|:------------|:----------------------------------------------------------------------|
-| TKPW        | go          |                                                                       |
-| TKPW-G      | going       |                                                                       |
+| Chord       | Translation | Notes                                                                |
+| :---------- | :---------- | :------------------------------------------------------------------- |
+| TKPW        | go          |                                                                      |
+| TKPW-G      | going       |                                                                      |
 | TKAOG       | doing       | TKOG is "dog" but "doing" is a very common word so we use this brief |
-| TR, T-R     | interest    |                                                                       |
-| TRG, T-RG   | interesting |                                                                       |
-| TKPW-B      | goodbye     |                                                                       |
-| TKPW-PBT    | goodnight   |                                                                       |
-| H-L         | hello       |                                                                       |
-| TKPWEPB     | again       |                                                                       |
-| TKPWEPBS    | against     |                                                                       |
-| TKPWEUPB    | begin       |                                                                       |
-| TKPWEUPBG   | beginning   |                                                                       |
-| TKPWORPBLGS | gorgeous    | GORJS                                                                 |
-| TKAEUPBLG   | danger      | DAIJ                                                                  |
-| TKAEUPBLGS  | dangerous   | DAIJS                                                                 |
-| HRAPBLG     | language    | LAJ                                                                   |
-| TOPBLG      | technology  | TOJ                                                                   |
+| TR, T-R     | interest    |                                                                      |
+| TRG, T-RG   | interesting |                                                                      |
+| TKPW-B      | goodbye     |                                                                      |
+| TKPW-PBT    | goodnight   |                                                                      |
+| H-L         | hello       |                                                                      |
+| TKPWEPB     | again       |                                                                      |
+| TKPWEPBS    | against     |                                                                      |
+| TKPWEUPB    | begin       |                                                                      |
+| TKPWEUPBG   | beginning   |                                                                      |
+| TKPWORPBLGS | gorgeous    | GORJS                                                                |
+| TKAEUPBLG   | danger      | DAIJ                                                                 |
+| TKAEUPBLGS  | dangerous   | DAIJS                                                                |
+| HRAPBLG     | language    | LAJ                                                                  |
+| TOPBLG      | technology  | TOJ                                                                  |
 
 ## Practice
 

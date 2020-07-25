@@ -10,11 +10,11 @@ Left side V is given by the outline `SR`.
 
 <Steno-Display labels="all" stroke="V" />
 
-* `SRAT`: vat
-* `SRET`: vet
-* `SROET`: vote
-* `SROU`: vow
-* `SROUL`: vowel
+- `SRAT`: vat
+- `SRET`: vet
+- `SROET`: vote
+- `SROU`: vow
+- `SROUL`: vowel
 
 ## Right side V
 
@@ -22,25 +22,25 @@ Right side V is given by the outline `*F`, but if there is no conflict with a wo
 
 <Steno-Display labels="all" stroke="*F" />
 
-* `KO*FT`: covet
-* `HROF`, `HRO*F`: love
-* `WOEF`, `WO*EF`: wove
-* `WOEFPB`, `WO*EFPB` woven
-* `HEFPB`, `H*EFPB` heaven
-* `KAF`: cave
-* `PAF`: pave
-* `PROF`: prove
-* `WAF`: wave
-* `SAF`: save
-* `HREUF`: live
-* `O*FPB`: oven
-* `SWEUFL`, `SW*EUFL` swivel
-* `WAEUF`: waive, `WA*EUF`: waif \(in this case, the rule is reversed because waif is a very uncommon word\)
+- `KO*FT`: covet
+- `HROF`, `HRO*F`: love
+- `WOEF`, `WO*EF`: wove
+- `WOEFPB`, `WO*EFPB` woven
+- `HEFPB`, `H*EFPB` heaven
+- `KAF`: cave
+- `PAF`: pave
+- `PROF`: prove
+- `WAF`: wave
+- `SAF`: save
+- `HREUF`: live
+- `O*FPB`: oven
+- `SWEUFL`, `SW*EUFL` swivel
+- `WAEUF`: waive, `WA*EUF`: waif \(in this case, the rule is reversed because waif is a very uncommon word\)
 
 ## Briefs
 
 | Chord | Translation | Notes                |
-|:------|:------------|:---------------------|
+| :---- | :---------- | :------------------- |
 | SR    | have        |                      |
 | SRE   | very        |                      |
 | OFPB  | often       | Contrast with "oven" |

@@ -42,12 +42,12 @@
         "S",
         "T",
         "H",
-        [ "U", "The letter \"U\" is a homophone to \"you\"" ],
+        ["U", "The letter \"U\" is a homophone to \"you\""],
         "-F",
         "-T",
-        [ "TP-PL", "Period. Next word is capitalized" ],
-        [ "H-F", "Question mark. Next word is capitalized." ],
-        [ "STPH-FPLT", "Colon." ]
+        ["TP-PL", "Period. Next word is capitalized"],
+        ["H-F", "Question mark. Next word is capitalized."],
+        ["STPH-FPLT", "Colon."]
       ],
       "practice": [
         "-T HUL S TUF TP-PL",
@@ -68,19 +68,22 @@
     },
     "bottom-row": {
       "briefs": [
-        [ ["R-", "-R" ], "Either side works" ],
-        [ "SKP", "This stroke is arbitrary, remember it by hand shape" ],
-        [ "AEU", "This is the word \"a\"" ],
+        [["R-", "-R"], "Either side works"],
+        ["SKP", "This stroke is arbitrary, remember it by hand shape"],
+        ["AEU", "This is the word \"a\""],
         "K",
-        [ "W", "Many people use \"w\" as an abbreviation for \"with\" in longhand writing" ],
-        [ "-B", "The letter \"B\" is a homophone to \"be\"" ],
-        [ [ "HE", "E" ], "Spelling instead of phonetic" ],
-        [ "SHE", "Spelling instead of phonetic" ],
-        [ "WE", "Spelling instead of phonetic" ],
-        [ "SO", "Spelling instead of phonetic" ],
-        [ "TO", "Spelling instead of phonetic" ],
-        [ "OR", "Spelling instead of phonetic" ],
-        [ "KW-BG", "Comma" ]
+        [
+          "W",
+          "Many people use \"w\" as an abbreviation for \"with\" in longhand writing"
+        ],
+        ["-B", "The letter \"B\" is a homophone to \"be\""],
+        [["HE", "E"], "Spelling instead of phonetic"],
+        ["SHE", "Spelling instead of phonetic"],
+        ["WE", "Spelling instead of phonetic"],
+        ["SO", "Spelling instead of phonetic"],
+        ["TO", "Spelling instead of phonetic"],
+        ["OR", "Spelling instead of phonetic"],
+        ["KW-BG", "Comma"]
       ],
       "practice": [
         "-T KAT SKP -T PUG R UP TP-PL",
@@ -102,13 +105,7 @@
       ]
     },
     "d-and-z": {
-      "briefs": [
-        "TH",
-        "THA",
-        "THE",
-        "WHA",
-        "UD"
-      ],
+      "briefs": ["TH", "THA", "THE", "WHA", "UD"],
       "practice": [
         "T WAZ HARD TO -B HER TP-PL",
         "TH S HAF -T STAF SHE HAZ TP-PL",
@@ -138,11 +135,11 @@
     },
     "aw_ow_-k": {
       "briefs": [
-        [ ["AULS", "AULZ"] ],
+        [["AULS", "AULZ"]],
         "AUFL",
         "AF",
-        [ "OK", "The letters \"O\" and \"K\"" ],
-        [ "EZ", "The letters \"E\" and \"Z\"" ],
+        ["OK", "The letters \"O\" and \"K\""],
+        ["EZ", "The letters \"E\" and \"Z\""],
         "WAUR",
         "KO",
         "WO",
@@ -167,34 +164,17 @@
         "T S EZ TO -B HER AF AUL TP-PL"
       ],
       "vocab": {
-        "-K": [
-          "TAK" ,
-          "WAK" ,
-          "SHAK" ,
-          "ROK" ,
-          "SOK" ,
-          "STRUK"
-        ],
-        "-W": [
-          "SAU",
-          "TAUK",
-          [ "AUL", "`AL` would be \"Al\"" ],
-          "PAUL"
-        ],
-        "OU": [
-          "HOU",
-          "HOUS",
-          "OUT",
-          "OUL"
-        ]
+        "-K": ["TAK", "WAK", "SHAK", "ROK", "SOK", "STRUK"],
+        "-W": ["SAU", "TAUK", ["AUL", "`AL` would be \"Al\""], "PAUL"],
+        "OU": ["HOU", "HOUS", "OUT", "OUL"]
       }
     },
     "dbl": {
       "briefs": [
         "D",
-        [ "DO", "Spelling" ],
+        ["DO", "Spelling"],
         "B",
-        [ ["BAUS", "BAUZ" ] ],
+        [["BAUS", "BAUZ"]],
         "B-FR",
         "L",
         "LEF",
@@ -219,35 +199,13 @@
         "L-RT L-R KW-BG LEF US OUT TP-PL"
       ],
       "vocab": {
-        "D": [
-          "DOG",
-          "DROP",
-          "DAFT",
-          "DUL"
-        ],
-        "B": [
-          "BUD",
-          "BUT",
-          "BED",
-          "BAD",
-          "BART"
-        ],
-        "L": [
-          "LARD",
-          "LAF",
-          "LUL",
-          "BLOB"
-        ]
+        "D": ["DOG", "DROP", "DAFT", "DUL"],
+        "B": ["BUD", "BUT", "BED", "BAD", "BART"],
+        "L": ["LARD", "LAF", "LUL", "BLOB"]
       }
     },
     "ch_th": {
-      "briefs": [
-        "LOF",
-        "LOFL",
-        "L*T",
-        "TOGT",
-        "L-GT"
-      ],
+      "briefs": ["LOF", "LOFL", "L*T", "TOGT", "L-GT"],
       "practice": [
         "U SHO AULS DO THA B-FR AEU BA*T TP-PL",
         "-T KAT K SKP L SKRAFP U TP-PL",
@@ -267,11 +225,7 @@
         "KHEK -T KHARTS KW-BG OK H-F"
       ],
       "vocab": {
-        "KH": [
-          "KHAT",
-          "KHOP",
-          "KHART"
-        ],
+        "KH": ["KHAT", "KHOP", "KHART"],
         "-FP": [
           "WAFP",
           "SWAFP",
@@ -279,16 +233,12 @@
           "BAFP",
           "KAFP",
           "LAFP",
-          [ "TEFP", "This outline is based on spelling. The phonetic version, `TEBG`, also works." ]
+          [
+            "TEFP",
+            "This outline is based on spelling. The phonetic version, `TEBG`, also works."
+          ]
         ],
-        "TH": [
-          "THAU",
-          "THAUT",
-          "THUS",
-          "THRET",
-          "THEFT",
-          "THRED"
-        ],
+        "TH": ["THAU", "THAUT", "THUS", "THRET", "THEFT", "THRED"],
         "-TH": [
           "WRA*T",
           "BA*T",
@@ -353,220 +303,112 @@
       }
     },
     "m": {
-      "briefs": [
-        ["", ""]
-      ],
-      "practice": [
-
-      ]
+      "briefs": [["", ""]],
+      "practice": []
     },
     "f_q": {
-      "briefs": [
-        ["", ""]
-      ],
-      "practice": [
-
-      ]
+      "briefs": [["", ""]],
+      "practice": []
     },
     "ay_oy": {
-      "briefs": [
-        ["", ""]
-      ],
-      "practice": [
-
-      ]
+      "briefs": [["", ""]],
+      "practice": []
     },
     "n": {
-      "briefs": [
-        ["", ""]
-      ],
-      "practice": [
-
-      ]
+      "briefs": [["", ""]],
+      "practice": []
     },
     "oh": {
-      "briefs": [
-        ["", ""]
-      ],
-      "practice": [
-
-      ]
+      "briefs": [["", ""]],
+      "practice": []
     },
     "v": {
-      "briefs": [
-        ["", ""]
-      ],
-      "practice": [
-
-      ]
+      "briefs": [["", ""]],
+      "practice": []
     },
     "g_j": {
-      "briefs": [
-        ["", ""]
-      ],
-      "practice": [
-
-      ]
+      "briefs": [["", ""]],
+      "practice": []
     },
     "x": {
-      "briefs": [
-        ["", ""]
-      ],
-      "practice": [
-
-      ]
+      "briefs": [["", ""]],
+      "practice": []
     },
     "you_oo": {
-      "briefs": [
-        ["", ""]
-      ],
-      "practice": [
-
-      ]
+      "briefs": [["", ""]],
+      "practice": []
     },
     "y_z": {
-      "briefs": [
-        ["", ""]
-      ],
-      "practice": [
-
-      ]
+      "briefs": [["", ""]],
+      "practice": []
     },
     "ee": {
-      "briefs": [
-        ["", ""]
-      ],
-      "practice": [
-
-      ]
+      "briefs": [["", ""]],
+      "practice": []
     },
     "sh": {
-      "briefs": [
-        ["", ""]
-      ],
-      "practice": [
-
-      ]
+      "briefs": [["", ""]],
+      "practice": []
     },
     "eye": {
-      "briefs": [
-        ["", ""]
-      ],
-      "practice": [
-
-      ]
+      "briefs": [["", ""]],
+      "practice": []
     },
     "fingerspelling": {
-      "briefs": [
-        ["", ""]
-      ],
-      "practice": [
-
-      ]
+      "briefs": [["", ""]],
+      "practice": []
     },
     "compound_sounds": {
-      "briefs": [
-        ["", ""]
-      ],
-      "practice": [
-
-      ]
+      "briefs": [["", ""]],
+      "practice": []
     },
     "unstressed": {
-      "briefs": [
-        ["", ""]
-      ],
-      "practice": [
-
-      ]
+      "briefs": [["", ""]],
+      "practice": []
     },
     "shun": {
-      "briefs": [
-        ["", ""]
-      ],
-      "practice": [
-
-      ]
+      "briefs": [["", ""]],
+      "practice": []
     },
     "f_as_s": {
-      "briefs": [
-        ["", ""]
-      ],
-      "practice": [
-
-      ]
+      "briefs": [["", ""]],
+      "practice": []
     },
     "mp": {
-      "briefs": [
-        ["", ""]
-      ],
-      "practice": [
-
-      ]
+      "briefs": [["", ""]],
+      "practice": []
     },
     "nch_rch": {
-      "briefs": [
-        ["", ""]
-      ],
-      "practice": [
-
-      ]
+      "briefs": [["", ""]],
+      "practice": []
     },
     "inversion": {
-      "briefs": [
-        ["", ""]
-      ],
-      "practice": [
-
-      ]
+      "briefs": [["", ""]],
+      "practice": []
     },
     "con_com": {
-      "briefs": [
-        ["", ""]
-      ],
-      "practice": [
-
-      ]
+      "briefs": [["", ""]],
+      "practice": []
     },
     "w_as_v": {
-      "briefs": [
-        ["", ""]
-      ],
-      "practice": [
-
-      ]
+      "briefs": [["", ""]],
+      "practice": []
     },
     "rve": {
-      "briefs": [
-        ["", ""]
-      ],
-      "practice": [
-
-      ]
+      "briefs": [["", ""]],
+      "practice": []
     },
     "ment": {
-      "briefs": [
-        ["", ""]
-      ],
-      "practice": [
-
-      ]
+      "briefs": [["", ""]],
+      "practice": []
     },
     "lge_nge_lk_nk": {
-      "briefs": [
-        ["", ""]
-      ],
-      "practice": [
-
-      ]
+      "briefs": [["", ""]],
+      "practice": []
     },
     "ent_int": {
-      "briefs": [
-        ["", ""]
-      ],
-      "practice": [
-
-      ]
+      "briefs": [["", ""]],
+      "practice": []
     }
   }
 }

@@ -10,8 +10,8 @@ You've already learned Left side `SH` as it is naturally formed.
 
 <Steno-Display labels="all" stroke="SH" />
 
-* `SHOP`: shop
-* `SHAEUP`: shape
+- `SHOP`: shop
+- `SHAEUP`: shape
 
 ## Right side SH
 
@@ -19,26 +19,26 @@ Right side SH is given by the outline `-RB`.
 
 <Steno-Display labels="all" stroke="-RB" />
 
-* `ARB`: ash
-* `KARB`: cash
-* `WARB`: wash
-* `PWARB`: bash
-* `RARB`: rash
-* `HARB`: hash
-* `SARB`: sash
-* `PWRARB`: brash
-* `WEURB`: wish
-* `TPEURB`: fish
-* `TREURB`: Trish
-* `TPRERB`: fresh
-* `KRURB`: crush
-* `PHURB`: mush
-* `PORB`: posh
-* `PHORB`: mosh
-* `WAORB`: woosh
-* `TPHRURB`: flush
-* `TKAOURB`: douche
-* `TKHREURB`: delish
+- `ARB`: ash
+- `KARB`: cash
+- `WARB`: wash
+- `PWARB`: bash
+- `RARB`: rash
+- `HARB`: hash
+- `SARB`: sash
+- `PWRARB`: brash
+- `WEURB`: wish
+- `TPEURB`: fish
+- `TREURB`: Trish
+- `TPRERB`: fresh
+- `KRURB`: crush
+- `PHURB`: mush
+- `PORB`: posh
+- `PHORB`: mosh
+- `WAORB`: woosh
+- `TPHRURB`: flush
+- `TKAOURB`: douche
+- `TKHREURB`: delish
 
 ## Final SHS
 
@@ -46,20 +46,20 @@ Words ending in the "shoush" sound, like "conscious" and "delicious", can be wri
 
 <Steno-Display labels="all" stroke="-RBS" />
 
-* `SREURBS`: vicious
-* `KORBS`: conscious
-* `KAURBS`: cautious
-* `TKHREURBS`: delicious
-* `TPHAURBS`: nauseous
-* `SPEURBS`: suspicious
-* `SPAEURBS`: spacious
-* `PRERBS`: precious
-* `PAEURBS`: patience
-* `TKPWARBS`: gaseous
+- `SREURBS`: vicious
+- `KORBS`: conscious
+- `KAURBS`: cautious
+- `TKHREURBS`: delicious
+- `TPHAURBS`: nauseous
+- `SPEURBS`: suspicious
+- `SPAEURBS`: spacious
+- `PRERBS`: precious
+- `PAEURBS`: patience
+- `TKPWARBS`: gaseous
 
 ## Briefs
 
-|    Chord     | Translation |    Notes     |
+| Chord        | Translation | Notes        |
 | ------------ | ----------- | ------------ |
 | `TK-RB`      | --          | **D**a**sh** |
 | `TKPWHREURB` | English     |              |
@@ -69,7 +69,6 @@ Words ending in the "shoush" sound, like "conscious" and "delicious", can be wri
 | `TP*EURB`    | finish      |              |
 | `TKWEURB`    | distinguish |              |
 | `*EUSH`      | issue       |              |
-
 
 ## Practice
 

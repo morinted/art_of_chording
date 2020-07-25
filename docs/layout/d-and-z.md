@@ -4,14 +4,14 @@ The last couple keys on the main part of the board are off the main layout and w
 
 The keys used in this lesson include those used in previous lessons, plus:
 
-* `* - *   DZ`
-* `4 - 4   11`
+- `* - * DZ`
+- `4 - 4 11`
 
 <Steno-Display labels="STKPWHRAO*EUFRPBLGTSDZ" stroke="*DZ" />
 
 The numbers show the fingers for each key, where 1's are the pinkies and 5 are the thumbs.
 
-## The Asterisk (*)
+## The Asterisk (\*)
 
 Your keyboard may have multiple asterisks, up to four, or just one. As long as you can hit the asterisks with either index finger, you should be fine. The asterisk can be hit alone, or in conjunction with its neighboring keys. That is why often the gap between the asterisk key and `-FR` tends to be smaller than the gaps between other columns.
 
@@ -23,7 +23,7 @@ Each of those topics will be covered. For now, if you ever see a lone asterisk i
 
 ## The `-D` and `-Z` Keys
 
-The `D` and `Z` keys are hit using the right pinky. They can be used alone, or in combinations such as `TD`, `SZ`, or `DZ`. 
+The `D` and `Z` keys are hit using the right pinky. They can be used alone, or in combinations such as `TD`, `SZ`, or `DZ`.
 
 ### Pressing down the `-SD` or `-TZ` Keys
 
@@ -42,7 +42,7 @@ Phonetically, plural words in English end with an "s" \(puts\) or a "z" \(bugs\)
 This lesson only introduces a few briefs. They are similar, so they will require care to remember correctly. The briefs starting with `TH-` below are good examples of very common words that had their ending chopped off to save effort on the stenographer's part. The briefs also make room for more complex strokes that you will learn in later lessons.
 
 |     | Translation | Notes |
-|:----|:------------|:------|
+| :-- | :---------- | :---- |
 | TH  | this        |       |
 | THA | that        |       |
 | THE | they        |       |

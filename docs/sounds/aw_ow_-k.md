@@ -12,12 +12,12 @@ The first chorded sound we will learn is the final K sound. It is produced on th
 
 <Steno-Display labels="all" stroke="-K" />
 
-* `TABG`: tack
-* `WABG`: wack
-* `SHABG`: shack
-* `ROBG`: rock
-* `SOBG`: sock
-* `STRUBG`: struck
+- `TABG`: tack
+- `WABG`: wack
+- `SHABG`: shack
+- `ROBG`: rock
+- `SOBG`: sock
+- `STRUBG`: struck
 
 ## Right side W
 
@@ -27,33 +27,33 @@ On the left hand we have a `W` key, but there is no such thing on the right. Ins
 
 <Steno-Display labels="all" stroke="AU" />
 
-* `SAU`: saw
-* `TAUBG`: talk \(`TABG`: tack\)
-* `AUL`: all \(`AL`: al\)
-* `PAUL`: Paul
+- `SAU`: saw
+- `TAUBG`: talk \(`TABG`: tack\)
+- `AUL`: all \(`AL`: al\)
+- `PAUL`: Paul
 
 ### `OU`: the "ow" sound.
 
 <Steno-Display labels="all" stroke="OU" />
 
-* `HOU`: how
-* `HOUS`: house
-* `OUT`: out
-* `OUL`: owl
+- `HOU`: how
+- `HOUS`: house
+- `OUT`: out
+- `OUL`: owl
 
 ## Briefs
 
-| Chord        | Translation | Notes                                         |
-|:-------------|:------------|:----------------------------------------------|
+| Chord        | Translation | Notes                                        |
+| :----------- | :---------- | :------------------------------------------- |
 | AULS or AULZ | always      | This is possible because "alls" isn't a word |
-| AUFL         | awful       |                                               |
+| AUFL         | awful       |                                              |
 | OBG          | okay        | The letters "O" and "K"                      |
-| AF           | after       |                                               |
-| EZ           | easy        | The letters "E" and "Z"                     |
-| WAUR         | water       |                                               |
-| KO           | could       | Instead of KOULD                              |
-| WO           | would       | Instead of WOULD                              |
-| SHO          | should      | Instead of SHOULD                             |
+| AF           | after       |                                              |
+| EZ           | easy        | The letters "E" and "Z"                      |
+| WAUR         | water       |                                              |
+| KO           | could       | Instead of KOULD                             |
+| WO           | would       | Instead of WOULD                             |
+| SHO          | should      | Instead of SHOULD                            |
 
 ## How to Practice
 
