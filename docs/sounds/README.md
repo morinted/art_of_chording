@@ -6,7 +6,7 @@ In this next chapter, we will start addressing sounds that aren't present on the
 
 By the end of the chapter you will know:
 
-* All the steno vowel sounds
-* How to write thousands of words by sound
-* Over a hundred useful briefs
-* How to spell words out one letter at a time with the steno machine
+- All the steno vowel sounds
+- How to write thousands of words by sound
+- Over a hundred useful briefs
+- How to spell words out one letter at a time with the steno machine

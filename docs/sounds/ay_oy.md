@@ -8,38 +8,38 @@ The "ay" sound is a combination of the vowels "a" and "i", and the outline is `A
 
 <Steno-Display labels="all" stroke="AEU" />
 
-* `AEU`: a
-* `PAEU`: pay
-* `STAEU`: stay
-* `WAEU`: way
-* `TKAEU`: day
-* `AEUP`: ape
-* `AEUR`: air
-* `PHAEUBG`: make
-* `TAEUBG`: take
-* `HRAEUPL`: lame
-* `PWHRAUPL`: blame
-* `PHAEUR`: mayor
-* `TPHRAEUPL`: flame
-* `TPHRAEUR`: flair
-* `PHRAEUR`: player
+- `AEU`: a
+- `PAEU`: pay
+- `STAEU`: stay
+- `WAEU`: way
+- `TKAEU`: day
+- `AEUP`: ape
+- `AEUR`: air
+- `PHAEUBG`: make
+- `TAEUBG`: take
+- `HRAEUPL`: lame
+- `PWHRAEUPL`: blame
+- `PHAEUR`: mayor
+- `TPHRAEUPL`: flame
+- `TPHRAEUR`: flair
+- `PHRAEUR`: player
 
 ## Vowel oy
 
 The "oy" sound is a combination of the vowels "o" and "i", and the outline is `OEU`.
 
-* `OEUL`: oil
-* `TPOEUL`: foil
-* `SOEUL`: soil
-* `KOEUL`: coil
-* `TOEUL`: toil
-* `KHOEUS`: choice
-* `ROEUL`: royal
+- `OEUL`: oil
+- `TPOEUL`: foil
+- `SOEUL`: soil
+- `KOEUL`: coil
+- `TOEUL`: toil
+- `KHOEUS`: choice
+- `ROEUL`: royal
 
 ## Briefs
 
 | Chord         | Translation | Notes                                                                |
-|:--------------|:------------|:---------------------------------------------------------------------|
+| :------------ | :---------- | :------------------------------------------------------------------- |
 | OEU           | {^/^}       | Slash. There is no spacing on either side. E.g. PET OEU KAT: pet/cat |
 | THRU          | through     |                                                                      |
 | THR-          | there       |                                                                      |

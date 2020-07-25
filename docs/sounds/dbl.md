@@ -6,10 +6,10 @@
 
 <Steno-Display labels="all" stroke="D" />
 
-* `TKOG`: dog
-* `TKROP`: drop
-* `TKAFT`: daft
-* `TKUL`: dull
+- `TKOG`: dog
+- `TKROP`: drop
+- `TKAFT`: daft
+- `TKUL`: dull
 
 ## Left side B
 
@@ -17,11 +17,11 @@
 
 <Steno-Display labels="all" stroke="B" />
 
-* `PWUD`: bud
-* `PWUT`: but
-* `PWED`: bed
-* `PWAD`: bad
-* `PWART`: Bart
+- `PWUD`: bud
+- `PWUT`: but
+- `PWED`: bed
+- `PWAD`: bad
+- `PWART`: Bart
 
 ## Left side L
 
@@ -29,10 +29,10 @@
 
 <Steno-Display labels="all" stroke="L" />
 
-* `HRARD`: lard
-* `HRAF`: laugh
-* `HRUL`: lull
-* `PWHROB`: blob
+- `HRARD`: lard
+- `HRAF`: laugh
+- `HRUL`: lull
+- `PWHROB`: blob
 
 ## Order of D, B, L
 
@@ -40,20 +40,20 @@ D, B, and L are all made with a single finger's column. If the order sometimes e
 
 ## Briefs
 
-| Chord          | Translation | Notes     |
-|:---------------|:------------|:----------|
-| TK             | did         |           |
-| TKO            | do          | Spelling  |
-| PW             | about       |           |
-| PWAUS or PWAUZ | because     |           |
-| PW-FR          | before      |           |
-| HR             | will        |           |
-| HREF           | leave       |           |
-| PWHREF         | believe     |           |
-| HR-R           | already     |           |
-| HR-RT          | all right   |           |
-| HR-S           | also        |           |
-| HR-BG          | welcome     |           |
+| Chord          | Translation | Notes    |
+| :------------- | :---------- | :------- |
+| TK             | did         |          |
+| TKO            | do          | Spelling |
+| PW             | about       |          |
+| PWAUS or PWAUZ | because     |          |
+| PW-FR          | before      |          |
+| HR             | will        |          |
+| HREF           | leave       |          |
+| PWHREF         | believe     |          |
+| HR-R           | already     |          |
+| HR-RT          | all right   |          |
+| HR-S           | also        |          |
+| HR-BG          | welcome     |          |
 
 ## How to Practice
 

@@ -2,7 +2,7 @@
 
 Stenography uses a chorded keyboard. **On a chorded keyboard, you hit multiple keys at once**, instead of one at a time. All keys are released simultaneously and the **order that you hit them in doesn't matter**.
 
-----
+---
 
 Here is the steno keyboard layout in all its glory:
 
@@ -41,9 +41,9 @@ The only keys not covered in the home row are `*`, `-D`, and `-Z`. To hit these,
 
 Each finger is responsible for just two keys, except:
 
-* The left pinky which only has one: `S`
-* The right index which has three: `*`, `-F`, `-R`
-* The right pinky which has four: `-T`, `-S`, `-D`, `-Z`
+- The left pinky which only has one: `S`
+- The right index which has three: `*`, `-F`, `-R`
+- The right pinky which has four: `-T`, `-S`, `-D`, `-Z`
 
 Of note, some users use the left index finger to hit `*`. It is a matter of personal preference. It is okay to use either or both hands.
 
@@ -86,6 +86,3 @@ Remember, steno order is firm and is never broken. Without a consistent order st
 9. `ZAOPL` Incorrect, Z is the final letter in steno order, it would never start a chord.
 10. `SOS` Yes!
 11. `HROF` Yes!
-
-
-

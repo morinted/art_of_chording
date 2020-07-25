@@ -2,7 +2,7 @@
 
 A huge thank you to an anonymous [Plover Blog](http://plover.stenoknight.com/) reader for funding this lesson.
 
------
+---
 
 You've learned a lot of sounds in Plover Theory and can write out many one-syllable words. However, there are times when you won't be able to write a word with a steno machine. This can happen because:
 
@@ -25,10 +25,10 @@ We've covered every letter so far in previous lessons except C. It's rare that w
 
 <Steno-Display labels="all" stroke="KR" />
 
-* `KREPBT`: cent
+- `KREPBT`: cent
   - `SEPBT`: sent
   - `SKREPBT`: scent
-* `KREL`: cell
+- `KREL`: cell
   - `SEL`: sell
 
 ## Fingerspelling Alphabet
@@ -63,7 +63,7 @@ If you also add the `-P` key on the right side of the keyboard, you get a capita
 - x is `KP*`, X is `KP*P`
 - y is `KWR*`, Y is `KWR*P`
 - z is `STKPW*`, Z is `STKPW*P`
-  * Note that `S*` is already occupied by "s" so we have to use the complex version of Z.
+  - Note that `S*` is already occupied by "s" so we have to use the complex version of Z.
 
 ## Spacing
 
