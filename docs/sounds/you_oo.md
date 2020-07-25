@@ -14,26 +14,26 @@ The "you" vowel is made with the outline `AOU`.
 
 <Steno-Display labels="all" stroke="AOU" />
 
-* `TKAOU`: due
-* `AOUS`, `AOUZ`: use
-* `TAOUB`: tube
-* `TRAOU`: true
-* `PAOUR`: pure
-* `RAOUL`: rule
-* `SKAOU`: skew
-* `STAOU`: stew
-* `PWHRAOU`: blew
-* `SRAOU`: view
-* `STAOUPD`: stupid
-* `TKAOUD`: dude
-* `TAOUPL`: tomb
-* `HRAOUBG`: Luke
-* `KRAOUS`: cruise
-* `KRAOUZ`: crews
-* `KRAOUL`: cruel
-* `TKAOURG`: during
-* `PRAOUPB`: prune
-* `KWAOU`: queue
+- `TKAOU`: due
+- `AOUS`, `AOUZ`: use
+- `TAOUB`: tube
+- `TRAOU`: true
+- `PAOUR`: pure
+- `RAOUL`: rule
+- `SKAOU`: skew
+- `STAOU`: stew
+- `PWHRAOU`: blew
+- `SRAOU`: view
+- `STAOUPD`: stupid
+- `TKAOUD`: dude
+- `TAOUPL`: tomb
+- `HRAOUBG`: Luke
+- `KRAOUS`: cruise
+- `KRAOUZ`: crews
+- `KRAOUL`: cruel
+- `TKAOURG`: during
+- `PRAOUPB`: prune
+- `KWAOU`: queue
 
 ## Words spelled with "oo"
 
@@ -41,66 +41,66 @@ When there is a word spelled with "oo", you stroke it with `AO`.
 
 <Steno-Display labels="all" stroke="AO" />
 
-* `TAO`: too
-* `TKPWAOD`: good
-* `HRAOBG`: look
-* `PHAO`: moo
-* `PWAOPL`: boom
-* `TAOPB`: toon
-* `TKRAOL`: drool
-* `KAOL`: cool
-* `STAOL`: stool
-* `SKAOL`: school
-* `PHAOR`: Moore
-* `AOF`: oof
+- `TAO`: too
+- `TKPWAOD`: good
+- `HRAOBG`: look
+- `PHAO`: moo
+- `PWAOPL`: boom
+- `TAOPB`: toon
+- `TKRAOL`: drool
+- `KAOL`: cool
+- `STAOL`: stool
+- `SKAOL`: school
+- `PHAOR`: Moore
+- `AOF`: oof
 
 ## Words spelled with "oa"
 
 We also use the `AO` combination to write out words that have the vowels "oa" like "load". This helps us resolve homophones:
 
-* `LOEPB`: lone
-  * `LAOPB`: loan
-* `TKPWROEPB`: grown
-  * `TKPWRAOPB`: groan
-* `TOED`: today \(brief\)
-  * `TAOD`: toad
-* `SOR`: sore, `SOER`: sorry \(brief\)
-  * `SAOR`: soar
-* `PWORD`: bored, `PWOERD`: bothered
-  * `PWAORD`: board
-* `ROED`: rode
-  * `RAOD`: road
-* `OER`: other, `O*ER`: ore
-  * `AOR`: oar
+- `LOEPB`: lone
+  - `LAOPB`: loan
+- `TKPWROEPB`: grown
+  - `TKPWRAOPB`: groan
+- `TOED`: today \(brief\)
+  - `TAOD`: toad
+- `SOR`: sore, `SOER`: sorry \(brief\)
+  - `SAOR`: soar
+- `PWORD`: bored, `PWOERD`: bothered
+  - `PWAORD`: board
+- `ROED`: rode
+  - `RAOD`: road
+- `OER`: other, `O*ER`: ore
+  - `AOR`: oar
 
 But this combination is also used for "oa" words even when there are no homophones:
 
-* `PWHRAOT`, `PWHROET`: bloat
+- `PWHRAOT`, `PWHROET`: bloat
 
 Finally, this chord can be used if you ever have an "ao" vowel, but these are not very common in English. The only single-syllable examples I have are names which have the asterisk as they conflict with "too" and "moo":
 
-* `TAO*`: Tao
-* `PHAO*`: Mao
+- `TAO*`: Tao
+- `PHAO*`: Mao
 
 ## Briefs
 
-| Chord             | Translation   | Notes                                                                      |
-|:------------------|:--------------|:---------------------------------------------------------------------------|
+| Chord             | Translation   | Notes                                                                     |
+| :---------------- | :------------ | :------------------------------------------------------------------------ |
 | TPHAO             | into          | To remember this brief, it might help to sound it out as "noo" or "in-oo" |
 | TWO               | two           | Using spelling to avoid conflict with "to" and "too"                      |
-| PWHRU             | blue          |                                                                            |
-| PWAOUT            | beauty        |                                                                            |
-| STAOUPBT          | student       |                                                                            |
-| TRAOUL            | truly         |                                                                            |
+| PWHRU             | blue          |                                                                           |
+| PWAOUT            | beauty        |                                                                           |
+| STAOUPBT          | student       |                                                                           |
+| TRAOUL            | truly         |                                                                           |
 | TAOUL or TWAUL    | actual        | Think "tule" or "twall"                                                   |
 | THRAOUL or TWAEUL | actually      | Think "tlule" or "twail"                                                  |
-| URPBD             | understand    |                                                                            |
-| URPBGD            | understanding |                                                                            |
-| PHRAR             | particular    |                                                                            |
-| PHRARL            | particularly  |                                                                            |
-| KAOUFS            | confuse       |                                                                            |
-| KAOUFG            | confusing     |                                                                            |
-| KAOUFD            | confused      |                                                                            |
+| URPBD             | understand    |                                                                           |
+| URPBGD            | understanding |                                                                           |
+| PHRAR             | particular    |                                                                           |
+| PHRARL            | particularly  |                                                                           |
+| KAOUFS            | confuse       |                                                                           |
+| KAOUFG            | confusing     |                                                                           |
+| KAOUFD            | confused      |                                                                           |
 
 ## Practice
 

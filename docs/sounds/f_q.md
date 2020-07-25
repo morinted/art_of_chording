@@ -8,11 +8,11 @@ Left side F is made with the combination `TP` on the left side.
 
 <Steno-Display labels="all" stroke="F" />
 
-* `TPEUL`: fill
-* `TPAUL`: fall
-* `TPHROP`: flop
-* `TPHREUP`: flip
-* `TPHREURT`: flirt
+- `TPEUL`: fill
+- `TPAUL`: fall
+- `TPHROP`: flop
+- `TPHREUP`: flip
+- `TPHREURT`: flirt
 
 ## Left side Q
 
@@ -20,27 +20,27 @@ The Q sound in English is a combination of the K and W sounds, so the outline fo
 
 <Steno-Display labels="all" stroke="Q" />
 
-* `KWEUBG`: quick
-* `KWABG`: quack
-* `KWEUZ`: quiz
-* `KWEUP`: quip
-* `KWAD`: quad
-* `KWEURBG`: quirk
-* `SKWARB`: squash
+- `KWEUBG`: quick
+- `KWABG`: quack
+- `KWEUZ`: quiz
+- `KWEUP`: quip
+- `KWAD`: quad
+- `KWEURBG`: quirk
+- `SKWARB`: squash
 
 ## Briefs
 
-| Chord  | Translation | Notes                          |
-|:-------|:------------|:-------------------------------|
-| TP     | if          |                                |
-| TPR    | from        |                                |
-| TP-R   | for         |                                |
+| Chord  | Translation | Notes                         |
+| :----- | :---------- | :---------------------------- |
+| TP     | if          |                               |
+| TPR    | from        |                               |
+| TP-R   | for         |                               |
 | TPAPL  | familiar    | Spelling instead of phonetics |
-| TPAEPL | family      | Think "fam ee"                 |
-| TPOL   | follow      |                                |
-| KW     | request     |                                |
-| KWE    | question    |                                |
-| SK     | ask         |                                |
+| TPAEPL | family      | Think "fam ee"                |
+| TPOL   | follow      |                               |
+| KW     | request     |                               |
+| KWE    | question    |                               |
+| SK     | ask         |                               |
 
 ## Practice
 
@@ -56,7 +56,7 @@ Write the English sentence represented by these outlines, including punctuation.
 6. `TPOL OUR TPAEPL KAR TO OUR HOUS TP-PL`
 7. `WHA TK U TKO THA TP-R H-F`
 8. `-T PHRAEUR WAS SKWARBD PWEU -T ROBG TP-PL`
-9. `A KWEUZ S AEU HREUL SET -F KWES TP-PL`
+9. `AEU KWEUZ S AEU HREUL SET -F KWES TP-PL`
 
 ## 2. Find Outlines
 
