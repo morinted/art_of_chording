@@ -23,7 +23,7 @@ The Q sound in English is a combination of the K and W sounds, so the outline fo
 - `KWEUBG`: quick
 - `KWABG`: quack
 - `KWEUZ`: quiz
-- `KWEUP`: quip
+- `KWEL`: quell
 - `KWAD`: quad
 - `KWEURBG`: quirk
 - `SKWARB`: squash
