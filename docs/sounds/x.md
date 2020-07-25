@@ -12,27 +12,27 @@ Left side X is given by the outline `KP`. Words in English don't start with an "
 
 Here are several words that start with "x":
 
-* `KPEU`: xi
-* `KPA*PBT`: xanth
-* `KPRAEU`: x-ray
+- `KPEU`: xi
+- `KPA*PBT`: xanth
+- `KPRAEU`: x-ray
 
 The rest of the strokes start with `KP` for "ex":
 
-* `KPEUT`: exit
-* `KPEBG`: exec
-* `KPEBGT`: expect
-* `KPEPLT`: exempt
-* `KPALT`: exalt
-* `KPHAEUL`: exhale
-* `KPAPL`: exam
-* `KPEPT`: except
-* `KPERPT`: excerpt
-* `KPERT`: exert
+- `KPEUT`: exit
+- `KPEBG`: exec
+- `KPEBGT`: expect
+- `KPEPLT`: exempt
+- `KPALT`: exalt
+- `KPHAEUL`: exhale
+- `KPAPL`: exam
+- `KPEPT`: except
+- `KPERPT`: excerpt
+- `KPERT`: exert
 
 There are also these notable examples of words that contain an "x" near the beginning:
 
-* `KPEUS`: axis
-* `KPOUS`: anxious
+- `KPEUS`: axis
+- `KPOUS`: anxious
 
 ## Right side X
 
@@ -40,39 +40,39 @@ Right side X is given by the outline `BGS`, which comes from `BG` being "K" and 
 
 <Steno-Display labels="all" stroke="-X" />
 
-* `EBGS`: ex
-* `TPOBGS`: fox
-* `HOEBGS`: hoax
-* `HRABGS`: lax
-* `TPABGS`: fax
-* `TPAUBGS`: faux \(spelling\)
-* `TPHRUBGS`: flux
-* `WABGS`: wax
+- `EBGS`: ex
+- `TPOBGS`: fox
+- `HOEBGS`: hoax
+- `HRABGS`: lax
+- `TPABGS`: fax
+- `TPAUBGS`: faux \(spelling\)
+- `TPHRUBGS`: flux
+- `WABGS`: wax
 
 ## Resolving -KS and -X
 
 You might realize at this point that "ks" words like "tacks" are homophones to "x" words like "tax". In order to resolve this, you can use `BGZ` instead of `BGS` to pluralize "-k" words. Because `BGZ` might be a little tough to finger, you can also pluralize with a separate stroke, writing `TABG -S` instead of `TABGS`.
 
-* `TABG`: tack
-* `TABGS`: tax
-* `TABGZ`: tacks
-* `TABG -S`: tacks
-* `TABG -Z`: tacks
+- `TABG`: tack
+- `TABGS`: tax
+- `TABGZ`: tacks
+- `TABG -S`: tacks
+- `TABG -Z`: tacks
 
 ## Briefs
 
-| Chord   | Translation | Notes                                                                                       |
-|:--------|:------------|:--------------------------------------------------------------------------------------------|
-| KP      | examine     |                                                                                             |
-| KPER    | examiner    |                                                                                             |
-| KP-PL   | example     |                                                                                             |
-| KPERZ   | exercise    |                                                                                             |
-| KPES    | access      |                                                                                             |
+| Chord   | Translation | Notes                                                                                      |
+| :------ | :---------- | :----------------------------------------------------------------------------------------- |
+| KP      | examine     |                                                                                            |
+| KPER    | examiner    |                                                                                            |
+| KP-PL   | example     |                                                                                            |
+| KPERZ   | exercise    |                                                                                            |
+| KPES    | access      |                                                                                            |
 | KP\*ES  | excess      | The asterisk is used on the less common word in the conflict between "access" and "excess" |
-| PRABGS  | practice    |                                                                                             |
-| TEGT    | text        |                                                                                             |
-| TPHEGT  | next        |                                                                                             |
-| TRAEBGS | extra       | tra-ex, inversion of "ex-tra"                                                                |
+| PRABGS  | practice    |                                                                                            |
+| TEGT    | text        |                                                                                            |
+| TPHEGT  | next        |                                                                                            |
+| TRAEBGS | extra       | tra-ex, inversion of "ex-tra"                                                              |
 
 ## Practice
 

@@ -1,16 +1,46 @@
 {
   "name": "art_of_chording",
   "version": "1.0.0",
-  "repository": "https://github.com/morinted/art_of_chording.git",
-  "author": "Ted Morin <morinted@gmail.com>",
-  "license": "CC-BY-SA-4.0",
   "private": false,
-  "devDependencies": {
-    "path-svg": "^0.2.1",
-    "vuepress": "^0.14.4"
-  },
+  "author": "Ted Morin <morinted@gmail.com>",
   "scripts": {
-    "dev": "vuepress dev docs",
-    "build": "vuepress build docs"
-  }
+    "build": "vuepress build docs",
+    "lint": "vue-cli-service lint",
+    "prettier": "prettier --write .",
+    "start": "vuepress dev docs"
+  },
+  "dependencies": {
+    "@vue/composition-api": "^1.0.0-beta.3",
+    "markdown-it-footnote": "^3.0.2"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-eslint": "~4.4.0",
+    "@vue/cli-service": "^4.4.6",
+    "@vue/eslint-config-prettier": "^6.0.0",
+    "@vuepress/plugin-google-analytics": "^1.0.0-rc.1",
+    "eslint": "^6.7.2",
+    "eslint-plugin-prettier": "^3.1.3",
+    "eslint-plugin-vue": "^6.2.2",
+    "lint-staged": "^9.5.0",
+    "path-svg": "^0.2.1",
+    "prettier": "^2.0.5",
+    "vuepress": "^1.5.2"
+  },
+  "prettier": {
+    "trailingComma": "es5",
+    "tabWidth": 2,
+    "semi": false,
+    "singleQuote": true
+  },
+  "gitHooks": {
+    "pre-commit": "lint-staged"
+  },
+  "license": "CC-BY-SA-4.0",
+  "lint-staged": {
+    "*.{js,jsx,vue}": [
+      "vue-cli-service lint",
+      "git add"
+    ]
+  },
+  "repository": "https://github.com/morinted/art_of_chording.git"
 }

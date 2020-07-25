@@ -6,5 +6,5 @@ Now, we will learn about some compound sounds that are available in Plover Theor
 
 By the end of the chapter you will know:
 
-* All of Plover Theory's sounds
-* How to stroke all phonetic single-stroke words
+- All of Plover Theory's sounds
+- How to stroke all phonetic single-stroke words
