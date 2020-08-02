@@ -29,7 +29,7 @@ I'm still writing more lessons! If you'd like to support the writing of new less
 
 ### Lesson plan for prefixes
 
-I have to go back and introduce prefixes early. I think that maybe between "The Layout" and "Hidden Sounds" I could introduce "Multistroke Words" starting with Prefixes and Suffixes in a little  lesson that covers RE-, A-, -S, -G, and -D. Then I could go on to show multistroke root words and contrast and compare.
+I have to go back and introduce prefixes early. I think that maybe between "The Layout" and "Hidden Sounds" I could introduce "Multistroke Words" starting with Prefixes and Suffixes in a little lesson that covers RE-, A-, -S, -G, and -D. Then I could go on to show multistroke root words and contrast and compare.
 
 This would allow me to introduce more common prefixes and suffixes in hidden sounds, which provide a natural time to introduce certain affixes.
 

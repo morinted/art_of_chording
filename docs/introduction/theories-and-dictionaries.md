@@ -2,7 +2,7 @@
 
 As you start learning about stenography, you'll hear the terms "steno theory" and "steno dictionary" thrown around. These are often very confusing for beginners, and there's a lot of confusion about the "best" theory.
 
-A *theory* is a set of rules that determines how you form chords to write words. For example, do you write THOT, THOUGT, THAUT, or something else entirely to write the word "thought"? Your theory is what determines that.
+A _theory_ is a set of rules that determines how you form chords to write words. For example, do you write THOT, THOUGT, THAUT, or something else entirely to write the word "thought"? Your theory is what determines that.
 
 A dictionary is simply a computer file that implements a theory. Because the scope of stenography is the entire language that you're writing in, the dictionary is often sized to how many words you may need to write.
 

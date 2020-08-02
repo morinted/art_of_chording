@@ -8,4 +8,4 @@ Stenography is the fastest way to write on a computer. Court reporters have used
 
 A steno machine can completely replace keyboard usage.
 
-This book is part of the [Open Steno Project](http://openstenoproject.org), whose mission is to *bring stenography to everyone*.
+This book is part of the [Open Steno Project](http://openstenoproject.org), whose mission is to _bring stenography to everyone_.

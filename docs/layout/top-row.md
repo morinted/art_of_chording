@@ -46,7 +46,7 @@ The `U` key tends to sound like "uh" in Plover, or is used sometimes when the wo
 The more common a word, the more likely it has a brief. In fact, the first bit of steno theory you are about to learn is about briefs that you can make with just `STPHAUFPLT`.
 
 | Chord     | Translation | Notes                                    |
-|:----------|:------------|:-----------------------------------------|
+| :-------- | :---------- | :--------------------------------------- |
 | S-        | is          |                                          |
 | T-        | it          |                                          |
 | H-        | had         |                                          |

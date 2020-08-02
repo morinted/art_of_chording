@@ -43,6 +43,7 @@ Plover Theory spells words with "or" in them \(corn, born, etc.\) with just the 
 - `STOR`: store
   - `STOER`: story
 - `STORPL`: storm
+
   - `STOERPL`: stormy
 
 - `PHOR`: more

@@ -180,7 +180,7 @@ Phrases that are briefs of their own:
 Now you know about the basic building blocks that stenographers use when writing. Instead of writing letter-by-letter, they break down sentences into phrases, briefs, words, affixes, and symbols, as necessary. Let's look at some sentences and look at how a stenographer might break them down:
 
 |                |                                                  |
-|----------------|--------------------------------------------------|
+| -------------- | ------------------------------------------------ |
 | Text           | The quick brown fox jumps over the lazy dog.     |
 | Steno          | `-T KWIK BROUN FOX JUMPS OEFR -T LAEZ DOG TP-PL` |
 | Briefs         | `-T: the`, `LAEZ: lazy`                          |
@@ -192,7 +192,7 @@ Now you know about the basic building blocks that stenographers use when writing
 Let's try something a little more involved:
 
 |                |                                                                                                                                                                                                                                                                                                         |
-|----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Text           | Learn to enjoy every minute of your life. Be happy now. Don't wait for something outside of yourself to make you happy in the future. Think how really precious is the time you have to spend, whether it's at work or with your family. Every minute should be enjoyed and savored.                    |
 | Steno          | `LERN TO EN JOI EFR MIN -F YOUR LAOIF TP-PL -B HAEP NOU TP-PL DOENT WAIT F-R S-G AOUDZ -F YAOURS TO MAIK U HAEP N -T FAOUCH TP-PL THI HOU R-L PRESHS S -T TAOIM U V TO SPEND KW-BG WHR T-S AT WORK OR W YOUR FAEM TP-PL EFR MIN SHOB EN JOI -D SKP SAIFRD TP-PL`                                        |
 | Phrases        | `SHOB: should be`                                                                                                                                                                                                                                                                                       |
