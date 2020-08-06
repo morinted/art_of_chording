@@ -155,7 +155,7 @@ You might think that it's hard to input symbols if everything is sound-based. Bu
 
 There is a plugin for Plover where it converts the last word you wrote into an emoji. My "convert-to-emoji" stroke is `MOEJ`. So `KAT MOEJ` → 🐈
 
-One strategy that is used for symbols is to omit vowels from the root word. When there are no vowels or asterisk keys in a steno chord, that's represented with the dash (`-`).
+One strategy that is used for symbols is to omit vowels from the root word. When there are no vowels and no asterisk in a steno chord, that's shown with a dash (`-`).
 
 - `BRAIS` → brace
 - `BR-S` → {
