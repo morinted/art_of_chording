@@ -16,7 +16,7 @@ A steno machine only needs twenty-three keys, while normal keyboards have about 
 
 When I first heard about stenography, I was amazed: stories of court reporters keeping up with multiple speakers in a courtroom, typing at a certified speed of 225 words per minute, faster than most people talk at 180 words per minute. Was that even possible? Did their school just teach them to type more quickly? Well, not quite.
 
-Stenography is one of those things that's hard to understand just by watching, and even if I tell you the basics, it's a skill that takes months or years to learn. Just as someone can show you how hitting keys on a piano makes sounds, it will take a while before you underthe notes enough to play music or compose pieces of your own.
+Stenography is one of those things that's hard to understand just by watching, and even if I tell you the basics, it's a skill that takes months or years to learn. Just as someone can show you how hitting keys on a piano makes sounds, it will take a while before you understand the notes enough to play music or compose pieces of your own.
 
 I'm going to break down, as best I can, the biggest differences between a keyboard and a stenography machine and try to demonstrate how steno can be so much faster.
 
@@ -28,9 +28,9 @@ A stenography setup consists of a steno machine and steno software running on a 
 
 ## Key Concepts
 
-Steno is a completely different from traditional typing. Ordinary keyboards are very simple to use. You just learn where the letters are, how to make things uppercase, and how to type symbols. Getting faster is a matter of hand positioning and practice.
+Steno is completely different from traditional typing. Ordinary keyboards are very simple to use: you learn where the letters are, how to make things uppercase, and how to type symbols. Getting faster is a matter of hand positioning and practice.
 
-Stenography takes months to learn and years to master. Let's look at some of the key concepts that stenographers use.
+Stenography takes months to learn and years to master. Let's look at some of the key concepts that make stenography special.
 
 ### Chords
 
@@ -70,7 +70,7 @@ The reason that there are repeated keys on the layout is:
 - The **right side of the keyboard** <Steno-Thumb stroke="-FRPBLGTSDZ" /> is dedicated to the **end of the syllable.**
 - In between we have the vowels keys <Steno-Thumb stroke="AOEU" />.
 
-A good example of putting the phonetic focus at the beginning or end of the word can be seen by comparing how we chord the word "start"…
+A good example of where using the left or right half of the keyboard matters can be seen by comparing how we chord the word "start"…
 
 <Steno-Display stroke="START" labels="all" />
 
@@ -78,11 +78,11 @@ A good example of putting the phonetic focus at the beginning or end of the word
 
 <Steno-Display stroke="STRAT" labels="all" />
 
-If you're having trouble spotting the difference, it's simply selecting the `R` key that's on either side of the layout. The left R represents the R at the beginning of a syllable (like rough or trap) and the right R represents the R at the end of a syllable (like car or tarp.)
+If you're having trouble spotting the difference, it's simply pressing the `R` key that's on either side of the layout. The left R represents the R at the beginning of a syllable (like in "rough" or "trap") and the right R represents the R at the end of a syllable (like "car" or "tarp.")
 
 ### Spelling
 
-Because stenography chords are roughly syllables, writing in stenography feels more like speaking than spelling.
+Because chords are roughly syllables, writing in stenography feels more like speaking than spelling.
 
 In steno, all these words with **different spellings** are chorded with the **same right-side keys** because they all end with a similar sound:
 
@@ -102,7 +102,7 @@ Spelling is less of a problem because words just get sounded out:
 - `WENS DAI` → Wednesday
 - `BA RA KU DA` → barracuda
 
-To distinguish between homophones, the stenographer sometimes uses different vowel keys or adds in the "asterisk" key which is kind of like a wildcard.
+To distinguish between homophones, the stenographer uses different vowel keys or adds in the "asterisk" key, `*`, which is kind of like a wildcard:
 
 - `BAIR` → bare
 - `BAER` → bear
@@ -111,15 +111,15 @@ To distinguish between homophones, the stenographer sometimes uses different vow
 
 ### Briefs
 
-Ever watched a professor save time by writing "w" instead of "with"? Have you ever written "brb" in a text chat instead of "be right back"? A **brief (short for abbreviation)** in stenography is a shortcut to save time.^[The natural extension of abbreviating written words is pen stenography, or written shorthand. Written shorthand is very similar to machine stenography in that you use a phonetic representation of sounds instead of spelling out words. However, written shorthand is a little slower (150WPM) and requires transcribing your shorthand notes to convert them back to longhand.]
+Ever watched a professor save time by writing "w" instead of "with"? Have you ever written "brb" in a text chat instead of "be right back"? This concept is used extensively in stenography: a **brief (short for abbreviation)** is a shortcut to save time.^[The natural extension of abbreviating written words is pen stenography, or written shorthand. Written shorthand is very similar to machine stenography in that you use a phonetic representation of sounds instead of spelling out words. However, written shorthand is a little slower (150WPM) and requires transcribing your shorthand notes to convert them back to longhand.]
 
 Single-key chords like `W` and `U` map to "with" and "you", respectively. There are also briefs for very long words, so the chord for "particular" is a syllable that sounds like `PLAR`; "remember" is `RER`; "government" is `GOFMT`.
 
 ### Customizable Dictionary
 
-In the steno software, there's a giant "dictionary" that maps between syllables like `LA MA` and words like "llama." To write the entire English language, a stenographer's dictionary is often made of over a hundred thousand entries. Don't worry, the stenographer doesn't need to memorize every single entry! Once they know how to sound-out words from syllables, they should be able to write any word they encounter.
+In the steno software, there's a giant "dictionary" that maps between chords like `LA MA` and words like "llama." To write the entire English language, a stenographer's dictionary is often made up of over 100,000 entries. Don't worry, the stenographer doesn't need to memorize every single entry! Once they know how to sound-out words from syllables, they should be able to write any word they encounter.
 
-**The dictionary is customizable** so as the English language develops and new words are created, the stenographer can add them to their dictionary. This is critical for anyone writing jargon, complex terminology, or programming languages.
+**The dictionary is customizable**. As the English language develops and new words are created, the stenographer can add them to their dictionary. This is critical for anyone writing jargon, complex terminology, or programming languages.
 
 Every stenographer has their own personal dictionary where they can add their own entries. If one stenographer were to try another stenographer's machine, the words would probably come out wrong because every dictionary is unique.^[The reason that stenographers end up with very personalized dictionaries is because even though we often learn a pretty similar "theory", we build up our own habits and preferences. To read more about theories, see [Theories and Dictionaries](/introduction/theories-and-dictionaries.html).]
 
@@ -127,11 +127,11 @@ Every stenographer has their own personal dictionary where they can add their ow
 
 Compound words can be strung together thanks to a phonetic system of prefixes and suffixes. "Uncomfortable" could be written as "un" (prefix `UN`) + "comfort" (root word `KOFRT`) + "able" (suffix `-BL`). "Antidisestablishmentarianism" could be composed from the prefixes "anti" and "dis"; the root word "establish"; and the suffixes "ment", "arian", and "ism".^[Just because we _could_ compose "antidisestablishmentarianism" from prefixes and suffixes (`A*INT DIS STAEB *MT A*IRN *IFM`) doesn't mean we would. It's a great word to have a brief for in order to save _a lot_ of time (1 stroke instead of 6). In Plover, the brief for antidisestablishmentarianism is `SLA*IRM` which is pretty arbritary as far as briefs go. Another long single-stroke brief in Plover is `SFRAJ` → supercalifragilisticexpialidocious.]
 
-Finally, if a word isn't composable from prefixes, suffixes, and root words and the stenographer doesn't have a way to write it yet, they can fall back to one letter per chord, which is called _fingerspelling_.^[Fingerspelling is a slow fallback option, only about 50 words per minute for a professional. To fingerspell "stop" the stenographer would stroke `S*` <Steno-Thumb stroke="S*" /> then `T*` <Steno-Thumb stroke="T*" /> then `O*` <Steno-Thumb stroke="O*" /> then `P*` <Steno-Thumb stroke="P*" />.]
+Finally, if a word isn't composable from prefixes, suffixes, and root words and the stenographer doesn't have that word in their dictionary, they can fall back to one-letter-per-chord, which is called _fingerspelling_.^[Fingerspelling is a slow fallback option, only about 50 words per minute for a professional. To fingerspell "stop" the stenographer would stroke `S*` <Steno-Thumb stroke="S*" /> then `T*` <Steno-Thumb stroke="T*" /> then `O*` <Steno-Thumb stroke="O*" /> then `P*` <Steno-Thumb stroke="P*" />.]
 
 ### Automatic capitalization and spacing
 
-Another way that stenographers save time is by not needing to capitalize and space apart words themselves. For the most part, the steno software knows that if you end a sentence with a period, the next word will be capitalized. It knows that "Los Angeles" and "Tom" always have capital letters. However, there are chords that let you override this behavior. For example, there is a chord that forces the next word to come out lowercase, regardless of whether it's a proper noun or not.
+Another way that stenographers save time is by not needing to capitalize and space apart words themselves. For the most part, the steno software knows that if you end a sentence with a period, the next word will be capitalized. It knows that "Los Angeles" and "Tom" always have capital letters. Of course, there are ways to get around this behavior. For example, there is a chord that forces the next word to come out lowercase, regardless of whether it's a proper noun or not.
 
 ### Typos
 
@@ -141,17 +141,29 @@ It can make for some pretty comical mistakes.
 
 When typing "ground" on a normal keyboard, you might accidentally type "gronud" (swapping u and n), but a stenographer might accidentally write "frowned"! The only difference is the stenographer accidentally used an "f" sound instead of a "g" sound.
 
-Another type of typo is an accidental key in a chord. This could turn "remember" (`RER`) into "rear" (`RAER`.)
+Another mistake is an accidental key in a chord. This could turn "remember" (`RER`) into "rear" (`RAER`.)
 
-Using the wrong sound can have devastating consequences: [one time](https://twitter.com/morinted/status/1232396116962029576), I tried to chord `HER TAJ` for "heritage" but I hit `HER TIJ`and got "her to the best of my knowledge."
+Using the wrong sound can have devastating consequences: [one time](https://twitter.com/morinted/status/1232396116962029576), I tried to chord `HER TAJ` for "heritage" but I hit `HER TIJ` and got "her to the best of my knowledge."
 
-If the stenographer types a chord that isn't in their dictionary, say "`ST-RB`", then the output will be "ST-RB" so that they can see their mistake.^[Typos in stenography are referred to as *misstrokes*. Stenographers often save recurring misstrokes so that repeated mistakes come out properly. For example, I often mistakenly think that the word "relevant" is "revelant". I set my machine so that when I chord `REV LANT`, it outputs "relevant."]
+If the stenographer types a chord that isn't in their dictionary, say `ST-RB`, then the output will be "ST-RB" so that they can see their mistake.^[Typos in stenography are referred to as *misstrokes*. Stenographers often save recurring misstrokes so that repeated mistakes come out properly. For example, I often mistakenly think that the word "relevant" is "revelant". I set my machine so that when I chord `REV LANT`, it outputs "relevant."]
 
 Luckily, fixing a typo is as simple as tapping the `*` key to erase the last chord.
 
 ### Symbols
 
-You might think that it's hard to input symbols if everything is sound-based. But the opposite is true! Stenographers can create complex sequences of symbols, keyboard shortcuts, movement keys, and emoji through chords. This is a topic for another time, but rest assured that symbols are not a problem for stenography.
+You might think that it's hard to input symbols if everything is sound-based. But the opposite is true! Stenographers can create complex sequences of symbols, keyboard shortcuts, movement keys, and emoji through chords.
+
+There is a plugin for Plover where it converts the last word you wrote into an emoji. My "convert-to-emoji" stroke is `MOEJ`. So `KAT MOEJ` → 🐈
+
+One strategy that is used for symbols is to omit vowels from the root word. When there are no vowels or asterisk keys in a steno chord, that's represented with the dash (`-`).
+
+- `BRAIS` → brace
+- `BR-S` → {
+- `BR*S` → }
+
+It's possible to create briefs for multiple symbols at once. For example, `SHR*UG` maps to `¯\_(ツ)_/¯` in my dictionary.
+
+There are also strategies for arrow keys, keyboard shortcuts, and everything else you might usually use a keyboard for.
 
 ## Interactive Example
 
@@ -200,7 +212,7 @@ Machine stenography was originally developed in the late 1800s for taking down s
 
 It is used professionally in courtrooms, and as an accessibility tool for realtime captioning and transcription. A certified court reporter in the United States must be able to write 225 words per minute. Human speech averages around 180 words per minute. Most people type around 60 words per minute, but there are [exceptional typists](https://seanwrona.com/typing.php) who can type upwards of 150 words per minute.
 
-Court reporting courses usually last at least 2 years to get up to 225 words per minute. They are full-time programs and are very intense.
+Court reporting courses usually last at least 2 years and require 225 words per minute to graduate. They are full-time programs and are very intense.
 
 But stenography is used in an amateur fashion by hobbyists, writers, programmers, and office workers.^[See the variety of uses that learners have in the [Open Steno Project community survey](http://plover.stenoknight.com/2020/03/corrected-survey-responses-link.html)] It can completely replace normal keyboard usage. For self-taught stenographers, it usually takes six months to a year of casual learning to match their normal typing speed. Getting faster on top of that comes with practice.
 
