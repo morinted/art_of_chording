@@ -83,9 +83,9 @@ Of note, some users use the left index finger to hit `*`. It is a matter of pers
 
 - `E` and `U` <Steno-Thumb stroke="EU" /> right thumb
 - `F` and `R` <Steno-Thumb stroke="-FR" /> right index finger
-- `L` and `G` <Steno-Thumb stroke="-LG" /> right middle finger
-- `T`, `S`, `D`, and `Z` <Steno-Thumb stroke="-TSDZ" /> right ring finger
-- `S` <Steno-Thumb stroke="S" /> right pinky
+- `P` and `B` <Steno-Thumb stroke="-PB" /> right middle finger
+- `L` and `G` <Steno-Thumb stroke="-LG" /> right ring finger
+- `T`, `S`, `D`, and `Z` <Steno-Thumb stroke="-TSDZ" /> right pinky
 
 The asterisk <Steno-Thumb stroke="*" /> is traditionally pressed with the right-hand index finger, but you could press it with the left-hand index finger or a combination of both.
 
