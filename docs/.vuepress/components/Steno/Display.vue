@@ -3,6 +3,7 @@
     :stroke="stenoStroke"
     :labels="labelStroke"
     :compact="compact"
+    :fingers="fingers"
   />
 </template>
 
@@ -12,6 +13,7 @@ export default {
   props: {
     labels: { type: String, default: 'all' },
     stroke: { type: String, required: true },
+    fingers: { type: Boolean },
     compact: { type: Boolean, default: false },
   },
   computed: {

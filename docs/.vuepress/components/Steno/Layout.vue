@@ -13,6 +13,18 @@
           :class="{ pressed: !!stroke[svgKey.key] }"
           :d="svgKey.keyPath"
         ></path>
+      </g>
+      <template v-if="fingers">
+        <circle
+          v-for="(finger, index) in svgInfo.svgFingers"
+          :key="index"
+          r="20"
+          :cx="finger.x"
+          :cy="finger.y"
+          :class="{ pressed: finger.pressed }"
+        />
+      </template>
+      <g v-for="svgKey in svgInfo.svgKeys" :key="`text-${svgKey.key}`">
         <text
           v-if="labels[svgKey.key]"
           :style="svgInfo.letterStyle"
@@ -41,7 +53,12 @@ export default {
     labels: { type: Stroke, required: true },
     stroke: { type: Stroke, required: true },
     compact: { type: Boolean, default: false },
+    fingers: { type: Boolean, default: false },
   },
+  data: () => ({
+    unit: 50, // SVG base pixel multiplier
+    aspectRatio: 1.2, // How much taller are keys than wide?
+  }),
   computed: {
     svgInfo: function () {
       return this.compact
@@ -52,8 +69,8 @@ export default {
   methods: {
     // Calculate the positions and paths for all the steno keys in the SVG.
     getSvgInfo: function (keyInfoType) {
-      const unit = 50
-      const aspectRatio = 1.2 // How much taller are keys than wide?
+      const unit = this.$data.unit
+      const aspectRatio = this.$data.aspectRatio
       const arcRadius = unit / 2
       const strokeWidth = this.compact ? unit / 10 : unit / 25
       const padding = this.compact ? unit / 20 : unit / 10
@@ -76,6 +93,22 @@ export default {
         fillOpacity: 1,
         fontSize: '25px',
       }
+      const svgFingers = this.$props.stroke
+        .fingerPositions(this.compact ? 0 : undefined)
+        .map(({ x, y, pressed, xCrack, yCrack }, index) => {
+          const normalizedX = // Normalize thumbs by removing the fraction.
+            index === 4 ? x + 0.75 : index === 5 ? x - 0.75 : x
+
+          const startX =
+            x * unit +
+            padding * Math.ceil(normalizedX) +
+            (xCrack ? padding / 2 : 0)
+          const startY =
+            y * unit * aspectRatio +
+            padding * Math.ceil(y) +
+            (yCrack ? padding / 2 : 0)
+          return { x: startX, y: startY, pressed }
+        })
       const svgKeys = KEYS.map((key) => {
         const keyInfo = keyInfoType[key]
         if (!keyInfo) return null
@@ -140,13 +173,14 @@ export default {
         svgHeight,
         svgStyle,
         svgKeys,
+        svgFingers,
         letterStyle,
       }
     },
   },
 }
 </script>
-<style scoped>
+<style lang="stylus" scoped>
 div {
   text-align: center;
 }
@@ -168,4 +202,11 @@ path.steno-key.pressed {
 .compact path.steno-key.pressed {
   fill-opacity: 0.6;
 }
+svg circle
+  fill $accentColor
+  stroke none
+  fill-opacity 0.2
+  &.pressed
+    fill-opacity 0.9
+    fill saturation(lighten($accentColor, 30), 60)
 </style>

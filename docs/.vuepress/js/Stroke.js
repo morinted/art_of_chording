@@ -216,6 +216,98 @@ class Stroke {
       return normalized
     }, '')
   }
+
+  fingerPositions(numberBarHeight = NUMBER_BAR_HEIGHT) {
+    // Return the x/y coordinate of each finger and whether it would be pressed.
+    const getHeight = (topKey, bottomKey) => {
+      // If both or none are hit, we want the middle.
+      if (topKey === bottomKey) return 1
+      // Otherwise we want the top for the top key and the bottom for the bottom key.
+      if (topKey) return 0.5
+      // bottomKey
+      return 1.48
+    }
+    const getWidth = (leftKey, rightKey) => {
+      // If both or none are hit, we want the middle.
+      if (leftKey === rightKey) return 1
+      // Otherwise we want the top for the top key and the bottom for the bottom key.
+      if (leftKey) return 0.5
+      // rightKey
+      return 1.5
+    }
+    return [
+      // Left pinky
+      { x: 0.5, y: numberBarHeight + 1, pressed: this.s, yCrack: true },
+      // Left ring
+      {
+        x: 1.5,
+        y: numberBarHeight + getHeight(this.t, this.k),
+        pressed: this.t || this.k,
+        yCrack: this.t === this.k,
+      },
+      // Left middle
+      {
+        x: 2.5,
+        y: numberBarHeight + getHeight(this.p, this.w),
+        pressed: this.p || this.w,
+        yCrack: this.p === this.w,
+      },
+      // Left index
+      {
+        x: 3.5,
+        y: numberBarHeight + getHeight(this.h, this.r),
+        pressed: this.h || this.r,
+        yCrack: this.h === this.r,
+      },
+      // Left thumb
+      {
+        x: 2.25 + getWidth(this.a, this.o),
+        y: numberBarHeight + 2.47,
+        pressed: this.a || this.o,
+        xCrack: this.a === this.o,
+      },
+      // Right thumb
+      {
+        x: 4.75 + getWidth(this.e, this.u),
+        y: numberBarHeight + 2.47,
+        pressed: this.e || this.u,
+        xCrack: this.e === this.u,
+      },
+      // Right index
+      {
+        x: !this['*'] ? 5.5 : 4 + getWidth(this['*'], this.F || this.R),
+        y: numberBarHeight + getHeight(this.F, this.R),
+        pressed: this.F || this.R || this['*'],
+        xCrack: (this.F || this.R) && this['*'],
+        yCrack: this.F === this.R,
+      },
+      // Right middle
+      {
+        x: 6.5,
+        y: numberBarHeight + getHeight(this.P, this.B),
+        pressed: this.P || this.B,
+        yCrack: this.P === this.B,
+      },
+      // Right ring
+      {
+        x: 7.5,
+        y: numberBarHeight + getHeight(this.L, this.G),
+        pressed: this.L || this.G,
+        yCrack: this.L === this.G,
+      },
+      // Right pinky
+      {
+        x:
+          !this.D && !this.Z
+            ? 8.5
+            : 8 + getWidth(this.T || this.S, this.D || this.Z),
+        y: numberBarHeight + getHeight(this.T || this.D, this.S || this.Z),
+        pressed: this.T || this.S || this.D || this.Z,
+        yCrack: this.T === this.S || this.D === this.Z,
+        xCrack: (this.T && this.D) || (this.S && this.Z),
+      },
+    ]
+  }
 }
 
 export default Stroke

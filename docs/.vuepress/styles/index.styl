@@ -8,6 +8,9 @@
   letter-spacing 0.06875em
   white-space nowrap
 
+.theme-default-content pre code
+  white-space pre
+
 .footnotes
   font-size 0.9rem
 
@@ -16,6 +19,15 @@
     max-width: 90%
     margin: 0 auto
 }
+
+.custom-block
+  padding: 0.1rem 1.5rem
+  border-left-width: 0.5rem
+  border-left-style: solid
+  margin: 1rem 0
+  &.definition
+    background-color: #fcf5f5
+    border-color: $accentColor
 @media (max-width: $MQMobile)
   .theme-default-content:not(.custom) img
     max-width: 100%

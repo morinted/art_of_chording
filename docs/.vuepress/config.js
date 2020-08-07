@@ -2,7 +2,18 @@ module.exports = {
   title: 'Art of Chording',
   description:
     'Teach yourself stenography for free. Use steno with Plover to type faster and more ergonomically than on a keyboard.',
-  plugins: [['@vuepress/google-analytics', { ga: 'UA-102613911-3' }]],
+  plugins: [
+    ['@vuepress/google-analytics', { ga: 'UA-102613911-3' }],
+    [
+      'vuepress-plugin-container',
+      {
+        type: 'definition',
+        before: (info) =>
+          `<div class="custom-block definition"><p class="custom-block-title">Definition: ${info}</p>`,
+        after: '</div>',
+      },
+    ],
+  ],
   themeConfig: {
     lastUpdated: 'Last Updated',
     repo: 'morinted/art_of_chording',
