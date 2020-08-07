@@ -77,11 +77,11 @@ Of note, some users use the left index finger to hit `*`. It is a matter of pers
 - `T` and `K` <Steno-Thumb stroke="TK" /> left ring finger
 - `P` and `W` <Steno-Thumb stroke="PW" /> left middle finger
 - `H` and `R` <Steno-Thumb stroke="HR" /> left index finger
-- `A` and `O` <Steno-Thumb stroke="AO" /> left thumb finger
+- `A` and `O` <Steno-Thumb stroke="AO" /> left thumb
 
 **Right-hand keys and fingers:**
 
-- `E` and `U` <Steno-Thumb stroke="EU" /> right thumb finger
+- `E` and `U` <Steno-Thumb stroke="EU" /> right thumb
 - `F` and `R` <Steno-Thumb stroke="-FR" /> right index finger
 - `L` and `G` <Steno-Thumb stroke="-LG" /> right middle finger
 - `T`, `S`, `D`, and `Z` <Steno-Thumb stroke="-TSDZ" /> right ring finger
