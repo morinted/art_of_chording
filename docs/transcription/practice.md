@@ -1,7 +1,5 @@
-# Transcription Practice
+# Transcription Practice <Badge text="beta" type="warning" />
 
-Select a target WPM to practice dictation.
+Dictation at lower speeds is simulated by increasing pause time between sentences.
 
-Dictation at low speeds is simulated by increasing pause time between sentences.
-
-<Transcription-Practice />
+<Transcription-Tool />

@@ -1,12 +1,21 @@
 <template>
   <button @click="$emit('input', !value)">
-    {{ value ? '⏸&nbsp;&nbsp;Pause' : '▶️&nbsp;&nbsp;Play' }}
+    {{
+      value
+        ? stop
+          ? '⏪&nbsp;&nbsp;Stop'
+          : '⏸&nbsp;&nbsp;Pause'
+        : '▶️&nbsp;&nbsp;Play'
+    }}
   </button>
 </template>
 
 <script>
 export default {
-  props: ['value'],
+  props: {
+    value: Boolean,
+    stop: Boolean, // Say "stop" instead of "pause"
+  },
 }
 </script>
 <style scoped>

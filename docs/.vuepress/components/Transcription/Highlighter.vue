@@ -74,7 +74,6 @@ export default {
       const goalTime = characters / charactersPerSecond
       const readingTime = goalTime - pauseTime
       const effectiveCharactersPerSecond = characters / readingTime
-      console.log(effectiveCharactersPerSecond, charactersPerSecond)
       return Math.round(1000 / effectiveCharactersPerSecond)
     })
     const tickerSentences = computed(() =>
