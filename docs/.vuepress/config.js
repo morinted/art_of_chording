@@ -18,6 +18,7 @@ module.exports = {
     lastUpdated: 'Last Updated',
     repo: 'morinted/art_of_chording',
     docsDir: 'docs',
+    activeHeaderLinks: false,
     editLinks: true,
     editLinkText: 'Suggest a change',
     sidebar: [
