@@ -54,6 +54,6 @@ Even if you don't agree with everything that Plover offers out of the box, you c
 
 There are loads of theories to choose from, but don't be overwhelmed by the choices. Just start with one and you can't really go wrong. My choice to select Plover's theory was mainly based on of the fact that it's free and open to everyone, as are its learning materials.
 
-If you do want to research the best theory for you, I'd only recommend delaying that search until you've gotten over the initial hump of learning the steno layout and can write words with some confidence. At that point, you'll have a better vocabulary and understanding of what different theories over. It's very hard to choose a theory that matches your preference when you don't speak the language that stenographers do.
+If you do want to research the best theory for you, I'd only recommend delaying that search until you've gotten over the initial hump of learning the steno layout and can write words with some confidence. At that point, you'll have a better vocabulary and understanding of what different theories offer. It's very hard to choose a theory that matches your preference when you don't speak the language that stenographers do.
 
 Finally, I'll say that often the paid theories have an interest in you learning their theory: selling the dictionary and learning materials is part of their livelihood. There's nothing wrong with that, but keep it in mind when you read their claims, as they are a form of marketing.
