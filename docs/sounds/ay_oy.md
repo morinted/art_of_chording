@@ -28,6 +28,8 @@ The "ay" sound is a combination of the vowels "a" and "i", and the outline is `A
 
 The "oy" sound is a combination of the vowels "o" and "i", and the outline is `OEU`.
 
+<Steno-Display labels="all" stroke="OEU" />
+
 - `OEUL`: oil
 - `TPOEUL`: foil
 - `SOEUL`: soil
