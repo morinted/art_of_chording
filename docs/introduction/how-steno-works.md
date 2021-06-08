@@ -204,7 +204,7 @@ Our stenographer in this scenario clocks in at **{{ Math.round($frontmatter.exam
     $frontmatter.exampleSentence.length / 5 /
     ($frontmatter.exampleChords.split(' ').length / 3.5)
   ).toFixed(1)
-}} faster!
+}} times faster!
 
 ## Where it's used
 
