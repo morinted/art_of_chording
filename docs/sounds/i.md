@@ -61,7 +61,7 @@ Note: `HEUSZ` and `H*EUS` translate to "hiss". We can't use the phonetic `HEUS` 
 Find steno outlines that will write these English sentences, including punctuation.
 
 1. What do you think you are all about?
-2. Which tower fell after the war?
+2. Which tower dropped after the war?
 3. You're sure that she would think to do that?
 4. I will be okay after all.
 5. Hi, I will be with you after this.
