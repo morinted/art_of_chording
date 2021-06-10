@@ -66,5 +66,5 @@ Find steno outlines that will write these English sentences, including punctuati
 2. I would request that you stop.
 3. The request is from dad, you should do it and be quick about it.
 4. If you walk to the mall, I will follow.
-5. In this class, we will start with a pop quiz.
+5. This class will start with a pop quiz.
 6. Fill up the car before you leave for work!
