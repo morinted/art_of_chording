@@ -86,7 +86,7 @@ Find steno outlines that will write these English sentences, including punctuati
 
 1. He is a boy-man, in my opinion.
 2. I can't say what we should do or not, nothing is up to me in this case.
-3. On what condition would you continue to watch Bart? Do you want cash?
+3. On what condition would you continue to watch Bart? What do you want from us?
 4. Come on, take any of them, and we will head out. If you do not make a choice we will leave with nothing at all.
 5. I said you had a choice and you did not make it before we had to leave. I stated the condition and you failed to pick in a minute so you had to leave with nothing. This is not new or anything.
 6. What reason would you do that for?
