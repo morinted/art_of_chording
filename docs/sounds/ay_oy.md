@@ -73,7 +73,7 @@ Write the English sentence represented by these outlines, including punctuation.
 Find steno outlines that will write these English sentences, including punctuation.
 
 1. The soil there is sort of wet...
-2. She walks with such grace.
+2. She has such a pretty face.
 3. We sold 4/5 of their mugs this shift.
 4. You should come with a shirt and/or dress.
 5. The date is set: 25/12/17.
