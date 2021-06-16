@@ -27,7 +27,7 @@ Right side V is given by the outline `*F`, but if there is no conflict with a wo
 - `WOEF`, `WO*EF`: wove
 - `WOEFPB`, `WO*EFPB` woven
 - `HEFPB`, `H*EFPB` heaven
-- `KAF`: cave
+- `KAEUF`: cave
 - `PAF`: pave
 - `PROF`: prove
 - `WAF`: wave
@@ -81,4 +81,4 @@ Find steno outlines that will write these English sentences, including punctuati
 12. Pave the way for a new way to save lives.
 13. Have you been there very often since everyone left?
 14. I live with my parents.
-15. I covet your oven. I want to have it and when I do and will warm my rat with it.
+15. I covet your oven. I want to have it and when I do I will warm my rat with it.
