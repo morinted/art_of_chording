@@ -115,4 +115,4 @@ Find steno outlines that will write these English sentences, including punctuati
 14. I am going to the gym to get gains. I go almost every day.
 15. Do not judge the gorge by how far down it goes, it is dangerous.
 16. When technology knows language as well as we do, we are in danger.
-17. Do you say gif like girl or jar?
+17. Do you say gif similar to girl or jar?
