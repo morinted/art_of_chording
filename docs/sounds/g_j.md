@@ -64,7 +64,6 @@ The Right side J and soft G sounds are formed on the right hand with `PBLG`.
 - `SKWRORPBLG`: George
 - `TKPWORPBLG`: gorge
 - `TKPWAEUPBLG`: gauge
-- `TKPWRUPBLG`: grudge
 
 On some hardware, pressing this many keys might be difficult. Make sure you aren't trying to just use your fingers, your forearms should be the main source of power. Better steno hardware will also require less force.
 
