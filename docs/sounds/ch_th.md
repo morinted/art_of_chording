@@ -59,6 +59,8 @@ The first use of the asterisk for us is with final "th". Adding an asterisk to a
 | TOGT  | together    |       |
 | HR-GT | altogether  | L-GT  |
 
+// I think Love and Lovely should be in the previous chapter
+
 ## Practice
 
 ### 1. Translate
