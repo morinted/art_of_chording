@@ -6,7 +6,7 @@ This is the source of the Art of Chording textbook. It is built on VuePress.
 
 - `npm install`: get dependencies.
 - `npm start`: dev mode.
-- `npm prettier`: format all files.
-- `npm lint`: check vue linting.
-- `npm build`: build the website for publishing.
+- `npm run prettier`: format all files.
+- `npm run lint`: check vue linting.
+- `npm run build`: build the website for publishing.
 
