@@ -38,8 +38,7 @@
   "license": "CC-BY-SA-4.0",
   "lint-staged": {
     "*.{js,jsx,vue}": [
-      "vue-cli-service lint",
-      "git add"
+      "vue-cli-service lint"
     ]
   },
   "repository": "https://github.com/morinted/art_of_chording.git"
