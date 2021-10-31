@@ -4,7 +4,7 @@
   "private": false,
   "author": "Ted Morin <morinted@gmail.com>",
   "scripts": {
-    "build": "vuepress build docs",
+    "build": "vuepress build docs && (cd docs/.vuepress/dist && echo 'www.artofchording.com' > CNAME)",
     "lint": "vue-cli-service lint",
     "prettier": "prettier --write .",
     "start": "vuepress dev docs"
