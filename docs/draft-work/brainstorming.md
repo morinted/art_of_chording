@@ -2,6 +2,8 @@
 
 I'm still writing more lessons! If you'd like to support the writing of new lessons, you can support me on [my Patreon](https://www.patreon.com/morinted). Thanks so much for learning with me 😬
 
+<a href="https://www.patreon.com/bePatron?u=2430515" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
+
 <Steno-Display stroke="SKPROUFBLSD" />
 
 ## Brainstorming
