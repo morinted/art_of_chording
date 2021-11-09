@@ -86,12 +86,12 @@ Because chords are roughly syllables, writing in stenography feels more like spe
 
 In steno, all these words with **different spellings** are chorded with the **same right-side keys** because they all end with a similar sound:
 
-- `OSHN` → <Steno-Thumb stroke="OSHN" /> → ocean
-- `MOSHN` → <Steno-Thumb stroke="MOSHN" /> → motion
+- `OESHN` → <Steno-Thumb stroke="OESHN" /> → ocean
+- `MOESHN` → <Steno-Thumb stroke="MOESHN" /> → motion
 - `FASHN` → <Steno-Thumb stroke="FASHN" /> → fashion
 - `VISHN` → <Steno-Thumb stroke="VISHN" /> → vision
 - `MISHN` → <Steno-Thumb stroke="MISHN" /> → mission
-- `RUSHN` → <Steno-Thumb stroke="RUSHN" /> → Russian
+- `R*USHN` → <Steno-Thumb stroke="R*USHN" /> → Russian
 
 **Multisyllable words** are chorded by stringing together **multiple chords**: `RE` plus `WARD` becomes "reward".
 
@@ -100,7 +100,7 @@ Spelling is less of a problem because words just get sounded out:
 - `LA MA` → llama
 - `FA SIL TAIT` → facilitate
 - `WENS DAI` → Wednesday
-- `BA RA KU DA` → barracuda
+- `BA RA KU DA` → barracuda^[Some of the strokes in this lesson are for illustration purposes only. We wouldn't really write barracuda as four syllables, though nothing is stopping you from doing so. In this textbook's theory, barracuda could be written `BAR KAOU DA`.]
 
 To distinguish between homophones, the stenographer uses different vowel keys or adds in the "asterisk" key, `*`, which is kind of like a wildcard:
 
@@ -125,7 +125,7 @@ Every stenographer has their own personal dictionary where they can add their ow
 
 ### Prefixes, suffixes, and root words
 
-Compound words can be strung together thanks to a phonetic system of prefixes and suffixes. "Uncomfortable" could be written as "un" (prefix `UN`) + "comfort" (root word `KOFRT`) + "able" (suffix `-BL`). "Antidisestablishmentarianism" could be composed from the prefixes "anti" and "dis"; the root word "establish"; and the suffixes "ment", "arian", and "ism".^[Just because we _could_ compose "antidisestablishmentarianism" from prefixes and suffixes (`A*INT DIS STAEB *MT A*IRN *IFM`) doesn't mean we would. It's a great word to have a brief for in order to save _a lot_ of time (1 stroke instead of 6). In Plover, the brief for antidisestablishmentarianism is `SLA*IRM` which is pretty arbritary as far as briefs go. Another long single-stroke brief in Plover is `SFRAJ` → supercalifragilisticexpialidocious.]
+Compound words can be strung together thanks to a phonetic system of prefixes and suffixes. "Uncomfortable" could be written as "un" (prefix `UN`) + "comfort" (root word `K-FRT`) + "able" (suffix `-BL`). "Antidisestablishmentarianism" could be composed from the prefixes "anti" and "dis"; the root word "establish"; and the suffixes "ment", "arian", and "ism".^[Just because we _could_ compose "antidisestablishmentarianism" from prefixes and suffixes (`A*INT DIS STAEB *MT A*IRN *IFM`) doesn't mean we would. It's a great word to have a brief for in order to save _a lot_ of time (1 stroke instead of 6). In Plover, the brief for antidisestablishmentarianism is `SLA*IRM` which is pretty arbritary as far as briefs go. Another long single-stroke brief in Plover is `SFRAJ` → supercalifragilisticexpialidocious.]
 
 Finally, if a word isn't composable from prefixes, suffixes, and root words and the stenographer doesn't have that word in their dictionary, they can fall back to one-letter-per-chord, which is called _fingerspelling_.^[Fingerspelling is a slow fallback option, only about 50 words per minute for a professional. To fingerspell "stop" the stenographer would stroke `S*` <Steno-Thumb stroke="S*" /> then `T*` <Steno-Thumb stroke="T*" /> then `O*` <Steno-Thumb stroke="O*" /> then `P*` <Steno-Thumb stroke="P*" />.]
 
