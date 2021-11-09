@@ -86,6 +86,10 @@ module.exports = {
           '/compounds/ent_int',
         ],
       },
+      {
+        title: 'Multistroke Words',
+        children: ['/multistroke/', '/multistroke/prefixes-and-suffixes'],
+      },
       '/draft-work/brainstorming',
     ],
   },
