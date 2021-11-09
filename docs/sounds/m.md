@@ -45,6 +45,7 @@ Right side M is made with the combination `-PL`. This _does_ conflict with words
 | P-FR             | perfect     |                                                                                                                                                                 |
 | HAP              | happen      |                                                                                                                                                                 |
 | HEP              | help        | HEPL is "hem"                                                                                                                                                   |
+| SEUPL            | similar     |  |
 | SKHRAPL or TP-BG | {!}         | The exclamation mark is written with "sklam". Alternatively, TP-BG can be used.                                                                                 |
 | KW-PL            | {?}         | Alternative stroke for question mark. Some users prefer `TP-BG` and `KW-PL` as they can represent the intonation speakers use during a question or exclamation. |
 
@@ -70,3 +71,4 @@ Find steno outlines that will write these English sentences, including punctuati
 2. Stop the truck!
 3. What did you think would happen, mom?
 4. Help me out, would you?
+5. Are you more similar to me or him?
