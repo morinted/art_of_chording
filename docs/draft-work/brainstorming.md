@@ -6,15 +6,27 @@ I'm still writing more lessons! If you'd like to support the writing of new less
 
 <Steno-Display stroke="SKPROUFBLSD" />
 
+## TODO
+
+1. Add TPH-R to the Plover dictionary
+1. Triage Plover dictionary issues
+1. Add tooling around practice material
+    - Consider integration with another tool, look at their formats?
+1. Make it easier to find the author of art of chording
+    - About the author article?
+    - Or a footer
+1. Do I want interactive examples inside the book, or do I want a system where I link it out to another service like typey type?
+1. Add a favicon
+
 ## Brainstorming
 
-- Animated steno display for this page… Christmas lights style.
-- Add finger-placement indicators to steno display
-- Move steno order to end of "The Layout" section, and just mention that the layout reads left-to-right before that.
-  - Add arrows to steno order page.
-- Add glossary page
-- Have midchapter and end-of-chapter review pages
-- Convert lessons from Markdown to JavaScript + Vue components.
+1. Animated steno display for this page… Christmas lights style.
+1. Add finger-placement indicators to steno display
+1. Move steno order to end of "The Layout" section, and just mention that the layout reads left-to-right before that.
+    1. Add arrows to steno order page.
+1. Add glossary page
+1. Have midchapter and end-of-chapter review pages
+1. Convert lessons from Markdown to JavaScript + Vue components.
 
 ### Lesson Plan for Prefixes
 
@@ -39,6 +51,12 @@ Categorize by... alphabet? Frequency? Similarity?
 - anti^, super^, self-^, ^self, uni^, ortho^, inter^, auto^, macro^, micro^, retro^, contra^, neo^, counter^, mega^, ultra^, multi^
 - ^back, ^book, ^ville, ^-based, ^top, ^-looking, ^work, ^hood, ^-year, ^hand, ^ship, ^-free, ^-type, ^room, ^down, ^hold, ^-specific, ^-shaped, ^-proof, ^-wise, ^scape, ^land, ^over, ^men, ^-day, ^time, ^field
 - idio^, para-, ^logical, ^ologic, ^ological, pseudo^, ^ology, ^ette, ^tope, infra^
+
+### Logo for art of chording
+
+- Paintbrush
+- Feather ✓ ✓
+- <https://yt3.ggpht.com/ytc/AKedOLRkGoRDh3d0EVj2wKjRd948ObFqT8-ncAe1eK9C=s176-c-k-c0x00ffffff-no-rj>
 
 ### Word Families
 
