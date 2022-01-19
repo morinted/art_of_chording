@@ -6,6 +6,17 @@ I'm still writing more lessons! If you'd like to support the writing of new less
 
 <Steno-Display stroke="SKPROUFBLSD" />
 
+## TODO
+
+1. Add `TPH-R` to the Plover dictionary
+1. Triage Plover dictionary issues
+1. Add tooling around practice material
+    - Consider integration with another tool, look at their formats?
+1. Make it easier to find the author of art of chording
+    - About the author article?
+    - Or a footer
+1. Do I want interactive examples inside the book, or do I want a system where I link it out to another service like typey type?
+
 ## Brainstorming
 
 - Animated steno display for this page… Christmas lights style.

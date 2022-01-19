@@ -9,4 +9,3 @@ This is the source of the Art of Chording textbook. It is built on VuePress.
 - `npm run prettier`: format all files.
 - `npm run lint`: check vue linting.
 - `npm run build`: build the website for publishing.
-
