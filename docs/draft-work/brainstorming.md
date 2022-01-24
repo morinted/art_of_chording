@@ -27,7 +27,7 @@ I'm still writing more lessons! If you'd like to support the writing of new less
 - Have midchapter and end-of-chapter review pages
 - Convert lessons from Markdown to JavaScript + Vue components.
 
-### Lesson Plan for Prefixes
+### Lesson plan for prefixes
 
 I have to go back and introduce prefixes early. I think that maybe between "The Layout" and "Hidden Sounds" I could introduce "Multistroke Words" starting with Prefixes and Suffixes in a little  lesson that covers RE-, A-, -S, -G, and -D. Then I could go on to show multistroke root words and contrast and compare.
 
@@ -57,7 +57,7 @@ Categorize by... alphabet? Frequency? Similarity?
 - identity, identify, identification, identifier
 - idea, ideal, island, aisle, isle
 
-### Broad Discussion Topics
+### Broad discussion topics
 
 - S-P and TK-LS need to be mentioned here, maybe arrow key movements too?
 

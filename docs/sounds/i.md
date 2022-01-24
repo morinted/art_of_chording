@@ -56,7 +56,7 @@ Write the English sentence represented by these outlines, including punctuation.
 
 Note: `HEUSZ` and `H*EUS` translate to "hiss". We can't use the phonetic `HEUS` because it's taken up by "his".
 
-### 2. Find Outlines
+### 2. Find outlines
 
 Find steno outlines that will write these English sentences, including punctuation.
 

@@ -46,7 +46,7 @@ Left side Z is given by the outline `S*`. However, if there is a conflict, somet
 
 Write the English sentence represented by these outlines, including punctuation.
 
-## 2. Find Outlines
+## 2. Find outlines
 
 Find steno outlines that will write these English sentences, including punctuation.
 

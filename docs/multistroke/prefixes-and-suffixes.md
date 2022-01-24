@@ -1,4 +1,4 @@
-# Prefixes and Suffixes
+# Prefixes and suffixes
 
 In steno, we have several *affixes*—parts of words that connect to other parts:
 
@@ -8,7 +8,7 @@ In steno, we have several *affixes*—parts of words that connect to other parts
 
 This book will use the caret symbol (**^**) to indicate *where* an affix connects to a word, as made apparent in the examples above.^[In Plover's dictionary format, the caret is known as the *attach operator*. Prefixes and suffixes are saved in the dictionary using the formats `{prefix^}`, `{^suffix}`, and `{^infix^}`}.]
 
-## Root Words
+## Root words
 
 Prefixes and suffixes aren't useful on their own. They need to be attached to **root words** to be used. In English, the root word is the word that we tack prefixes and suffixes onto.
 
@@ -20,7 +20,7 @@ For example, "uncomfortable" is:
 
 Using steno will require you to be aware of the lines between the root word and its prefixes and suffixes.
 
-## Single-stroke Prefixes and Suffixes
+## Single-stroke prefixes and suffixes
 
 We've already encountered prefixes and suffixes in our writing in this textbook. Many of the compound sounds are actually ways to cram prefixes and suffixes into a single stroke. For example, `ARPBD` for "around". It is the prefix **a^** with the root word **round**.
 
@@ -45,13 +45,13 @@ And for fun, try adding a^ to other words, too:
 - aparticular
 - awhatever
 
-## Word-Boundary Errors
+## Word-boundary errors
 
 Something that may seem odd to you about prefixes and suffixes, initially, is that they are **dedicated**. You cannot use a stroke both for a word **and** for a prefix or suffix.
 
 This brings us to a concept in stenography called the **word-boundary error**. A word-boundary error is an error that occurs when you are using multiple strokes together and it doesn't behave as you expect. In particular, you'll try to have a stroke be part of one word, and instead it will combine with another word.
 
-::: definition Word-Boundary Error
+::: definition Word-boundary error
 An error where a stroke is ambiguous and can belong to either the preceding or the following stroke, and the wrong one translates. For example, you mean to write "more tartar" but it gets translated as "mortar tar".
 :::
 
@@ -71,7 +71,7 @@ Let's illustrate with an example where we are **not using dedicated prefix/suffi
 
 Clearly, it's not easy to predict exactly where syllables like "out" will be used. They can come at the beginning of a word, at the end, and they can even *be* the word we're trying to write. Notice that **a**, **out**, and **on** are all their own root words, *as well as* prefixes and suffixes.
 
-## The Importance of Prefixes and Suffixes
+## The importance of prefixes and suffixes
 
 Prefixes and suffixes are a critically important part of steno theory that often get overlooked by learners. I will say this as flatly as possible: **prefixes and suffixes are invaluable in having a flexible dictionary.**
 
@@ -119,7 +119,7 @@ The first few prefixes we'll look at are pretty simple. They all plop themselves
   - `PAPBT -S`: pants
   - `WEUPB -S`: wins (notice `WEUPBS` is "wince")
 
-## Automatic Folding-in of Suffixes
+## Automatic folding-in of suffixes
 
 Plover software supports the "automatic folding-in" of certain suffixes. Folding-in is when you stroke what would be two strokes as one. For example, instead of writing `HROF` then `-D`, it makes sense to "fold-in" the `-D` and write `HROFD`.
 

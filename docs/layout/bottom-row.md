@@ -1,4 +1,4 @@
-# Bottom Row
+# Bottom row
 
 This lesson introduces about most of the remainder of the keyboard: the **bottom row** of the keyboard and the **two other vowels**.
 
@@ -43,9 +43,9 @@ Now that we know most of the keyboard, there are many possible briefs to form.
 | OR           | or          | Spelling instead of phonetic                        |
 | KW-BG        | {,}         | Comma                                               |
 
-_\*Notice that _`{}`_ are used to denote a special character in Plover's translation format._
+_\*Notice that_`{}`_are used to denote a special character in Plover's translation format._
 
-## How to Practice
+## How to practice
 
 It might be valuable for you to write down or print briefs that you have trouble remembering. Some stenographers find it helpful to say the raw in their head as a mnemonic. For example, you might see `SKP` for "and", and think "skuhpah" as you stroke it to help remember the keys.
 
@@ -75,7 +75,7 @@ Write the English sentence represented by these outlines, including punctuation.
 
 If you ever can't read an outline, you can try writing it into your steno machine with Plover running to see what it translates to.
 
-### 2. Find Outlines
+### 2. Find outlines
 
 Find steno outlines that will write these English sentences, including punctuation.
 

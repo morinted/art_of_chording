@@ -70,7 +70,7 @@ module.exports = {
         ],
       },
       {
-        title: 'The Layout',
+        title: 'The layout',
         children: [
           '/layout/',
           '/layout/chorded-keyboard',
@@ -81,7 +81,7 @@ module.exports = {
         ],
       },
       {
-        title: 'Hidden Sounds',
+        title: 'Hidden sounds',
         children: [
           '/sounds/',
           '/sounds/aw_ow_-k',
@@ -105,7 +105,7 @@ module.exports = {
         ],
       },
       {
-        title: 'Compound Sounds',
+        title: 'Compound sounds',
         children: [
           '/compounds/',
           '/compounds/unstressed',
@@ -123,7 +123,7 @@ module.exports = {
         ],
       },
       {
-        title: 'Multistroke Words',
+        title: 'Multistroke words',
         children: ['/multistroke/', '/multistroke/prefixes-and-suffixes'],
       },
       '/draft-work/brainstorming',

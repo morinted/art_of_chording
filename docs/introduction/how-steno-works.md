@@ -6,7 +6,7 @@ exampleSentence: Every great dream begins with a dreamer. Always remember, you h
 exampleChords: EFR GRAET DREEM GINS W AI DREEM *ER TP-PL AULS RER KW-BG U V W-N U -T STREN KW-BG -T PAISH ENS KW-BG SKP-T PASHN TO REECH F-RT STARS TO KHAING -T WORLD TP-PL
 ---
 
-# How Steno Works
+# How steno works
 
 ![Georgi split steno machine on a table](./georgi.jpeg)
 
@@ -20,13 +20,13 @@ Stenography is one of those things that's hard to understand just by watching, a
 
 I'm going to break down, as best I can, the biggest differences between a keyboard and a stenography machine and try to demonstrate how steno can be so much faster.
 
-## In a Nutshell
+## In a nutshell
 
 On a normal keyboard, a typist hits **individual keys to express individual letters** as fast as possible to spell words. A stenographer, on the other hand, uses a steno machine to make "chords" by hitting multiple keys. Chords, much like the ones played on a piano, express sounds instead of letters and allow the stenographer to type at a slower rate to achieve the same word count, because those **chords can express entire words and phrases.** The result is about **three times faster** than traditional typing.
 
 A stenography setup consists of a steno machine and steno software running on a computer.^[Before computers existed, stenographers wrote to "paper tape" which only captured which keys were hit on the machine. After transcribing, the stenographer would have to go back and convert their "notes" into text, very much like pen shorthand. Nowadays, translation from key press to text is instant.] The machine can either be specially made for steno, or just an ordinary keyboard that supports n-key rollover (hitting all the keys at once.) The software that is most commonly used by amateurs is [Plover](https://www.openstenoproject.org/plover/), which listens to what you do on the steno machine and then outputs keystrokes to whatever program you're using.
 
-## Key Concepts
+## Key concepts
 
 Steno is completely different from traditional typing. Ordinary keyboards are very simple to use: you learn where the letters are, how to make things uppercase, and how to type symbols. Getting faster is a matter of hand positioning and practice.
 
@@ -52,7 +52,7 @@ If a stenographer wants to type "cat", they sound it out. Different key combinat
 
 Upon release, the keys are read from left-to-right (with vowels in the middle, splitting the two halves of the keyboard around the `*` key) to produce the syllable `KAT` which outputs the word "cat".
 
-### Missing Letters
+### Missing letters
 
 Because there are so few (and repeated!) letters on the base stenography layout, missing letters are created using combinations of other keys. For example, no word starts with the letters `HR`, so we can safely use the combination of keys `HR` to express a different sound. `HR` is used to represent `L` by convention.
 
@@ -115,7 +115,7 @@ Ever watched a professor save time by writing "w" instead of "with"? Have you ev
 
 Single-key chords like `W` and `U` map to "with" and "you", respectively. There are also briefs for very long words, so the chord for "particular" is a syllable that sounds like `PLAR`; "remember" is `RER`; "government" is `GOFMT`.
 
-### Customizable Dictionary
+### Customizable dictionary
 
 In the steno software, there's a giant "dictionary" that maps between chords like `LA MA` and words like "llama." To write the entire English language, a stenographer's dictionary is often made up of over 100,000 entries. Don't worry, the stenographer doesn't need to memorize every single entry! Once they know how to sound-out words from syllables, they should be able to write any word they encounter.
 
@@ -165,7 +165,7 @@ It's possible to create briefs for multiple symbols at once. For example, `SHR*U
 
 There are also strategies for arrow keys, keyboard shortcuts, and everything else you might usually use a keyboard for.
 
-## Interactive Example
+## Interactive example
 
 You can play with the following example to see **a quote from Harriet Tubman written by a stenographer at different speeds.**
 

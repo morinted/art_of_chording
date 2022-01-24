@@ -1,4 +1,4 @@
-# Vowels aw and ow; Right side K
+# Vowels aw and ow; right side K
 
 Now that we've covered every key in the steno layout, we need to start addressing the missing sounds.
 
@@ -23,7 +23,7 @@ The first chorded sound we will learn is the final K sound. It is produced on th
 
 On the left hand we have a `W` key, but there is no such thing on the right. Instead, we will have our "final W" as a diphthong, or a combination of vowels. There are two:
 
-### `AU`: the "aw" sound.
+### `AU`: the "aw" sound
 
 <Steno-Display labels="all" stroke="AU" />
 
@@ -32,7 +32,7 @@ On the left hand we have a `W` key, but there is no such thing on the right. Ins
 - `AUL`: all \(`AL`: al\)
 - `PAUL`: Paul
 
-### `OU`: the "ow" sound.
+### `OU`: the "ow" sound
 
 <Steno-Display labels="all" stroke="OU" />
 
@@ -55,7 +55,7 @@ On the left hand we have a `W` key, but there is no such thing on the right. Ins
 | WO           | would       | Instead of WOULD                             |
 | SHO          | should      | Instead of SHOULD                            |
 
-## How to Practice
+## How to practice
 
 Now that we are beginning to use chorded sounds, reading shorthand will become more and more difficult. Don't worry too much if you feel like the difficulty of the practice material is going up, because it is! Luckily, professional stenographers rarely have to read their own raw steno notes. Instead, all translation is instant. You will usually be working from the word to the outlines, not from the outlines to the word.
 
@@ -80,7 +80,7 @@ Write the English sentence represented by these outlines, including punctuation.
 
 Remember that if you can't figure out an outline, you can look it up in the theory dictionary.
 
-### 2. Find Outlines
+### 2. Find outlines
 
 Find steno outlines that will write these English sentences, including punctuation.
 

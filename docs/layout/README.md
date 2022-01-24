@@ -1,4 +1,4 @@
-# The Layout
+# The layout
 
 In the first chapter you will learn:
 

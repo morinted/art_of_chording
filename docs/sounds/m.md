@@ -63,7 +63,7 @@ Write the English sentence represented by these outlines, including punctuation.
 6. `PHEU PHOPL S -T PWOPL SKHRAPL`
 7. `HREF -T PWUS SKHRAPL`
 
-## 2. Find Outlines
+## 2. Find outlines
 
 Find steno outlines that will write these English sentences, including punctuation.
 
