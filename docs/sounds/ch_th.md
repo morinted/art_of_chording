@@ -78,7 +78,7 @@ Write the English sentence represented by these outlines, including punctuation.
 
 Remember that if you can't figure out an outline, you can look it up in the theory dictionary.
 
-### 2. Find Outlines
+### 2. Find outlines
 
 Find steno outlines that will write these English sentences, including punctuation.
 

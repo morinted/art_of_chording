@@ -1,4 +1,4 @@
-# Chorded Keyboard
+# Chorded keyboard
 
 Stenography uses a chorded keyboard. **On a chorded keyboard, you hit multiple keys at once**, instead of one at a time. A chord is only registered when you release all the keys. **The order that you press them down in doesn't matter**, only _which_ keys you hit is important.
 
@@ -25,7 +25,7 @@ There are multiples of some keys because, at its core, the **steno layout makes 
 A chord is a set of keys that are hit down at the same time. A chord can be made up of only one key, or as many as the whole keyboard layout!
 :::
 
-## Home Row
+## Home row
 
 On a keyboard, the home row position is where your fingers are supposed to rest in between typing words. Steno machines also have a home row.
 
@@ -59,7 +59,7 @@ By shifting our fingers, it's technically possible to hit every key on the layou
 
 <Steno-Display labels="all" stroke="STKPWHRAO*EUFRPBLGTSDZ" fingers />
 
-### Finger Position
+### Finger position
 
 Each finger is responsible for just two keys, except:
 
@@ -117,7 +117,7 @@ The side of the keyboard matters. Notice the difference between `RAT`…
 
 The only difference is which `R` key was hit.
 
-## Steno Order
+## Steno order
 
 Hitting all the keys on the machine at once would result in this chord: `#STKPWHRAO*EUFRPBLGTSDZ`
 

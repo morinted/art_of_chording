@@ -1,4 +1,4 @@
-# Multistroke Words
+# Multistroke words
 
 You now have full control over the sounds that the steno layout is able to express. Even though you only have 24 keys at your disposal, you're able to form complex syllable sounds using the base keys, hidden sounds, compound sounds, and the number bar.
 

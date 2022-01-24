@@ -1,4 +1,4 @@
-# Theories and Dictionaries
+# Theories and dictionaries
 
 As you start learning about stenography, you'll hear the terms "steno theory" and "steno dictionary" thrown around. These are often very confusing for beginners, and there's a lot of confusion about the "best" theory.
 
@@ -12,7 +12,7 @@ Some stenographers write their dictionaries from scratch, slowly building it up 
 If you're okay with this explanation, you can move on to the rest of the book. If you're still confused or want to understand more about this controversial topic, you can read on.
 :::
 
-## Steno Theories
+## Steno theories
 
 A steno theory is a set of rules that determine how you use the steno keyboard to form sounds and words.
 
@@ -36,7 +36,7 @@ Plover Theory is what this textbook teaches.
 
 It has its roots in StenEd, but leans slightly more to the memory-intensive side. The biggest difference between Plover and the commercial theories is that it's **100% free** and doesn't require purchasing learning materials or the dictionary itself. The first time you open Plover, the dictionary is already loaded. Plain and simple.
 
-## Steno Dictionaries
+## Steno dictionaries
 
 A **steno dictionary** is a file that contains the mappings between keystrokes on the steno layout and the text that's produced. Plover's theory is stored in a dictionary file and it can be moved to other software should you decide to try other software in the future.
 

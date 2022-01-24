@@ -55,7 +55,7 @@ D, B, and L are all made with a single finger's column. If the order sometimes e
 | HR-S           | also        |          |
 | HR-BG          | welcome     |          |
 
-## How to Practice
+## How to practice
 
 When you hit a sound on the left hand such as D, B, or L, you will need to press both the top and the bottom column at once with one finger. The best way to do this is to have your fingers curled such that you are pressing the keys with your fingertips. Contrast with a regular keyboard where you might use the fleshy part of your finger.
 
@@ -79,7 +79,7 @@ Write the English sentence represented by these outlines, including punctuation.
 
 Remember that if you can't figure out an outline, you can look it up in the theory dictionary.
 
-### 2. Find Outlines
+### 2. Find outlines
 
 Find steno outlines that will write these English sentences, including punctuation.
 

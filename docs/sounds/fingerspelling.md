@@ -31,7 +31,7 @@ We've covered every letter so far in previous lessons except C. It's rare that w
 - `KREL`: cell
   - `SEL`: sell
 
-## Fingerspelling Alphabet
+## Fingerspelling alphabet
 
 To fingerspell a letter, we use the left-side sound for that letter and add `*`. For example, to write the word "abc", you could stroke `A*/PW*/KR*`.
 
@@ -78,7 +78,7 @@ This will just insert a space. You can use it while fingerspelling to separate w
 - `A* EU* R* S-P W* A* SR* E*`
   - air wave
 
-## Why Fingerspell
+## Why fingerspell?
 
 Fingerspelling is not very fast compared to stenography or even typing. It's a skill that a good stenographer needs nonetheless. If you can fingerspell in the range of 40-60 words per minute, you will be able to handle new words that your theory doesn't cover in moments when you really need it. This is especially crucial if you ever plan on doing any realtime work like captioning. Fingerspelling is important to get used to but isn't where the bulk of your speed comes from. I think that it's okay if less than 10% of your practice is fingerspelling, but do make sure to practice it.
 

@@ -80,7 +80,7 @@ You might realize at this point that "ks" words like "tacks" are homophones to "
 
 Write the English sentence represented by these outlines, including punctuation.
 
-## 2. Find Outlines
+## 2. Find outlines
 
 Find steno outlines that will write these English sentences, including punctuation.
 

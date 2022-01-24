@@ -81,7 +81,7 @@ Write the English sentence represented by these outlines, including punctuation.
 9. `TPH-B WAPBTS TO -B KAUT UP TPH THA PHES TP-PL`
 10. `WE HR TKO AUL WE K W-PB R-PB TO PWREUPBG PWABG -T TPORBG THA KO TPHOT -B TPOUPBD AF U TKROPD T TP-PL`
 
-## 2. Find Outlines
+## 2. Find outlines
 
 Find steno outlines that will write these English sentences, including punctuation.
 

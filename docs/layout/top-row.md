@@ -1,4 +1,4 @@
-# Top Row
+# Top row
 
 This lesson introduces about **half the keyboard**: the **top row** of the keyboard and **two vowels**.
 
@@ -11,7 +11,7 @@ The numbers show the fingers for each key, where 1's are the pinkies and 5 are t
 
 <Steno-Display stroke="STPHAUFPLT" labels="same" />
 
-## Chord Syntax
+## Chord syntax
 
 To denote a chord, note that any of these keys **can appear once**. If center keys are not present, we **add a hyphen to clarify which side the key is on**. Lack of a hyphen means the left side.
 
@@ -57,7 +57,7 @@ The more common a word, the more likely it has a brief. In fact, the first bit o
 | H-F       | {?}         | Question mark. Next word is capitalized. |
 | STPH-FPLT | {:}         | Colon.                                   |
 
-_\*Notice that _`{}`_ are used to denote a special character in Plover's translation format._
+_\*Notice that_`{}`_are used to denote a special character in Plover's translation format._
 
 ## How to Practice
 
@@ -95,7 +95,7 @@ Write the English sentence represented by these outlines, including punctuation.
 
 _Notice how some examples contains two consonants after each other. Just like in spelling, this is used in steno._
 
-### 2. Find Outlines
+### 2. Find outlines
 
 Find steno outlines that will write these English sentences, including punctuation.
 

@@ -68,7 +68,7 @@ Write the English sentence represented by these outlines, including punctuation.
 9. `E PWRAUT -T WAUR TO AEU PWOEUL TP-PL`
 10. `EU SWAEUR U R AEU SPOEULD KEUD TP-PL`
 
-## 2. Find Outlines
+## 2. Find outlines
 
 Find steno outlines that will write these English sentences, including punctuation.
 

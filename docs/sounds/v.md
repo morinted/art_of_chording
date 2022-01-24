@@ -63,7 +63,7 @@ Write the English sentence represented by these outlines, including punctuation.
 
 I'm going to put writing raw steno on hold, I have a project that will automate a lot of the lesson display and so it's more important for me to write up sentences than to transcribe them into lessons for the time being.
 
-## 2. Find Outlines
+## 2. Find outlines
 
 Find steno outlines that will write these English sentences, including punctuation.
 

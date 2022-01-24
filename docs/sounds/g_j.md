@@ -96,7 +96,7 @@ On some hardware, pressing this many keys might be difficult. Make sure you aren
 
 Write the English sentence represented by these outlines, including punctuation.
 
-## 2. Find Outlines
+## 2. Find outlines
 
 Find steno outlines that will write these English sentences, including punctuation.
 

@@ -28,7 +28,7 @@ The vowel sound "oh" is given by the outline `OE`.
 - `PWOE`: bow
 - `TKOE`: dough
 
-### But there's a catch!
+***But there's a catch!***
 
 Plover Theory spells words with "or" in them \(corn, born, etc.\) with just the normal `O` instead of `OE`. The `OER` version is reserved for briefs.
 
@@ -114,7 +114,7 @@ Write the English sentence represented by these outlines, including punctuation.
 9. `TOEPL S APB PORPB TKAEU TP-R PHE TP-PL`
 10. `U SHO KHEBG OUT THAEUR OER PORPB WORBGS PW-FR TOEPL TP-PL`
 
-### 2. Find Outlines
+### 2. Find outlines
 
 Find steno outlines that will write these English sentences, including punctuation.
 

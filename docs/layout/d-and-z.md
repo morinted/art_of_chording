@@ -11,7 +11,7 @@ The keys used in this lesson include those used in previous lessons, plus:
 
 The numbers show the fingers for each key, where 1's are the pinkies and 5 are the thumbs.
 
-## The Asterisk (\*)
+## The asterisk (\*)
 
 Your keyboard may have multiple asterisks, up to four, or just one. As long as you can hit the asterisks with either index finger, you should be fine. The asterisk can be hit alone, or in conjunction with its neighboring keys. That is why often the gap between the asterisk key and `-FR` tends to be smaller than the gaps between other columns.
 
@@ -29,7 +29,7 @@ The `D` and `Z` keys are hit using the right pinky. They can be used alone, or i
 
 Because the pinky is only one finger, you cannot hit `SD` or `TZ` because they are diagonal from each other. Some theories have you move your hand over and use your ring finger \(called a "Philly shift"\) but Plover doesn't use this trick. The pinky can hit the entire `TSDZ` bank, but it is extremely rare in Plover Theory.
 
-## Past Tense
+## Past tense
 
 In English, many words end in -D when they are conjugated in the past tense. In stenography, we can include `-D` in words to make them past tense. For example, `TAP` is "tap" while `TAPD` is "tapped". If a word cannot "fit" the `-D` key, either due to the pinky being occupied with `-S` or `-Z`, or because the word already ends in `-D`, we can strike `-D` alone as a second chord. In this lesson, `-D` will only be used in single chords, either as part of the word or to make a chord past tense.
 
@@ -49,7 +49,7 @@ This lesson only introduces a few briefs. They are similar, so they will require
 | WHA | what        |       |
 | UD  | you'd       |       |
 
-## How to Practice
+## How to practice
 
 Play close attention to the meaning of the sentence in order to ensure you have understood it correctly. Because `-D` can be used in multiple ways \(to end a word, like "card", or to make a verb past tense, like "scarred"\), you may interpret an outline wrong the first time. It's okay, just make a mental note and see if you can notice any patterns. Understanding the consistency in how your theory solves certain language-related issues will help you when you develop and personalize your own dictionary as you grow as a stenographer.
 
@@ -67,7 +67,7 @@ Write the English sentence represented by these outlines, including punctuation.
 6. `SHE PATD -T WET RAT TP-PL`
 7. `HE K HED TO -T KAR W HER TP-PL`
 
-### 2. Find Outlines
+### 2. Find outlines
 
 Find steno outlines that will write these English sentences, including punctuation.
 

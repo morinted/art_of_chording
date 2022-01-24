@@ -1,4 +1,4 @@
-# Hidden Sounds
+# Hidden sounds
 
 So far we've covered all the basic sounds in steno, as well as over 25 briefs. That's amazing progress and is more than many students will learn in their first month of theory class. You are encouraged to go back and do the exercises over again, as their lessons will always be relevant at any level.
 
