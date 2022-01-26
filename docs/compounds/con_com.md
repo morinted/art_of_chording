@@ -2,7 +2,7 @@
 
 _Special thanks to Thomas Pacheco for funding this lesson._
 
-This lesson covers how to write words with the con- and com suffixes like "control" and "compare".
+This lesson covers how to write words with the con- and com- prefixes like "control" and "compare".
 
 ---
 
