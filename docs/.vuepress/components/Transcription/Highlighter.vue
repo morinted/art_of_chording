@@ -1,6 +1,7 @@
 <template>
   <div>
     <p>Recording time: {{ estimatedTime }}</p>
+    <p>{{ remainingTime }}</p>
     <div id="ticker-container" :class="{ paused }">
       <div
         v-for="{
@@ -56,14 +57,30 @@ export default {
           }, [])
       ),
       paused: false,
-      estimatedTime: computed(() => {
+      startTime: 0,
+      totalTime: computed(() => {
         const pauseMinutes = (state.sentences.length * props.pauseLength) / 60
         const words = state.sentences.join(' ').length / 5
         const wordMinutes = words / props.wpm
         const totalMinutes = pauseMinutes + wordMinutes
         const minutes = Math.floor(totalMinutes)
         const seconds = Math.floor((totalMinutes - minutes) * 60)
-        return `${minutes} minutes, ${seconds} seconds.`
+        return { minutes, seconds, totalSeconds: totalMinutes * 60 }
+      }),
+      remainingTime: computed(() => {
+        if (!state.startTime) return ''
+        if (state.characterIndex) {
+          // Watch character index.
+        }
+        const now = new Date()
+        const elapsedSeconds = (now - state.startTime) / 1000
+        const remainingTime = state.totalTime.totalSeconds - elapsedSeconds
+        const remainingMinutes = Math.floor(remainingTime / 60)
+        const remainingSeconds = Math.round(remainingTime % 60)
+        return `Remaining: ${remainingMinutes}m ${remainingSeconds}s`
+      }),
+      estimatedTime: computed(() => {
+        return `${state.totalTime.minutes} minutes, ${state.totalTime.seconds} seconds.`
       }),
     })
     const characterDelay = computed(() => {
@@ -120,6 +137,7 @@ export default {
       () => props.play,
       (play) => {
         if (play) {
+          state.startTime = Date.now()
           state.paused = true
           setTimeout(() => {
             state.paused = false
@@ -127,6 +145,7 @@ export default {
           }, props.pauseLength * 1000)
         } else {
           clearTimeout(state.timeoutId)
+          state.startTime = 0
           state.timeoutId = null
           state.sentenceIndex = 0
           state.characterIndex = 0

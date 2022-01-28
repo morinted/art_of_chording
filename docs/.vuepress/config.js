@@ -127,6 +127,7 @@ module.exports = {
         children: ['/multistroke/', '/multistroke/prefixes-and-suffixes'],
       },
       '/draft-work/brainstorming',
+      '/transcription/recording-helper',
     ],
   },
   extendMarkdown: (md) => {

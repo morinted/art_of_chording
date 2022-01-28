@@ -35,7 +35,7 @@
 </template>
 
 <script>
-const minWpm = 60
+const minWpm = 30
 const maxWpm = 260
 const wpmInterval = 5
 export default {
