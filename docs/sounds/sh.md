@@ -68,7 +68,7 @@ Words ending in the "shoush" sound, like "conscious" and "delicious", can be wri
 | `TPEURBT`    | efficient   |              |
 | `TP*EURB`    | finish      |              |
 | `TKWEURB`    | distinguish |              |
-| `*EUSH`      | issue       |              |
+| `*URB`       | issue       |              |
 
 ## Practice
 
