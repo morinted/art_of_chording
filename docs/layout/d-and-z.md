@@ -31,7 +31,7 @@ Because the pinky is only one finger, you cannot hit `SD` or `TZ` because they a
 
 ## Past tense
 
-In English, many words end in -D when they are conjugated in the past tense. In stenography, we can include `-D` in words to make them past tense. For example, `TAP` is "tap" while `TAPD` is "tapped". If a word cannot "fit" the `-D` key, either due to the pinky being occupied with `-S` or `-Z`, or because the word already ends in `-D`, we can strike `-D` alone as a second chord. In this lesson, `-D` will only be used in single chords, either as part of the word or to make a chord past tense.
+In English, many words end in -D when they are conjugated in the past tense. In stenography, we can include `-D` in words to make them past tense. For example, `TAP` is "tap" while `TAPD` is "tapped". If a word cannot "fit" the `-D` key, either due to the pinky being occupied with `-S`, or because the word already ends in `-D`, we can strike `-D` alone as a second chord. In this lesson, `-D` will only be used in single chords, either as part of the word or to make a chord past tense.
 
 ## Plurals
 
