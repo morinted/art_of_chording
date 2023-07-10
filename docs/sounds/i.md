@@ -27,10 +27,10 @@ This is the lax version of "i", as found in:
 | :---- | :---------- | :---------------------------- |
 | EU    | I           | Always capitalized            |
 | HEU   | hi          | Spelling instead of phonetics |
-| HEUS  | his         | Spelling instead of phonetics |
+| HEUS  | his         |                               |
 | WEU   | which       |                               |
 | PWEU  | by          | Spelling instead of phonetics |
-| WREU  | write       |                               |
+| WREU  | write       | Spelling instead of phonetics |
 | THEU  | think       |                               |
 | HREUF | live        |                               |
 | HREUL | little      |                               |
