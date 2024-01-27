@@ -44,7 +44,7 @@ Now we can write complex numbers like "602208" in just two strokes: `#TOEUF #TOL
 Write the English sentence represented by these outlines, including punctuation.
 
 1. `E H #TO OR SO TP-PL`
-2. `-F -T #SAO E KEPT #AEUP KW-PL OR HAF TP-PL`
+2. `-F -T #SAO E KEPT #AEUP KW-BG OR HAF TP-PL`
 3. `WHA R -T #ST STEPS H-F`
 
 ### 2. Find outlines
