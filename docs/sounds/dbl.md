@@ -84,5 +84,5 @@ Remember that if you can't figure out an outline, you can look it up in the theo
 Find steno outlines that will write these English sentences, including punctuation.
 
 1. Did you believe what she was about to do?
-2. Will you pick the raft and the deck?
+2. Will you pack the raft and the deck?
 3. All right already, leave us out.
