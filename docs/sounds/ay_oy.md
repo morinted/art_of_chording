@@ -74,7 +74,7 @@ Find steno outlines that will write these English sentences, including punctuati
 
 1. The soil there is sort of wet...
 2. She has such a pretty face.
-3. We sold 4/5 of their mugs this shift.
+3. I did sell 4/5 of their mugs this shift.
 4. You should come with a shirt and/or dress.
 5. The date is set: 25/12/17.
 6. They blame the mayor for all his doubts, through and through.
