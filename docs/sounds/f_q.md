@@ -26,7 +26,7 @@ The Q sound in English is a combination of the K and W sounds, so the outline fo
 - `KWEL`: quell
 - `KWAD`: quad
 - `KWEURBG`: quirk
-- `SKWARB`: squash
+
 
 ## Briefs
 
@@ -55,8 +55,7 @@ Write the English sentence represented by these outlines, including punctuation.
 5. `-T RAT S PWABG TPR HER PWA*T TP-PL`
 6. `TPOL OUR TPAEPL KAR TO OUR HOUS TP-PL`
 7. `WHA TK U TKO THA TP-R H-F`
-8. `-T PHRAEUR WAS SKWARBD PWEU -T ROBG TP-PL`
-9. `AEU KWEUZ S AEU HREUL SET -F KWES TP-PL`
+8. `AEU KWEUZ S AEU HREUL SET -F KWES TP-PL`
 
 ## 2. Find outlines
 
