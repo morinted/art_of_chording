@@ -51,6 +51,7 @@ There are a lot of briefs that use Ns. This is not an extensive list.
 | TPH-PB | under       | What is under the N? Why, it's another N! It's N's all the way down. |
 | TPHU   | new         |                                                                      |
 | TPHEU  | any         |                                                                      |
+| TPHEUG | anything    |                                                                      |
 | TPHOG  | nothing     |                                                                      |
 | TPH-R  | nowhere     |                                                                      |
 | TPH-B  | nobody      |                                                                      |
