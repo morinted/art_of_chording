@@ -6,7 +6,7 @@ This lesson covers how you write the vowel sounds in "pure" and "poor".
 
 ## A note on phonetics
 
-Plover Theory is not strictly phonetic in the boundary between "you" and "oo". Phonologists or anyone familiar with the [International Phonetic Alphabet](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet) \(IPA\) will see that Plover is not very strict with its vowel boundaries in general. This is because there are 20 vowels in English, but only 14 vowel combinations possible in Plover. Because of that, the boundary between "YOU" and "OO" is mainly one of spelling.
+Plover Theory is not strictly phonetic in the boundary between "you" and "oo". Phonologists or anyone familiar with the [International Phonetic Alphabet](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet) \(IPA\) will see that Plover is not very strict with its vowel boundaries in general. This is because there are 20 vowels in English, but only 15 vowel combinations possible in Plover. Because of that, the boundary between "YOU" and "OO" is mainly one of spelling.
 
 ## Vowel you
 
